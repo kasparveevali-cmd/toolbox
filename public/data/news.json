@@ -1,0 +1,45 @@
+{
+  "updatedAt": "2026-10-06T15:16:16.133Z",
+  "items": [
+    {
+      "category": "Eesti",
+      "title": "Uue õiguskantsleri kandidaadi esitab Ülle Madise",
+      "summary": "Uue õiguskantsleri kandidaadi ettepaneku esitab riigikogule Ülle Madise, kinnitati ERR-ile presidendi kantseleist.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610158156/uue-oiguskantsleri-kandidaadi-esitab-ulle-madise",
+      "publishedAt": "2026-10-06T13:53:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "USA turud",
+      "title": "Hormuzi naftavoo taastumine pole diislinappust leevendanud",
+      "summary": "Ajaleht The Wall Street Journal kirjutab, et toornafta liigub taas läbi Hormuzi väina, kuid maailmas valitseb endiselt suur diislikütuse puudus. Seetõttu ei ole naftaekspordi taastumine suutnud kütusehindu alla tuua.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610158024/hormuzi-naftavoo-taastumine-pole-diislinappust-leevendanud",
+      "publishedAt": "2026-10-06T11:50:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "AfD sai esimest korda liidumaa parlamendi spiikri koha",
+      "summary": "Hiljuti saavutas parempopulistlik partei Alternatiiv Saksamaale (AfD) Saksi-Anhaltis suure valimisvõidu ning erakonna kandidaat Tobias Rausch valiti vasakpopulistide toel liidumaa parlamendi spiikriks.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610158153/afd-sai-esimest-korda-liidumaa-parlamendi-spiikri-koha",
+      "publishedAt": "2026-10-06T13:53:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Jäätmed sünnivad tegemata juhtimisotsustest",
+      "summary": "Euroopa Liit impordib igal aastal kümneid miljoneid tonne orgaanilist toorainet, ehkki kohalikus põllumajanduses ja kalanduses tekib samaaegselt massiliselt jäätmeid.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610157997/jaatmed-sunnivad-tegemata-juhtimisotsustest",
+      "publishedAt": "2026-10-06T11:17:00.000Z",
+      "summaryMode": "rss"
+    }
+  ],
+  "aiTip": {
+    "title": "AI nipp",
+    "text": "Lase AI-l võrrelda kahte dokumenti: palu esitada muudatused tabelina ning lisada iga väite juurde viide algtekstile. Kontrolli olulisemad erinevused ise üle."
+  }
+}

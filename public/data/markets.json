@@ -1,0 +1,68 @@
+{
+  "updatedAt": "2026-10-06T15:16:45.539Z",
+  "indices": [
+    {
+      "id": "sp500",
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "close": 7773.9501953125,
+      "changePct": 0.6633670396382074,
+      "sessionDate": "2026-10-05",
+      "fetchedAt": "2026-10-06T15:16:45.537Z"
+    },
+    {
+      "id": "nasdaq100",
+      "name": "Nasdaq-100",
+      "symbol": "^NDX",
+      "close": 31076.439453125,
+      "changePct": 0.8715605636231638,
+      "sessionDate": "2026-10-05",
+      "fetchedAt": "2026-10-06T15:16:45.093Z"
+    },
+    {
+      "id": "dow",
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "close": 51267.8984375,
+      "changePct": 0.17769226295218932,
+      "sessionDate": "2026-10-05",
+      "fetchedAt": "2026-10-06T15:16:45.387Z"
+    },
+    {
+      "id": "eurostoxx50",
+      "name": "Euro Stoxx 50",
+      "symbol": "^STOXX50E",
+      "close": 6242.14013671875,
+      "changePct": 0.05834955067323122,
+      "sessionDate": "2026-10-05",
+      "fetchedAt": "2026-10-06T15:16:45.521Z"
+    },
+    {
+      "id": "dax",
+      "name": "DAX",
+      "symbol": "^GDAXI",
+      "close": 25254.2109375,
+      "changePct": 0.09120342854294083,
+      "sessionDate": "2026-10-05",
+      "fetchedAt": "2026-10-06T15:16:45.330Z"
+    },
+    {
+      "id": "nikkei225",
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "close": 69946.859375,
+      "changePct": 2.397030242996867,
+      "sessionDate": "2026-10-05",
+      "fetchedAt": "2026-10-06T15:16:45.031Z"
+    },
+    {
+      "id": "omxtallinn",
+      "name": "OMX Tallinn",
+      "symbol": "^OMXTGI",
+      "close": 2232.919921875,
+      "changePct": -0.0733986411527554,
+      "sessionDate": "2026-10-05",
+      "fetchedAt": "2026-10-06T15:16:45.535Z"
+    }
+  ]
+}

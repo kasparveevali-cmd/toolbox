@@ -1,0 +1,15 @@
+:root {
+  --background: #f6f7f3;
+  --card: #fff;
+  --text: #2c332c;
+  --muted: #6c7665;
+  --border: #e5e9e0;
+  --positive: #47765a;
+  --negative: #a45d54;
+  --accent: #365744;
+  --radius: 11px;
+  --spacing: 8px;
+}
+.hourly-scroll {
+  position: relative;
+}

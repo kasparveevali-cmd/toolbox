@@ -1,0 +1,38 @@
+{
+  "name": "minu-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=24.6"
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "tsx --test tests/*.test.ts && python3 -m unittest discover -s tests -p '*_test.py'",
+    "test:browser": "playwright test",
+    "update:news": "node --use-env-proxy --use-system-ca --import tsx scripts/update-news.ts",
+    "update:markets": "node --use-env-proxy --use-system-ca --import tsx scripts/update-markets.ts",
+    "update:gtfs": "node --use-env-proxy --use-system-ca --import tsx scripts/update-gtfs.ts",
+    "update:data": "node --use-env-proxy --use-system-ca --import tsx scripts/refresh.ts"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "lucide-react": "^0.468.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^6.4.0",
+    "typescript": "^5.9.0",
+    "tsx": "^4.20.0",
+    "fast-xml-parser": "^5.3.0",
+    "@playwright/test": "^1.56.0"
+  }
+}

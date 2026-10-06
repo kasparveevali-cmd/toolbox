@@ -1,0 +1,48 @@
+name: Refresh public data
+on:
+  schedule:
+    - cron: "17 */2 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: public-data-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: npm ci --no-audit --no-fund
+      - name: Fetch due public datasets
+        id: refresh
+        continue-on-error: true
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: npm run update:data -- --due
+      - name: Validate retained and updated datasets
+        run: npx tsx scripts/validate-data.ts
+      - name: Commit only changed public data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/data/news.json public/data/markets.json public/data/bus25.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh public dashboard datasets'
+            git push origin HEAD:main
+          fi
+      - name: Report source failures
+        if: steps.refresh.outcome == 'failure'
+        run: |
+          echo 'Some public sources failed. Valid cached data was retained.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
