@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-10-08T10:33:13.752Z",
+  "updatedAt": "2026-10-08T12:40:00.129Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Vasakliit osaleb riigikogu valimistel: võitleme töötajate õiguste eest",
-      "summary": "Eestimaa Ühendatud Vasakparteist välja kasvanud Eesti Vasakliit plaanib osaleda kevadistel riigikogu valimistel. Erakonna uue põlvkonna liikmete sõnul on tegemist sisuliselt uue poliitilise jõuga, mille peamine eesmärk on võidelda töötajate õiguste eest.",
+      "title": "Herem: Eesti kaalub Dataseli uut kompromissettepanekut",
+      "summary": "Kaitseminister Martin Herem teatas, et Eestiga moonatarnete tõttu kohut käiv Itaaliasse registreeritud ettevõte Datasel esitas uue kompromissettepaneku, mida riik kaalub.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610160454/vasakliit-osaleb-riigikogu-valimistel-voitleme-tootajate-oiguste-eest",
-      "publishedAt": "2026-10-08T08:44:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Müügile tulid Eesti korvpallikoondise võõrsilmängu piletid Soome vastu",
-      "summary": "Alates neljapäevast kuni oktoobri lõpuni on müügil Eesti meeste korvpallikoondise maailmameistrivõistluste kvalifikatsiooniturniiri võõrsilmängu piletid Soome vastu.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610160586/muugile-tulid-eesti-korvpallikoondise-voorsilmangu-piletid-soome-vastu",
-      "publishedAt": "2026-10-08T10:13:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Kümme aastat kapis räägib teist lugu kui nädal kuumas",
-      "summary": "Materjali sees toimuvad aeglased muutused, mida märkame sageli alles siis, kui need hakkavad selle kasutamist segama. Eesti teadlaste kümneaastane katse näitas, et nädal kuumas võib anda aine pikaajalisest säilivusest eksitava pildi.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610160544/kumme-aastat-kapis-raagib-teist-lugu-kui-nadal-kuumas",
-      "publishedAt": "2026-10-08T09:32:00.000Z",
+      "url": "https://www.err.ee/1610160619/herem-eesti-kaalub-dataseli-uut-kompromissettepanekut",
+      "publishedAt": "2026-10-08T11:30:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Sõja 1687. päev: Ukraina hävitas Sotši lähistel Vene varilaevastiku tankeri",
-      "summary": "Ukraina ründas teisipäeva õhtul meredroonidega Venemaa lõunarannikul Sotši lähedal Vene varilaevastikud naftatankerit, süüdates selle tervenisti põlema.",
+      "title": "Geopoliitilised pinged ja tootmisseisakud suruvad naftahinda üles",
+      "summary": "Ajaleht The Wall Street Journal kirjutab, et naftaturul suurenesid korraga nii geopoliitilised kui ka ilmastikust tingitud tarneriskid ning rahvusvahelise energia võrdlusaluse Brenti toornafta hind kerkis neljapäeval ligi kaks protsenti.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610158531/soja-1687-paev-ukraina-havitas-sotsi-lahistel-vene-varilaevastiku-tankeri",
-      "publishedAt": "2026-10-07T02:44:00.000Z",
+      "url": "https://www.err.ee/1610160664/geopoliitilised-pinged-ja-tootmisseisakud-suruvad-naftahinda-ules",
+      "publishedAt": "2026-10-08T11:37:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Pildid: Kristjan Järvi astus Hamburgis lavale koos Briti popstaari Calum Scottiga",
+      "summary": "Dirigent Kristjan Järvi juhatas oktoobri algul Hamburgis kolme kontserti, kus orkestriga astusid lavale Saksamaa räppar Kontra K ning Briti popstaar Calum Scott. Järvi kõrval oli laval Lufthansa orkester ja ka seitse tema bändi Nordic Pulse muusikut.",
+      "source": "ERR",
+      "url": "https://kultuur.err.ee/1610161201/pildid-kristjan-jarvi-astus-hamburgis-lavale-koos-briti-popstaari-calum-scottiga",
+      "publishedAt": "2026-10-08T12:31:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "E-rehkendusel pani end proovile üle 10 700 inimese",
+      "summary": "Kolmandal üleriigilisel e-rehkendusel osales esimese kolme tunniga 10 739 inimest. Kõik ülesanded lahendas õigesti 375, rohkem kui eelnevatel aastatel.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610160646/e-rehkendusel-pani-end-proovile-ule-10-700-inimese",
+      "publishedAt": "2026-10-08T11:08:00.000Z",
       "summaryMode": "rss"
     }
   ],
