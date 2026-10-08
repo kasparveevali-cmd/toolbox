@@ -130,7 +130,18 @@ async function fixtures(page: Page) {
     const name = route.request().url().split("/").pop();
     return route.fulfill({
       json:
-        name === "news.json" ? news : name === "markets.json" ? markets : bus,
+        name === "news.json"
+          ? news
+          : name === "markets.json"
+            ? markets
+            : name === "lunch.json"
+              ? {
+                  checkedAt: null,
+                  offerDate: null,
+                  status: "unpublished",
+                  items: [],
+                }
+              : bus,
     });
   });
   await page.route("https://api.open-meteo.com/**", (route) =>

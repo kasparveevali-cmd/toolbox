@@ -58,6 +58,18 @@ export const busSchema = z.object({
   ),
 });
 export type NewsData = z.infer<typeof newsSchema>;
+export const lunchSchema = z.object({
+  checkedAt: timestamp.nullable(),
+  offerDate: z
+    .string()
+    .regex(/^\d{4}-\d{2}-\d{2}$/)
+    .nullable(),
+  status: z.enum(["available", "unpublished", "error"]),
+  items: z.array(
+    z.object({ name: z.string().min(1), price: z.string().min(1).nullable() }),
+  ),
+});
+export type LunchData = z.infer<typeof lunchSchema>;
 export type MarketsData = z.infer<typeof marketsSchema>;
 export type BusData = z.infer<typeof busSchema>;
 export type WeatherHour = {

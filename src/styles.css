@@ -402,7 +402,8 @@ h1 {
   margin-top: 12px;
 }
 .bus-card,
-.weather-card {
+.weather-card,
+.offers-card {
   padding: 22px;
 }
 .route-badge {
@@ -412,6 +413,58 @@ h1 {
   font-weight: 650;
   padding: 4px 8px;
   border-radius: 5px;
+}
+.offers-card {
+  grid-column: 1 / -1;
+}
+.offer-restaurant {
+  border-top: 1px solid var(--border);
+  padding-top: 15px;
+}
+.offer-restaurant h3 {
+  font-size: 13px;
+  font-weight: 550;
+}
+.offer-items {
+  list-style: none;
+  margin: 14px 0;
+  padding: 0;
+}
+.offer-items li {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 7px 0;
+  font-size: 12px;
+  line-height: 1.7;
+}
+.offer-items li + li {
+  border-top: 1px solid var(--border);
+}
+.offer-items strong {
+  white-space: nowrap;
+  font-size: 12px;
+  font-weight: 550;
+}
+.offer-message {
+  font-size: 12px;
+  line-height: 1.8;
+  color: var(--muted);
+  margin: 13px 0;
+}
+.offer-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 10px;
+  color: var(--muted);
+}
+.offer-link:hover {
+  color: var(--accent);
+}
+.offers-card .skeletons {
+  padding: 14px 0;
 }
 .bus-direction {
   display: flex;
@@ -768,7 +821,8 @@ h1 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
   .bus-card,
-  .weather-card {
+  .weather-card,
+  .offers-card {
     padding: 18px;
   }
   .header-time .timezone-label {
@@ -904,7 +958,8 @@ h1 {
     width: 100%;
   }
   .bus-card,
-  .weather-card {
+  .weather-card,
+  .offers-card {
     padding: 22px;
   }
   .weather-hour {

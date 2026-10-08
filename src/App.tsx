@@ -4,6 +4,7 @@ import { dashboard } from "./config/dashboard";
 import News from "./components/News";
 import Markets from "./components/Markets";
 import BusWidget from "./components/BusWidget";
+import DailyOffers from "./components/DailyOffers";
 import Weather from "./components/Weather";
 import { clock } from "./utils/time";
 export default function App() {
@@ -71,6 +72,7 @@ export default function App() {
               <Markets />
             </div>
             <aside className="sidebar">
+              <DailyOffers now={now} />
               <BusWidget now={now} />
               <Weather now={now} />
             </aside>
@@ -94,7 +96,8 @@ export default function App() {
           <p>
             Sait ei kasuta kontosid, küpsiseid, analüütikat ega brauseri
             püsimälu. Sõidusuuna valik kaob lehe värskendamisel. Uudised,
-            börsiandmed ja sõiduplaan on avalikud staatilised andmed.
+            börsiandmed, päevapakkumine ja sõiduplaan on avalikud staatilised
+            andmed.
           </p>
           <p>
             Ilmapäring edastab Open-Meteole ainult kahe ette määratud koha

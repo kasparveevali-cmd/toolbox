@@ -2,7 +2,14 @@ name: Refresh public data
 on:
   schedule:
     - cron: "17 */2 * * *"
+    # Covers both UTC+3 and UTC+2; the script gates actual Tallinn weekdays/hours.
+    - cron: "0,30 5-9 * * 1-5"
   workflow_dispatch:
+    inputs:
+      lunch_only:
+        description: Kontrolli ainult Lido päevapakkumist
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -29,14 +36,25 @@ jobs:
         continue-on-error: true
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: npm run update:data -- --due
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            if [ "${{ inputs.lunch_only }}" = "true" ]; then
+              npm run update:lunch
+            else
+              npm run update:data
+            fi
+          elif [ "${{ github.event.schedule }}" = "17 */2 * * *" ]; then
+            npm run update:data -- --due
+          else
+            npm run update:data -- --due --lunch-only
+          fi
       - name: Validate retained and updated datasets
         run: npx tsx scripts/validate-data.ts
       - name: Commit only changed public data
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add public/data/news.json public/data/markets.json public/data/bus25.json
+          git add public/data/news.json public/data/markets.json public/data/bus25.json public/data/lunch.json
           if ! git diff --cached --quiet; then
             git commit -m 'data: refresh public dashboard datasets'
             git push origin HEAD:main
@@ -44,5 +62,5 @@ jobs:
       - name: Report source failures
         if: steps.refresh.outcome == 'failure'
         run: |
-          echo 'Some public sources failed. Valid cached data was retained.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Some public sources failed. Cached data or an explicit source error state was saved.' >> "$GITHUB_STEP_SUMMARY"
           exit 1

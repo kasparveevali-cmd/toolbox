@@ -1,12 +1,12 @@
 # Minu Dashboard
 
-Eestikeelne isiklik päevaülevaade: neli lühikest uudist, seitse maailma börsiindeksit, bussi 25 järgmised väljumised ning kahe koha järgmise kaheksa täistunni ilm. React, TypeScript ja Vite; majutus GitHub Pagesis. Tavapärast taustaserverit pole vaja.
+Eestikeelne isiklik päevaülevaade: neli lühikest uudist, seitse maailma börsiindeksit, Lido päevapakkumine, bussi 25 järgmised väljumised ning kahe koha järgmise kaheksa täistunni ilm. React, TypeScript ja Vite; majutus GitHub Pagesis. Tavapärast taustaserverit pole vaja.
 
 ## Privaatsus
 
 Rakendus ei kogu ega salvesta külastaja andmeid. Puuduvad kontod, sisselogimine, küpsised, analüütika, jälgimine, sõrmejäljestamine ja telemeetria. Rakendus ei kasuta localStorage'it, sessionStorage'it, IndexedDB-d ega service worker'it. Bussi suunavalik elab ainult Reacti mälus ja lähtestub lehe värskendamisel. Seadme asukohta ei küsita.
 
-`public/data/` sisaldab ainult avalikke uudiseid, börsiandmeid ja sõiduplaani. Ilm laaditakse lehe avamisel otse Open-Meteost, ilma API võtme, küpsiste või viitaja päiseta; koordinaadid on ette määratud. Rakendus ei logi külastaja tegevust. Veebimajutaja GitHub ja ilmateenuse pakkuja näevad tavapärase ühenduse käigus IP-aadressi ning nende enda serverilogidele kehtivad nende reeglid. Nende logide puudumist ei saa see rakendus garanteerida.
+`public/data/` sisaldab ainult avalikke uudiseid, börsiandmeid, päevapakkumist ja sõiduplaani. Ilm laaditakse lehe avamisel otse Open-Meteost, ilma API võtme, küpsiste või viitaja päiseta; koordinaadid on ette määratud. Rakendus ei logi külastaja tegevust. Veebimajutaja GitHub ja ilmateenuse pakkuja näevad tavapärase ühenduse käigus IP-aadressi ning nende enda serverilogidele kehtivad nende reeglid. Nende logide puudumist ei saa see rakendus garanteerida.
 
 Ühtki API võtit ei lisata brauserikoodi. Valikuline OpenAI võti on ainult GitHub Actionsi repository secret; brauser ei pöördu OpenAI poole.
 
@@ -33,6 +33,7 @@ Eraldi uuendamiseks:
 npm run update:news
 npm run update:markets
 npm run update:gtfs
+npm run update:lunch
 ```
 
 Need käsud ei vaja salajasi võtmeid. OpenAI kokkuvõtteid tehakse ainult Actionsis. Node'i uuenduskäsud toetavad keskkonna HTTPS-proksit ja süsteemi usaldatud sertifikaate; TLS-kontroll jääb sisse.
@@ -83,14 +84,20 @@ Ilma võtmeta kasutatakse ERR-i eestikeelset pealkirja ja lühendatud RSS-kirjel
 
 **Buss.** `src/config/dashboard.ts` määrab liini, vedaja ning mõlema suuna peatusekoodid. `scripts/gtfs.py` töötleb ametliku ZIP-faili CSV-ridu voona, leiab `stop_code` kaudu sisemised `stop_id` väärtused ning kontrollib peatuste järjekorda ja vedajat. Allikas on registri praegune ühendatud voog `https://eu-gtfs.remix.com/estonia_unified_gtfs.zip` ([registri avaandmed](https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed)). Vana `peatus.ee/gtfs/gtfs.zip` suunab nüüd suletud rakenduse HTML-lehele; seda ei kasutata. Brauserisse lähevad ainult liini 25 väljumised ja vajalikud kalendrid. Arvestatakse nii tavalisi nädalapäevi kui `calendar_dates.txt` erandeid, ka ainult eranditega teenuseid, üle 24 tunni aegu ning GTFS-i keskpäevaankrut suve-/talveaja vahetusel. Sageduspõhist teenust ei esitata ekslikult täpsete aegadena. Brauser leiab valitud suuna kolm järgmist graafikujärgset väljumist jooksva Tallinna aja järgi. Need ei ole reaalajas sõiduki asukohaandmed.
 
+**Päeva pakkumised.** `scripts/providers/lunch.ts` loeb ainult [Lido allikalehte](https://www.paevapraad.ee/tallinn/ulemiste/lido-bistro-ulemiste/). Pakkumine on serveri tagastatud HTML-is: loetakse üksnes selle restorani `#restaurant_modal` plokki, mitte teisi samas vastuses olevaid restorane. Menüü vahekaardi ja paneeli ühine `menu_<Unix-ajatempel>` kinnitab pakkumise kuupäeva Tallinna keskööl. Allikalehe skripte ei käivitata ega lisata rakendusse. Toitude tekst ja olemasolevad hinnad salvestatakse `public/data/lunch.json` faili; puuduvaid hindu ei oletata.
+
+Actions kontrollib tööpäeviti kell 08.00–11.30 iga 30 minuti järel. UTC ajastus `0,30 5-9 * * 1-5` katab suve- ja talveaja; `Europe/Tallinn` kontroll jätab liigsed käivitused päringuta. Üks käivitus teeb ühe allikapäringu. Muutumata pakkumist ei kirjutata uuesti, mistõttu `checkedAt` tähistab viimast salvestatud sisukontrolli, mitte iga päringu aega. Käsitsi `update:lunch` või Actionsi **Refresh public data** valikuga **lunch_only** kontrollib ka väljaspool hommikust ajavahemikku; see valik ei uuenda teisi andmeallikaid. GitHub võib ajastatud töid viivitada.
+
+Brauser loeb ainult sama saidi JSON-faili; CORS-proksit, küpsiseid ega võtmeid pole vaja. Pakkumise kuupäeva kontrollitakse uuesti jooksva Tallinna päeva vastu, ka üle kesköö avatuks jäänud lehel. Eelmise päeva või kinnitamata kuupäevaga menüü asemel ilmub „Tänast päevapakkumist pole veel avaldatud.“ Allikapäringu või faili laadimise vea korral ilmub „Päevapakkumine pole hetkel saadaval“ ja allikalink. Allika rike salvestatakse eraldi veaseisundina, et varasem menüü ei varjaks ebaõnnestunud uuendust.
+
 **Ilm.** Muuda kohti ja koordinaate failis `src/config/locations.ts`. Liivalaia ja Tiskreoja jaoks on määratud esinduslikud punktid. Open-Meteo tagastab Unix-ajatemplid, nii et järgmised kaheksa täistundi valitakse korrektselt ka keskööl ja kella keeramisel. Mõlema koha päring ja veaseisund on sõltumatud. Open-Meteo tasuta teenuse puhul järgi selle mitteärilise kasutuse tingimusi; allikaviide on ka lehel.
 
-Ühe allika rikke korral viimast kehtivat avalikku andmefaili ei kustutata. Tühja andmestiku korral kuvatakse rahulik teade. Aegunud andmed on märgitud; väärtusi ega väljumisaegu ei mõelda välja. `scripts/validate-data.ts` ja brauser kontrollivad JSON-skeeme.
+Uudiste, turgude või bussi allika rikke korral viimast kehtivat avalikku andmefaili ei kustutata. Tühja andmestiku korral kuvatakse rahulik teade. Aegunud andmed on märgitud; väärtusi ega väljumisaegu ei mõelda välja. `scripts/validate-data.ts` ja brauser kontrollivad JSON-skeeme.
 
 ## Kõige olulisemad failid
 
 - `src/App.tsx`: päis, Tallinna kell ja vidinate paigutus.
-- `src/components/`: uudised, turud, buss, ilm ja jagatud seisundid.
+- `src/components/`: uudised, turud, päevapakkumised, buss, ilm ja jagatud seisundid.
 - `src/styles.css`, `src/tokens.css`: mobiili- ja töölauavaade ning kujunduse muutujad.
 - `src/config/locations.ts`: ilmakohad.
 - `src/config/dashboard.ts`: saidi nimi ja bussipeatused.
@@ -106,4 +113,6 @@ Uudiste mõlemad RSS-allikad, kõigi seitsme indeksi ajaloo laadimine ja mõlema
 
 **Bussi pärisandmed on nüüd kontrollitud:** ametlik ühendatud GTFS-voog laaditi edukalt ning `bus25.json` sisaldab mõlema suuna pärisväljumisi ja kalendreid. Peatusekoodid leiti sisemistest peatuse-ID-dest eraldi, vedaja ja peatuste järjestus kontrolliti. Vaikimisi suunas on 122 ja vastassuunas 125 teenusepõhist väljumiskirjet; mõlemast leiti jooksva Tallinna aja järgi järgmised kolm väljumist. Edaspidi uuendab sõiduplaani GitHub Actions.
 
-Pilvekeskkonna Chromiumi pärisilma võrgupäring vajab platvormi proksisertifikaadi usaldamist. Turvalise serveripoolse Node'i TLS-ühenduse ja brauseri kasutajaliidese loogika kontrollid on läbitud; Chromiumis tegeliku proksitud ilmapäringu õnnestumist ei väideta. Sertifikaadikontrolli pole välja lülitatud. Avaldamise töövoog on valmis; Pagesi esmane sisselülitamine **Settings → Pages → Source: GitHub Actions** vajab repositooriumi seadete haldamisõigust. Tavaline töövoo `GITHUB_TOKEN` ei saa Pagesi esimest korda sisse lülitada.
+Pilvekeskkonna Chromiumi pärisilma võrgupäring vajab platvormi proksisertifikaadi usaldamist. Turvalise serveripoolse Node'i TLS-ühenduse ja brauseri kasutajaliidese loogika kontrollid on läbitud; Chromiumis tegeliku proksitud ilmapäringu õnnestumist ei väideta. Sertifikaadikontrolli pole välja lülitatud. Pagesi avaldamine on selles repositooriumis sisse lülitatud. Uues repositooriumis vajab Pagesi esmane sisselülitamine **Settings → Pages → Source: GitHub Actions** seadete haldamisõigust. Tavaline töövoo `GITHUB_TOKEN` ei saa Pagesi esimest korda sisse lülitada.
+
+**Päevapakkumise kontroll:** allikaleht vastas GitHub Actionsis HTTP 200-ga ning päris-HTML-ist kinnitati 8. oktoobri 2026 pakkumise kuupäev, toit ja hind. Lisatud loogika- ja brauseritestid katavad vana/kinnitamata kuupäeva, suve- ja talveaja hommikuse ajastuse, allikavea, puuduva hinna, Tallinna kesköö ning paigutuse töölaual ja mobiilis.
