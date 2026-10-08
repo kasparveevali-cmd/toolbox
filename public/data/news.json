@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-10-08T04:31:37.839Z",
+  "updatedAt": "2026-10-08T06:38:35.478Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Poliitreklaami keeld sotsiaalmeedias paneb poliitikuid ise postitusi kirjutama",
-      "summary": "Kuigi seekordsetel riigikogu valimistel on piirang sotsiaalmeedias poliitilise reklaami ostmisele, panustavad erakonnad senisest enam ise postituste kirjutamisele ja loodavad sellele, et see kõnetab võimalikult suurt hulka inimesi.",
+      "title": "Eesti kristlik õigeusu kirik ja Pühtitsa klooster pöördusid Euroopa inimõiguste kohtusse",
+      "summary": "Eesti kristlik õigeusu kirik (EKÕK) ja Pühtitsa klooster esitasid Euroopa inimõiguste kohtule kaebused. Vaidluse all on kirikute ja koguduste seaduse muudatused, mis annavad mõlemale aega 28. detsembrini katkestada sidemed Vene õigeusu kirikuga.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610158063/poliitreklaami-keeld-sotsiaalmeedias-paneb-poliitikuid-ise-postitusi-kirjutama",
-      "publishedAt": "2026-10-08T03:31:00.000Z",
+      "url": "https://www.err.ee/1610160262/eesti-kristlik-oigeusu-kirik-ja-puhtitsa-klooster-poordusid-euroopa-inimoiguste-kohtusse",
+      "publishedAt": "2026-10-08T04:58:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Taani väitel ründab Venemaa tema Ukrainat varustavaid kaitsetööstusi",
+      "summary": "Venemaa on alustanud Ukraina jaoks varustust tootvate Taani ettevõtete vastaseid sabotaažirünnakuid, kuna on jõudnud järeldusele, et laiemad destabiliseerimiskatsed ei ole suutnud piirata lääne sõjalist toetust Ukrainale, ütles kolmapäeval Taani luureametnik.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610160346/taani-vaitel-rundab-venemaa-tema-ukrainat-varustavaid-kaitsetoostusi",
+      "publishedAt": "2026-10-08T06:28:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Neljapäev algab üleriigilise e-rehkendusega",
+      "summary": "Neljapäeval kell 10 algab kolmandat korda üleriigiline e-rehkendus, kuhu oodatakse osalema tuhandeid matemaatikahuvilisi üle Eesti. Mängulisel veebipõhisel matemaatikavõistlusel saab end proovile panna igaüks.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610159485/neljapaev-algab-uleriigilise-e-rehkendusega",
+      "publishedAt": "2026-10-08T04:46:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR",
       "url": "https://www.err.ee/1610158531/soja-1687-paev-ukraina-havitas-sotsi-lahistel-vene-varilaevastiku-tankeri",
       "publishedAt": "2026-10-07T02:44:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Meedia: EL jättis uuest sanktsioonipaketist Eesti palvel välja ühe Vene firma",
-      "summary": "Euroopa Liidus kokkulepitud, kuid mitte veel kinnitatud Venemaa-vastaste sanktsioonide 22. paketist jäeti Eesti palvel välja Venemaa ettevõte, mis tarnib haruldasi muldmetalle Eesti ettevõttele Silmet, väidab Raadio Vaba Euroopa ajakirjanik. ERR ei ole saanud väite tõepärasust veel ise kontrollida.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610160232/meedia-el-jattis-uuest-sanktsioonipaketist-eesti-palvel-valja-uhe-vene-firma",
-      "publishedAt": "2026-10-08T03:28:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "TÜ teadlased leidsid Eestist 10 000 uut põllusaart",
-      "summary": "Tartu Ülikooli (TÜ) teadlased leidsid tehisaru abiga Eestist 10 000 uut põllusaart. Põllumeestel on oluline nende asukohti teada, et edukamalt eurotoetusi taotleda.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610159608/tu-teadlased-leidsid-eestist-10-000-uut-pollusaart",
-      "publishedAt": "2026-10-07T10:39:00.000Z",
       "summaryMode": "rss"
     }
   ],
