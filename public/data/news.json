@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-10-09T06:38:36.136Z",
+  "updatedAt": "2026-10-09T08:33:38.594Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Kunstnike liidu toetusoksjon peatati võimaliku küberrünnaku tõttu",
-      "summary": "Eesti Kunstioksjonid pidi tehnilise tõrke tõttu kunstnike liidu toetusoksjoni neljapäeva õhtul peatama, see jätkub reedel. Tegemist võib olla küberrünnakuga.",
+      "title": "Eestis on tuhandeid koduseid hooldajaid, riik toetab neid keskmiselt 61 euroga",
+      "summary": "Eelmise aasta detsembri seisuga maksis riik hooldajatoetust 8111 inimesele ja keskmine toetussumma oli 61,47 eurot kuus, samas kui hooldekodus üldhooldusel oleva inimese kulu on riigile 50,37 eurot ööpäevas.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610161396/kunstnike-liidu-toetusoksjon-peatati-voimaliku-kuberrunnaku-tottu",
-      "publishedAt": "2026-10-08T16:28:00.000Z",
+      "url": "https://www.err.ee/1610160637/eestis-on-tuhandeid-koduseid-hooldajaid-riik-toetab-neid-keskmiselt-61-euroga",
+      "publishedAt": "2026-10-09T08:31:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Sõja 1688. päev: Ukraina ründas kaht suurt Vene naftatehast",
-      "summary": "Vene relvajõudude raketirünnakus Donetski oblastis Kramatorskis sai tabamuse buss, milles hukkus vähemalt 30 inimest. Venemaa kolmapäevastes õhurünnakutes Ukrainale hukkus vähemalt 28 inimest ja üle saja sai viga.",
+      "title": "WSJ: nurka surutud Iraan üritab kaalukaussi enda kasuks kallutada",
+      "summary": "Ajaleht The Wall Street Journal kirjutab, et veel eelmisel nädalal näis Iraan olevat nurka surutud ning islamiriigi haare Hormuzi väina üle nõrgenes. Nüüd püüab Iraan initsiatiivi tagasi haarata, võttes sihikule laevaliikluse ning toornafta hind rühib taas ülespoole.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610160229/soja-1688-paev-ukraina-rundas-kaht-suurt-vene-naftatehast",
-      "publishedAt": "2026-10-08T02:57:00.000Z",
+      "url": "https://www.err.ee/1610161816/wsj-nurka-surutud-iraan-uritab-kaalukaussi-enda-kasuks-kallutada",
+      "publishedAt": "2026-10-09T06:57:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Rooba koduklubi vallandas kehva hooaja alguse tõttu peatreeneri",
-      "summary": "Soome kõrgliigas hooaega kümne järjestikuse kaotusega alustanud Eesti koondislase Robert Rooba koduklubi Kouvola KooKoo vallandas peatreeneri Jouko Myrrä ja abitreeneri Tuukka Poikoneni.",
+      "title": "Kohus mõistis ebaseaduslike sisserändajate vedaja vangi",
+      "summary": "Pärnu maakohus mõistis Bulgaaria kodaniku kiirmenetluses süüdi ebaseaduslike sisserändajate riiki toomises ja karistas teda vangistusega. Prokuratuuri taotlusel on vahi alla võetud Saksamaa kodanik ja kaks Pakistani kodanikku, kelle suhtes kriminaalmenetlus jätkub.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610161774/rooba-koduklubi-vallandas-kehva-hooaja-alguse-tottu-peatreeneri",
-      "publishedAt": "2026-10-09T06:18:00.000Z",
+      "url": "https://www.err.ee/1610161891/kohus-moistis-ebaseaduslike-sisserandajate-vedaja-vangi",
+      "publishedAt": "2026-10-09T08:15:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "E-rehkendusel pani end proovile üle 10 700 inimese",
-      "summary": "Kolmandal üleriigilisel e-rehkendusel osales esimese kolme tunniga 10 739 inimest. Kõik ülesanded lahendas õigesti 375, rohkem kui eelnevatel aastatel.",
+      "title": "Tehnoloogiausku teadlased panustavad vähem kliimakaitsesse",
+      "summary": "Usk sellesse, et tehnoloogia areng päästab meid kliimakriisist, teeb meid laisemateks keskkonnakaitsjateks.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610160646/e-rehkendusel-pani-end-proovile-ule-10-700-inimese",
-      "publishedAt": "2026-10-08T11:08:00.000Z",
+      "url": "https://novaator.err.ee/1610159866/tehnoloogiausku-teadlased-panustavad-vahem-kliimakaitsesse",
+      "publishedAt": "2026-10-09T06:51:00.000Z",
       "summaryMode": "rss"
     }
   ],
