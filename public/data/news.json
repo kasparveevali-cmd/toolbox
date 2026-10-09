@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-10-09T12:36:03.556Z",
+  "updatedAt": "2026-10-09T14:36:11.589Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Kunstnike liidu toetusoksjon jätkub reedel",
-      "summary": "Eesti Kunstnike Liidu (EKL) toetusoksjon jätkub reedel kell 18 ARSi kunstilinnakus ja veebis. Eesti Kunstioksjonid OÜ (EKO) tehniline meeskond on neljapäevase tõrke põhjuse välja selgitanud ja kõrvaldanud ning süsteemi enne oksjoni jätkumist põhjalikult testinud.",
+      "title": "Jõks: pean EKÕK-i eduvõimalusi Euroopa inimõiguste kohtus väikseks",
+      "summary": "Eesti kristliku õigeusu kiriku (EKÕK) ja Pühtitsa kloostri Euroopa inimõiguste kohtule esitatud kaebuse eduvõimalused on väiksed, sest kaebus on ennatlik ning näitab EKÕK-i ja kloostri usaldamatust Eesti kohtusüsteemi vastu, ütles endine õiguskantsler Allar Jõks.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610162110/kunstnike-liidu-toetusoksjon-jatkub-reedel",
-      "publishedAt": "2026-10-09T11:58:00.000Z",
+      "url": "https://www.err.ee/1610162167/joks-pean-ekok-i-eduvoimalusi-euroopa-inimoiguste-kohtus-vaikseks",
+      "publishedAt": "2026-10-09T12:48:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Tribuntsov tuli maailmarekordiga lõppenud finaalis neljandaks",
+      "summary": "Eesti ujuja Ralf Tribuntsov teenis Taškendis toimuval maailmakarikaetapil meeste 50 meetri seliliujumises neljanda koha ajaga 22,72.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610162227/tribuntsov-tuli-maailmarekordiga-loppenud-finaalis-neljandaks",
+      "publishedAt": "2026-10-09T14:23:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Metsapõlengu jälg püsib mullaseenestikus aastakümneid",
+      "summary": "Loode-Eesti männikutes läbi viidud uuring näitas, et mullaseente liigilist koosseisu mõjutab tugevalt põlengust möödunud aeg. Mullaseenestik ei taastu siiski ühtlaselt ja seeneliikide üldine mitmekesisus võib olla sarnane ka siis, kui koosluse moodustavad kardinaalselt erinevad seened.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610162179/metsapolengu-jalg-pusib-mullaseenestikus-aastakumneid",
+      "publishedAt": "2026-10-09T13:12:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR",
       "url": "https://www.err.ee/1610161816/wsj-nurka-surutud-iraan-uritab-kaalukaussi-enda-kasuks-kallutada",
       "publishedAt": "2026-10-09T06:57:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Taani käsipallur kordas 25 aastat vana rekordit",
-      "summary": "Käsipalli Euroopa Meistrite liigas kordas taanlane Mathias Gidsel liiga rekordit ühes mängus visatud väravate arvestuses, kui aitas koduklubi Berliini Füchse 40:32 võidule FC Porto üle.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610162128/taani-kasipallur-kordas-25-aastat-vana-rekordit",
-      "publishedAt": "2026-10-09T12:22:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Viikingiaja skandinaavlased peitsid vägivallaohvrite luid koduseinte vahele",
-      "summary": "Skandinaavia raua- ja viikingiaja elanikud ei matnud kõiki ränga vägivalla ohvreid kalmistutele, vaid peitsid osa neist otse majapõrandate ja koduõuede alla, selgub Ühendkuningriigi teadlaste uuringust.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610161975/viikingiaja-skandinaavlased-peitsid-vagivallaohvrite-luid-koduseinte-vahele",
-      "publishedAt": "2026-10-09T10:14:00.000Z",
       "summaryMode": "rss"
     }
   ],
