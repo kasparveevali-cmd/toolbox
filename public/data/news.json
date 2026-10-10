@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T14:28:44.441Z",
+  "updatedAt": "2026-10-10T16:29:10.244Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Tagasivaade Karise presidendiajale: valitsejate sülekoera temast ei saanud",
-      "summary": "President Alar Karis kuulutas ametiajal välja 517 seadust, kuid jättis 11 seadust välja kuulutamata. Ekspertide hinnangul ei olnud ta valitsusele pelgalt kummitempel ega president, kes võimukandjate soovidele tingimusteta kaasa noogutab.",
+      "title": "Gripivaktsiinid jõuavad Eestisse tänavu tavalisest hiljem",
+      "summary": "Gripivaktsiinid jõuavad Eestisse tänavu tavalisest hiljem, sest viimasel hetkel muudeti vaktsiinide aluseks olevaid gripitüvesid. Oma osa on aga ka sellel, et väike Eesti turg ei kuulu ravimifirmade prioriteetide hulka.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610161219/tagasivaade-karise-presidendiajale-valitsejate-sulekoera-temast-ei-saanud",
-      "publishedAt": "2026-10-10T03:20:00.000Z",
+      "url": "https://www.err.ee/1610163040/gripivaktsiinid-jouavad-eestisse-tanavu-tavalisest-hiljem",
+      "publishedAt": "2026-10-10T15:39:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -22,7 +22,7 @@
     {
       "category": "Maailm / Euroopa",
       "title": "Michal USA-Venemaa diislidiilist: diktaatoritega lepped on tee põrgusse",
-      "summary": "Eesti peaminister Kristen Michal kritiseeris teravalt USA otsust Venemaaga diislilepe sõlmida. Riigikogu väliskomisjoni esimehe Marko Mihkelsoni hinnangul ajendas USA president Donald Trumpi Venemaaga diislikokkulepet sõlmima peagi toimuvad vahevalimised.",
+      "summary": "Eesti peaminister Kristen Michal (Reformierakond) kritiseeris teravalt USA otsust Venemaaga diislilepe sõlmida. Riigikogu väliskomisjoni esimehe Marko Mihkelsoni hinnangul ajendas USA president Donald Trumpi Venemaaga diislikokkulepet sõlmima peagi toimuvad vahevalimised.",
       "source": "ERR",
       "url": "https://www.err.ee/1610162971/michal-usa-venemaa-diislidiilist-diktaatoritega-lepped-on-tee-porgusse",
       "publishedAt": "2026-10-10T09:43:00.000Z",
@@ -30,11 +30,11 @@
     },
     {
       "category": "Varia",
-      "title": "Jan Villemson: kui TI hakkab õpetajat asendama",
-      "summary": "Ajalooline kogemus ei toeta lootust tehisintellekti abil õpetajate läbipõlemist vähendada. Kui õpetaja tahab, et tal õppeprotsessis mingi roll säiliks, peab ta hakkama tegelema asjadega, mis inimajule vähem sobivad, kirjutab Jan Villemson.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610161918/jan-villemson-kui-ti-hakkab-opetajat-asendama",
-      "publishedAt": "2026-10-10T07:32:00.000Z",
+      "title": "Metsapõlengu jälg püsib mullaseenestikus aastakümneid",
+      "summary": "Loode-Eesti männikutes läbi viidud uuring näitas, et mullaseente liigilist koosseisu mõjutab tugevalt põlengust möödunud aeg. Mullaseenestik ei taastu siiski ühtlaselt ja seeneliikide üldine mitmekesisus võib olla sarnane ka siis, kui koosluse moodustavad kardinaalselt erinevad seened.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610162179/metsapolengu-jalg-pusib-mullaseenestikus-aastakumneid",
+      "publishedAt": "2026-10-09T13:12:00.000Z",
       "summaryMode": "rss"
     }
   ],
