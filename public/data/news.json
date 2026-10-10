@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-10-10T02:30:52.014Z",
+  "updatedAt": "2026-10-10T04:31:06.344Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Tsahkna: meie poolt on surve olnud peal, et Silmet vabaneks Vene toormest",
-      "summary": "Eesti valitsus ja välisministeerium on avaldanud Silmetile survet, et ettevõte loobuks Venemaalt ostetud toorme kasutamisest ja kuigi asendust pole kerge leida, peab paika panema järgmiseks aastaks tähtaja, mil ettevõte Vene toormest loobub, ütles \"Aktuaalsest kaameras\" välisminister Margus Tsahkna.",
+      "title": "Tagasivaade Karise presidendiajale: valitsejate sülekoera temast ei saanud",
+      "summary": "President Alar Karis kuulutas ametiajal välja 517 seadust, kuid jättis 11 seadust välja kuulutamata. Ekspertide hinnangul ei olnud ta valitsusele pelgalt kummitempel ega president, kes võimukandjate soovidele tingimusteta kaasa noogutab.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610162347/tsahkna-meie-poolt-on-surve-olnud-peal-et-silmet-vabaneks-vene-toormest",
-      "publishedAt": "2026-10-09T18:38:00.000Z",
+      "url": "https://www.err.ee/1610161219/tagasivaade-karise-presidendiajale-valitsejate-sulekoera-temast-ei-saanud",
+      "publishedAt": "2026-10-10T03:20:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "USA turud",
+      "title": "FT: Ukraina jätkab naftatehaste ründamist hoolimata Trumpi ja Putini kokkuleppest",
+      "summary": "Väljaande Financial Times teatel jätkab Ukraina Venemaa naftatöötlemistehaste ründamist hoolimata USA ja Venemaa presidendi kokkuleppest. Venemaal Doni-äärses Rostovis puhkes ööl vastu laupäeva arvatava droonirünnaku käigus naftaterminalis ulatuslik tulekahju.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610162830/ft-ukraina-jatkab-naftatehaste-rundamist-hoolimata-trumpi-ja-putini-kokkuleppest",
+      "publishedAt": "2026-10-10T03:19:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -21,20 +30,11 @@
     },
     {
       "category": "Varia",
-      "title": "Turu-uuringud: Keskerakond tõusis suurima toetusega erakonnaks",
-      "summary": "Turu-uuringute oktoobrikuise erakondade toetusuuringu järgi tõusis suurima toetusega erakonnaks Keskerakond, kes möödus septembris esikohta hoidnud Isamaast.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610162194/turu-uuringud-keskerakond-tousis-suurima-toetusega-erakonnaks",
-      "publishedAt": "2026-10-09T13:35:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "USA turud",
-      "title": "WSJ: nurka surutud Iraan üritab kaalukaussi enda kasuks kallutada",
-      "summary": "Ajaleht The Wall Street Journal kirjutab, et veel eelmisel nädalal näis Iraan olevat nurka surutud ning islamiriigi haare Hormuzi väina üle nõrgenes. Nüüd püüab Iraan initsiatiivi tagasi haarata, võttes sihikule laevaliikluse ning toornafta hind rühib taas ülespoole.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610161816/wsj-nurka-surutud-iraan-uritab-kaalukaussi-enda-kasuks-kallutada",
-      "publishedAt": "2026-10-09T06:57:00.000Z",
+      "title": "Metsapõlengu jälg püsib mullaseenestikus aastakümneid",
+      "summary": "Loode-Eesti männikutes läbi viidud uuring näitas, et mullaseente liigilist koosseisu mõjutab tugevalt põlengust möödunud aeg. Mullaseenestik ei taastu siiski ühtlaselt ja seeneliikide üldine mitmekesisus võib olla sarnane ka siis, kui koosluse moodustavad kardinaalselt erinevad seened.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610162179/metsapolengu-jalg-pusib-mullaseenestikus-aastakumneid",
+      "publishedAt": "2026-10-09T13:12:00.000Z",
       "summaryMode": "rss"
     }
   ],
