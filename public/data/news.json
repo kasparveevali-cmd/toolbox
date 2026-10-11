@@ -1,31 +1,22 @@
 {
-  "updatedAt": "2026-10-11T10:29:46.511Z",
+  "updatedAt": "2026-10-11T12:35:57.073Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Õppimiskohustuse täitmiseks välisriigi veebiõppest ei piisa",
-      "summary": "Eestis elav õppimiskohustusega noor peab käima Eesti koolis või osalema kooli pidaja korraldatud õppes ning seda kohustust ei saa täita välisriigi koolis või veebiõppes osalemisega, leiab haridusministeerium, sest muidu poleks omavalitsustel võimalik kontrollida, kas ja millises mahus õpilane…",
+      "title": "Välisministeerium soovitab tungivalt vältida Saudi Araabia piirkonda reisimist",
+      "summary": "Sagenevate huthide rünnakute tõttu soovitab Eesti välisministeerium tungivalt vältida reisimist Saudi Araabiasse ja piirkonda.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610162191/oppimiskohustuse-taitmiseks-valisriigi-veebioppest-ei-piisa",
-      "publishedAt": "2026-10-11T06:50:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "USA turud",
-      "title": "FT: USA hoiatas Ukrainat, et rünnakud Venemaa vastu seavad ohtu luureinfo jagamise",
-      "summary": "USA presidendi Donald Trumpi administratsioon hoiatas pärast seda, kui Ukraina president Volodõmõr Zelenski oli kritiseerinud USA-Venemaa naftakokkulepet, Ukrainat, et kui rünnakud Venemaa naftataristu vastu jätkuvad, seab see ohtu luureinfo jagamise, kirjutab Financial Times (FT).",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610163019/ft-usa-hoiatas-ukrainat-et-runnakud-venemaa-vastu-seavad-ohtu-luureinfo-jagamise",
-      "publishedAt": "2026-10-10T12:17:00.000Z",
+      "url": "https://www.err.ee/1610163391/valisministeerium-soovitab-tungivalt-valtida-saudi-araabia-piirkonda-reisimist",
+      "publishedAt": "2026-10-11T10:53:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Kristi Raik: Trumpi ja Putini diil on häirekell Euroopale",
-      "summary": "Donald Trumpi administratsioon on arvatavasti mõistnud, et rahu ei saa sündida USA ja Venemaa kahepoolse leppe tulemusel, vaid see peab olema ka Ukrainaga läbi räägitud ja ukrainlastele vastuvõetav.",
+      "title": "FT: Kreml alustas jahti Euroopa kaitsefirmade tippjuhtidele",
+      "summary": "Lääne luureteenistused hoiatasid Euroopa kaitsetööstusettevõtete juhte, et Venemaa suurendab pingutusi nende tapmiseks, kirjutab väljaanne Financial Times.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610163379/kristi-raik-trumpi-ja-putini-diil-on-hairekell-euroopale",
-      "publishedAt": "2026-10-11T09:54:00.000Z",
+      "url": "https://www.err.ee/1610163433/ft-kreml-alustas-jahti-euroopa-kaitsefirmade-tippjuhtidele",
+      "publishedAt": "2026-10-11T12:24:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -35,6 +26,15 @@
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610162179/metsapolengu-jalg-pusib-mullaseenestikus-aastakumneid",
       "publishedAt": "2026-10-09T13:12:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "USA turud",
+      "title": "FT: USA hoiatas Ukrainat, et rünnakud Venemaa vastu seavad ohtu luureinfo jagamise",
+      "summary": "USA presidendi Donald Trumpi administratsioon hoiatas pärast seda, kui Ukraina president Volodõmõr Zelenski oli kritiseerinud USA-Venemaa naftakokkulepet, Ukrainat, et kui rünnakud Venemaa naftataristu vastu jätkuvad, seab see ohtu luureinfo jagamise, kirjutab Financial Times (FT).",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610163019/ft-usa-hoiatas-ukrainat-et-runnakud-venemaa-vastu-seavad-ohtu-luureinfo-jagamise",
+      "publishedAt": "2026-10-10T12:17:00.000Z",
       "summaryMode": "rss"
     }
   ],
