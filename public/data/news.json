@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T18:33:11.381Z",
+  "updatedAt": "2026-10-11T20:29:47.877Z",
   "items": [
     {
       "category": "Eesti",
@@ -11,12 +11,21 @@
       "summaryMode": "rss"
     },
     {
-      "category": "Maailm / Euroopa",
-      "title": "Pingilt sekkunud Gouram ja Hertha teenisid järjekordse võidu",
-      "summary": "Soufian Gouram ja Berliini Hertha teenisid Fürthi Greutheri üle 2:1 võidu ning eestlase koduklubi jätkab Saksamaa esiliiga tipus.",
+      "category": "USA turud",
+      "title": "Karu: Ukraina püüab muuta Venemaa jaoks sõjapidamise võimalikult kalliks",
+      "summary": "Viimasel nädalal on olnud Venemaal löögi all Yandexi andmekeskused ja naftataristu ning õhuväe staabiülem kolonel Fredi Karu ütles saates \"Ukraina stuudio\", et Venemaa võitlusvõimet see tõenäoliselt väga palju ei murra, aga ukrainlased üritavad sõjapidamist Venemaale võimalikult kalliks teha.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610163541/pingilt-sekkunud-gouram-ja-hertha-teenisid-jarjekordse-voidu",
-      "publishedAt": "2026-10-11T17:07:00.000Z",
+      "url": "https://www.err.ee/1610163619/karu-ukraina-puuab-muuta-venemaa-jaoks-sojapidamise-voimalikult-kalliks",
+      "publishedAt": "2026-10-11T20:04:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Kuusmaa: peame tugevate euromängudega hakkama saama",
+      "summary": "Eesti meister korvpallis Tartu Ülikool Maks& Moorits on pidanud kahes sarjas kokku viis mängu, millest on võitnud kaks. Juba kolmapäeval ootab neid Põhja-Makedoonias FIBA Euroopa karikasarja mäng Skopje meeskonnaga.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610163589/kuusmaa-peame-tugevate-euromangudega-hakkama-saama",
+      "publishedAt": "2026-10-11T20:23:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -26,15 +35,6 @@
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610162179/metsapolengu-jalg-pusib-mullaseenestikus-aastakumneid",
       "publishedAt": "2026-10-09T13:12:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "USA turud",
-      "title": "FT: USA hoiatas Ukrainat, et rünnakud Venemaa vastu seavad ohtu luureinfo jagamise",
-      "summary": "USA presidendi Donald Trumpi administratsioon hoiatas pärast seda, kui Ukraina president Volodõmõr Zelenski oli kritiseerinud USA-Venemaa naftakokkulepet, Ukrainat, et kui rünnakud Venemaa naftataristu vastu jätkuvad, seab see ohtu luureinfo jagamise, kirjutab Financial Times (FT).",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610163019/ft-usa-hoiatas-ukrainat-et-runnakud-venemaa-vastu-seavad-ohtu-luureinfo-jagamise",
-      "publishedAt": "2026-10-10T12:17:00.000Z",
       "summaryMode": "rss"
     }
   ],
