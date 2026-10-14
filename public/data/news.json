@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-14T16:46:53.632Z",
+  "updatedAt": "2026-10-14T18:52:48.113Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Fotod: president Madise kohtus Helsingis Soome presidendi Stubbiga",
-      "summary": "President Ülle Madise arutas Helsingis Soome presidendi Alexander Stubbiga kohtudes Eesti ja Soome lähedast koostööd, Euroopa julgeolekut, Ukraina toetamist, Põhjala-Balti koostööd.",
+      "title": "Eestis tähistati rahvusvahelist kaisukarude päeva",
+      "summary": "Rahvusvaheliselt tähistatakse kolmapäeval päeva, mil tööle ja kooli võib kohvitopsi ja koolikoti kõrval kaasa võtta kaisukaru. Nii olid mõmmid liikvel ka erinevates asutustes üle Eesti.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610166308/fotod-president-madise-kohtus-helsingis-soome-presidendi-stubbiga",
-      "publishedAt": "2026-10-14T14:36:00.000Z",
+      "url": "https://www.err.ee/1610166424/eestis-tahistati-rahvusvahelist-kaisukarude-paeva",
+      "publishedAt": "2026-10-14T18:29:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -21,20 +21,20 @@
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Meedia: FBI juht saabus Venemaale visiidile",
-      "summary": "USA föderaalse juurdlusbüroo (FBI) direktor Kash Patel saabus Venemaale visiidile, teatas USA meediakanal MS NOW kolmapäeval kahele allikale viidates.",
+      "title": "Tartu Ülikool avas Euroopa karikasarjas võiduarve, Kalev kaotas",
+      "summary": "Tartu Ülikool Maks & Moorits teenis FIBA Euroopa karikasarjas esimese võidu. Bigbank/Kalev oli sunnitud vastu võtma esimese kaotuse.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610166418/meedia-fbi-juht-saabus-venemaale-visiidile",
-      "publishedAt": "2026-10-14T16:41:00.000Z",
+      "url": "https://sport.err.ee/1610166451/tartu-ulikool-avas-euroopa-karikasarjas-voiduarve-kalev-kaotas",
+      "publishedAt": "2026-10-14T18:32:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Doktoritöö: kunstiõpetajate pandeemiaaegsetest kogemustest said õpetamismustrid",
-      "summary": "Kui kunstitunnid COVID-19 pandeemia ajal veebi kolisid, pidid õpetajad leidma viise, kuidas praktilist õppeainet ekraani vahendusel õpetada.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610166280/doktoritoo-kunstiopetajate-pandeemiaaegsetest-kogemustest-said-opetamismustrid",
-      "publishedAt": "2026-10-14T14:10:00.000Z",
+      "title": "Lõuna-Eestis uuritakse põhjavee kasutamist soojuse tootmiseks",
+      "summary": "Lõuna-Eestis algasid geoloogilised uuringud, mille abil selgitatakse välja piirkond, kuhu tasub ehitada maakütte katsejaam, mis ammutab soojusenergiat põhjaveest.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610166442/louna-eestis-uuritakse-pohjavee-kasutamist-soojuse-tootmiseks",
+      "publishedAt": "2026-10-14T18:27:00.000Z",
       "summaryMode": "rss"
     }
   ],
