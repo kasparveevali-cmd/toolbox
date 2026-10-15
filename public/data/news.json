@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-15T08:47:32.178Z",
+  "updatedAt": "2026-10-15T10:45:37.742Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Euroopa Prokuratuur ei hakka Dataseli uurimise asjus Eestile infot jagama",
-      "summary": "Euroopa Prokuratuur teatas, et ei hakka riigikogu korruptsioonivastasele erikomisjonile Dataseliga seotud pooleliolevat uurimist kommenteerima.",
+      "title": "Hiina avaldas muret Eesti poliitikute osalemise üle Taiwani üritusel",
+      "summary": "Hiina Rahvavabariigi suursaatkond Eestis esitas riigikogule ametliku noodi seoses riigikogu liikmete osalemisega Taiwani rahvuspüha üritusel Tallinnas.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610166730/euroopa-prokuratuur-ei-hakka-dataseli-uurimise-asjus-eestile-infot-jagama",
-      "publishedAt": "2026-10-15T07:09:00.000Z",
+      "url": "https://www.err.ee/1610166799/hiina-avaldas-muret-eesti-poliitikute-osalemise-ule-taiwani-uritusel",
+      "publishedAt": "2026-10-15T10:11:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -21,20 +21,20 @@
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Anthropic hoiatas end kodumasinates paljundavate TI-agentide eest",
-      "summary": "Maailma juhtiva TI-arendaja insenerid hoiatavad, et uued ja väikesed, ent tõhusad TI-mudelid võivad end internetti ühendatud võõrastes seadmetes ise käigus hoida ja paljundada. Halvemal juhul võib olla verstapostini jäänud vaid mõni kuu, vahendab R2 tehnikakommentaaris Kristjan Port.",
+      "title": "Tamm jõudis Hiinas veerandfinaali",
+      "summary": "Tennisist Kristjan Tamm (ATP 1119.) sai Qian Daohu World Tennis M25 turniiril hea võidu, kui alistas teises ringis kaheksandana asetatud Anton Sheppi (ATP 504.) 6:3, 3:6, 6:3 ja jõudis veerandfinaali.",
       "source": "ERR",
-      "url": "https://novaator.err.ee/1610166817/anthropic-hoiatas-end-kodumasinates-paljundavate-ti-agentide-eest",
-      "publishedAt": "2026-10-15T08:39:00.000Z",
+      "url": "https://sport.err.ee/1610166862/tamm-joudis-hiinas-veerandfinaali",
+      "publishedAt": "2026-10-15T09:55:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Liis Kuresoo: metsade üle otsustades tuleb näha tervikpilti",
-      "summary": "Metsade tuleviku üle otsustades tuleb arvestada nende ökoloogilist, majanduslikku ja sotsiaalset rolli tervikuna, kirjutab Tartu Ülikooli säästliku metsanduse nooremteadur Liis Kuresoo.",
+      "title": "Anthropic hoiatas end kodumasinates paljundavate TI-agentide eest",
+      "summary": "Maailma juhtiva TI-arendaja insenerid hoiatavad, et uued ja väikesed, ent tõhusad TI-mudelid võivad end internetti ühendatud võõrastes seadmetes ise käigus hoida ja paljundada. Halvemal juhul võib olla verstapostini jäänud vaid mõni kuu, vahendab R2 tehnikakommentaaris Kristjan Port.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610166796/liis-kuresoo-metsade-ule-otsustades-tuleb-naha-tervikpilti",
-      "publishedAt": "2026-10-15T08:08:00.000Z",
+      "url": "https://novaator.err.ee/1610166817/anthropic-hoiatas-end-kodumasinates-paljundavate-ti-agentide-eest",
+      "publishedAt": "2026-10-15T08:39:00.000Z",
       "summaryMode": "rss"
     }
   ],
