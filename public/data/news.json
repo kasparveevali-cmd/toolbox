@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-16T08:46:57.613Z",
+  "updatedAt": "2026-10-16T10:44:33.772Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Toomas Uibo ei plaani järgmistel riigikogu valimistel kandideerida",
-      "summary": "Eesti 200 riigikogu fraktsiooni esimees Toomas Uibo teatas neljapäeval sotsiaalmeedia kommentaariumis, et ei kavatse järgmistel riigikogu valimistel kandideerida.",
+      "title": "Kiviberg ja Uibo: Eesti 200 ei peaks riigikogu valimistel kandideerima",
+      "summary": "Eesti 200 riigikogu fraktsiooni liige Ando Kiviberg ja fraktsiooni esimees Toomas Uibo rääkisid ERR-ile, et Eesti 200 ei peaks märtsikuistel valimistel kandideerima ning mõistlikum oleks valmistuda korralikult 2031. aasta riigikogu valimisteks.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610168446/toomas-uibo-ei-plaani-jargmistel-riigikogu-valimistel-kandideerida",
-      "publishedAt": "2026-10-16T07:56:00.000Z",
+      "url": "https://www.err.ee/1610168464/kiviberg-ja-uibo-eesti-200-ei-peaks-riigikogu-valimistel-kandideerima",
+      "publishedAt": "2026-10-16T08:47:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -21,20 +21,20 @@
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Maailma riigid loobusid küberohte tekitavast lisasekundist",
-      "summary": "Riigid otsustasid regulaarselt lisatavast liigsekundist loobuda, et kaitsta kogu maailma arvutisüsteeme ootamatute krahhide eest. Edaspidi viivad riigid aatomikellade ja astronoomilise aja kooskõlla alles siis, kui vahe käriseb terve tunni pikkuseks.",
+      "title": "Soome vähendab mootorikütuse hinnatõusu leevendamiseks automaksu",
+      "summary": "Soome valitsus jõudis kokkuleppele mootorikütuse kõrge hinna leevendamise meetmetes.",
       "source": "ERR",
-      "url": "https://novaator.err.ee/1610168428/maailma-riigid-loobusid-kuberohte-tekitavast-lisasekundist",
-      "publishedAt": "2026-10-16T07:58:00.000Z",
+      "url": "https://www.err.ee/1610168624/soome-vahendab-mootorikutuse-hinnatousu-leevendamiseks-automaksu",
+      "publishedAt": "2026-10-16T10:30:01.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Elina Masing toob Kanuti Gildi Saalis publiku ette lavastuse \"Replica\"",
-      "summary": "4. novembril esietendub Kanuti Gildi Saalis Elina Masingu ja TÜ Viljandi Kultuuriakadeemia etenduskunstide lõpukursuse lavastus \"Replica\", mille põhimotiiviks on kibestumine.",
-      "source": "ERR",
-      "url": "https://kultuur.err.ee/1610168386/elina-masing-toob-kanuti-gildi-saalis-publiku-ette-lavastuse-replica",
-      "publishedAt": "2026-10-16T07:42:00.000Z",
+      "title": "Õpilasuurija leidis Saaremaalt uue veemardikaliigi",
+      "summary": "Kuressaare Hariduse kooli õpilane uuris, milliseid Eesti veekogudes tavalisi ja hästi nähtavaid veemardikaid ehk ujureid Saaremaal leidub. Töö käigus avastas ta Saaremaalt esmakordselt rabaujuri asurkonna.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610168539/opilasuurija-leidis-saaremaalt-uue-veemardikaliigi",
+      "publishedAt": "2026-10-16T09:37:00.000Z",
       "summaryMode": "rss"
     }
   ],
