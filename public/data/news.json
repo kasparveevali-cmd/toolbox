@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-10-16T04:44:22.803Z",
+  "updatedAt": "2026-10-16T06:55:34.923Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Ministeerium plaanib Eesti passid taas siniseks teha",
-      "summary": "Siseministeerium plaanib uuendada Eesti passide kujundust ja lisada neisse uusi turvaelemente. Muudatused tulevad mitmes järgus ning praegused passid kehtivad nende kehtivusaja lõpuni.",
+      "title": "Riigikogu EL-i asjade komisjon valis esimeheks Kadri Tali",
+      "summary": "Riigikogu Euroopa Liidu asjade komisjon (ELAK) valis reedel komisjoni esimeheks Kadri Tali (Eesti 200), komisjoni aseesimehena jätkab Vladimir Arhipov (Keskerakond).",
       "source": "ERR",
-      "url": "https://www.err.ee/1610168209/ministeerium-plaanib-eesti-passid-taas-siniseks-teha",
-      "publishedAt": "2026-10-16T03:30:00.000Z",
+      "url": "https://www.err.ee/1610168347/riigikogu-el-i-asjade-komisjon-valis-esimeheks-kadri-tali",
+      "publishedAt": "2026-10-16T06:32:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Siemensi investeeringu mõju Eestile sõltub Skeletoni tegevuse jätkamisest",
-      "summary": "Saksamaa tehnoloogiakontsern Siemens investeerib Skeletoni vähemalt sada miljonit eurot, mis ettevõtte teatel annab võimaluse arendada tegevust USA turul. Mil määral tehing Eesti majandusse jõuab, oleneb sellest, kui palju Skeletoni tegevusest Eestis jätkub.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610167177/siemensi-investeeringu-moju-eestile-soltub-skeletoni-tegevuse-jatkamisest",
-      "publishedAt": "2026-10-15T15:52:00.000Z",
+      "title": "Vaibkoodija lõi mõne nädalaga Photoshopi ja MS Office'i tasuta koopiad",
+      "summary": "Kogenud arendaja lõi tehisaru abil vaid loetud nädalatega tasuta koopiad maailma kasutatuimatest programmidest, nagu Photoshop ja Microsoft Office.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610164906/vaibkoodija-loi-mone-nadalaga-photoshopi-ja-ms-office-i-tasuta-koopiad",
+      "publishedAt": "2026-10-13T06:49:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Soome vähendab mootorikütuse hinnatõusu leevendamiseks automaksu",
-      "summary": "Soome valitsus jõudis kokkuleppele mootorikütuse kõrge hinna leevendamise meetmetes ning langetab muuhulgas iga-aastast automaksu. Kokku läheb see maksma 60 miljonit eurot, aga kiiret hinnalangust eratarbijal bensiinijaamas loota ei ole.",
+      "title": "Sinijärve raamatusoovitused: Arto Paasilinna oskab viia lugeja süva-Soome",
+      "summary": "Rahvusraamatukogu kultuurinõuniku Karl Martin Sinijärve seekordsete raamatusoovituste hulka mahtusid Pantokraatori album \"William Shakespeare'i sonetid\", Boris Vildé Loomingu Raamatukogus ilmunud päevik ja kirjad ning Arto Paasilinna \"Armas mürgikeetja\".",
       "source": "ERR",
-      "url": "https://www.err.ee/1610168212/soome-vahendab-mootorikutuse-hinnatousu-leevendamiseks-automaksu",
-      "publishedAt": "2026-10-16T03:40:00.000Z",
+      "url": "https://kultuur.err.ee/1610168287/sinijarve-raamatusoovitused-arto-paasilinna-oskab-viia-lugeja-suva-soome",
+      "publishedAt": "2026-10-16T06:06:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Eleri Lillemäe: tehnoloogia võimekus üksi ei taga tõhusat riigikaitset",
-      "summary": "Kaitsetehnoloogia tegelik väärtus ei sõltu üksnes selle tehnilisest võimekusest, vaid ka inimeste usaldusest, hoiakutest ja oskusest uusi lahendusi kasutada, kirjutab Kaitseväe akadeemia militaarsotsioloogia teadur Eleri Lillemäe.",
+      "title": "Vahur Maask: odavam elektritootmine ei taga alati väiksemat elektriarvet",
+      "summary": "Kümne aastaga on taastuvenergia osakaal Eesti elektritootmises kasvanud viis korda. Kui taastuvenergia on soodne, siis miks räägime samal ajal suurtest elektriarvetest, küsib Tallinna Tehnikaülikooli elektrotehnika ja elektroonika teadur Vahur Maask.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610167024/eleri-lillemae-tehnoloogia-voimekus-uksi-ei-taga-tohusat-riigikaitset",
-      "publishedAt": "2026-10-15T11:49:00.000Z",
+      "url": "https://novaator.err.ee/1610167066/vahur-maask-odavam-elektritootmine-ei-taga-alati-vaiksemat-elektriarvet",
+      "publishedAt": "2026-10-16T06:21:00.000Z",
       "summaryMode": "rss"
     }
   ],
