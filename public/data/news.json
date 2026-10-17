@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-10-17T04:42:45.936Z",
+  "updatedAt": "2026-10-17T06:51:16.536Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Tallinnas Juhkentali tänaval avati uue ilme saanud varjumiskoht",
-      "summary": "Tallinna linnavalitsus näitas rahvale esimest avalikku varjumiskohta tänaval. Paarkümmend inimest mahutav rajatis on kingitus turvaettevõttelt Citysec ja kaitseb seesolijaid küll mitte raketi otsetabamuse vastu, küll aga kildude ja prügi eest, kui plahvatus toimub 50 meetri kaugusel.",
+      "title": "Kristina Kallase nõunik lahkub ja läheb sotsidesse",
+      "summary": "Eesti 200 esimehe, haridus- ja teadusministri Kristina Kallase kauane nõunik Daniel Kõiv liitub Sotsiaaldemokraatliku Erakonnaga (SDE) ja kandideerib riigikogu valimistel Tartus.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610168983/tallinnas-juhkentali-tanaval-avati-uue-ilme-saanud-varjumiskoht",
-      "publishedAt": "2026-10-16T18:27:00.000Z",
+      "url": "https://www.err.ee/1610169127/kristina-kallase-nounik-lahkub-ja-laheb-sotsidesse",
+      "publishedAt": "2026-10-17T04:41:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Tehasejuht Riho Iskül: riigi tööstuspoliitika pole lõpuni arusaadav",
-      "summary": "Ehitusmaterjale tootva Kunda Heidelberg Materialsi (endise Kunda tsemenditehase) juht Riho Iskül avaldas Vikerraadio \"Reedeses intervjuus\" lootust, et suures plaanis on Eestis tööstuspoliitikaga hästi, ent esineb kummalisi anomaaliaid, näiteks seadustega turumajandusse sekkumine.",
+      "title": "Ukraina õhurünnak tabas Vene energiarajatist 2400 kilomeetri kaugusel Surgutis",
+      "summary": "Ukraina ründas reedel edukalt Surguti gaasikondensaadi stabiliseerimise tehast Venemaal, mis asub Ukraina piirist 2400 kilomeetri kaugusel. Venemaa Rjazani naftatöötlemistehas sulges Ukraina õhurünnakute järel ühe oma peamistest toornafta destilleerimisseadmetest.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610168785/tehasejuht-riho-iskul-riigi-toostuspoliitika-pole-lopuni-arusaadav",
-      "publishedAt": "2026-10-17T03:50:00.000Z",
+      "url": "https://www.err.ee/1610169160/ukraina-ohurunnak-tabas-vene-energiarajatist-2400-kilomeetri-kaugusel-surgutis",
+      "publishedAt": "2026-10-17T06:27:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Trump pani kongressis vastu võetud Vene-sanktsioonid pausile",
-      "summary": "USA president Donald Trump allkirjastas reedel täitevkorralduse, millega loobutakse laiaulatuslikest Venemaa energiatulusid sihtivatest sanktsioonidest ja tollide kehtestamisest, kuigi oli vastava seaduse alles eelmisel kuul allkirjastanud.",
+      "title": "Professor: psühhedeelikumiravi elujõulisus sõltub tõhusast järelvalvest",
+      "summary": "Kuigi psühhedeelikumid, nagu ketamiin ja psilotsübiin, on muutunud maailma vaevava vaimse tervise kriisi mõjul parketikõlbulikumaks ja võiksid aidata paljusid patsiente, peab vaimustus käima käsikäes tõenduspõhisusega, leiab Londoni Imperial College'is psühhofarmakoloogia ja psühhiaatria kliinilise…",
       "source": "ERR",
-      "url": "https://www.err.ee/1610169115/trump-pani-kongressis-vastu-voetud-vene-sanktsioonid-pausile",
-      "publishedAt": "2026-10-17T03:35:00.000Z",
+      "url": "https://novaator.err.ee/1610168602/professor-psuhhedeelikumiravi-elujoulisus-soltub-tohusast-jarelvalvest",
+      "publishedAt": "2026-10-17T06:30:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Lähisuhtevägivalla toimepanijad otsivad harva iseseisvalt abi",
-      "summary": "Eesti elanikud toetavad lähisuhtevägivalla toimepanijate rangemat karistamist. Seda eelkõige lootuses, et see aitab vägivalda ennetada või vähendada. Teaduskirjanduse järgi aitavad vägivalla vähendamisele kaasa eelkõige abiprogrammid. Abivajajad jõuavad neisse aga iseseisvalt harva.",
+      "title": "EM arst: ketamiin mõjub ajumusklitele esmast tuge pakkuva steroidina",
+      "summary": "Ketamiin võimaldab ravimresistentse depressiooni all vaevlevate inimeste kannatusi edukalt leevendada, osutab valdkonna üks peamisi teerajajaid Lowan Stewart.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610168782/lahisuhtevagivalla-toimepanijad-otsivad-harva-iseseisvalt-abi",
-      "publishedAt": "2026-10-16T13:17:00.000Z",
+      "url": "https://novaator.err.ee/1610166169/em-arst-ketamiin-mojub-ajumusklitele-esmast-tuge-pakkuva-steroidina",
+      "publishedAt": "2026-10-17T06:30:00.000Z",
       "summaryMode": "rss"
     }
   ],
