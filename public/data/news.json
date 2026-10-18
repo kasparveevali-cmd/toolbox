@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T02:41:56.622Z",
+  "updatedAt": "2026-10-18T04:43:02.635Z",
   "items": [
     {
       "category": "Eesti",
@@ -21,20 +21,20 @@
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Rooba viskas värava, kuid KooKoo õudus jätkus",
-      "summary": "Eesti jäähokikoondislane Robert Rooba viskas Soome kõrgliigas oma hooaja teise värava.",
+      "title": "Ukraina korraldas suure õhurünnaku Peterburi piirkonnas",
+      "summary": "Ukraina korraldas ööl vastu pühapäeva laiaulatusliku õhurünnaku Venemaa suuruselt teisele linnale Peterburile ja seda ümbritsevale regioonile, tabades energiaobjekte ja andmekeskust.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610169445/rooba-viskas-varava-kuid-kookoo-oudus-jatkus",
-      "publishedAt": "2026-10-17T20:40:00.000Z",
+      "url": "https://www.err.ee/1610169529/ukraina-korraldas-suure-ohurunnaku-peterburi-piirkonnas",
+      "publishedAt": "2026-10-18T03:48:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "EM arst: ketamiin mõjub ajumusklitele esmast tuge pakkuva steroidina",
-      "summary": "Ketamiin võimaldab ravimresistentse depressiooni all vaevlevate inimeste kannatusi edukalt leevendada, osutab valdkonna üks peamisi teerajajaid Lowan Stewart.",
+      "title": "Tehisaru aitab põllumehel andmed paremini enda kasuks tööle panna",
+      "summary": "Toidutootjate ning teadlaste sõnul aitab tehisaru põllumehi eelkõige igapäevase andmetöötlusega. Enam ei kuulu aga ulmevaldkonda ka mehitamata põllurobotid ja -droonid.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610166169/em-arst-ketamiin-mojub-ajumusklitele-esmast-tuge-pakkuva-steroidina",
-      "publishedAt": "2026-10-17T06:30:00.000Z",
+      "url": "https://novaator.err.ee/1610168722/tehisaru-aitab-pollumehel-andmed-paremini-enda-kasuks-toole-panna",
+      "publishedAt": "2026-10-18T04:39:00.000Z",
       "summaryMode": "rss"
     }
   ],
