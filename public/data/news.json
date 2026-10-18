@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-10-18T18:42:34.242Z",
+  "updatedAt": "2026-10-18T20:38:56.059Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Loodusmuuseumi kogud kolivad uude majja, vana muuseum sulgeb peagi uksed",
-      "summary": "Veel kaks nädalat on Tallinna vanalinnas avatud loodusmuuseum. Praegu käib hoidlate kolimine uude loodusmajja, mis avatakse järgmisel aastal. Vana maja keldris pakitakse eksemplare, mida keegi ei näe. Valmivad mulaažid, mida kõik peavad pidama ehtsaks.",
+      "title": "Soosaar: tõenäoliselt ei jäta Eestimaa Rohelised valimisi vahele",
+      "summary": "Suure tõenäosusega plaanivad Eestimaa Rohelised valimistel osaleda hoolimata sellest, et ühinemine Eesti 200-ga jäi ära, rääkis erakonna volikogu esimees Marti Soosaar ja lisas, et lõplik otsus jääb siiski uuele juhatusele ja volikogule teha.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610169772/loodusmuuseumi-kogud-kolivad-uude-majja-vana-muuseum-sulgeb-peagi-uksed",
-      "publishedAt": "2026-10-18T18:34:00.000Z",
+      "url": "https://www.err.ee/1610169820/soosaar-toenaoliselt-ei-jata-eestimaa-rohelised-valimisi-vahele",
+      "publishedAt": "2026-10-18T19:55:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "USA turud",
+      "title": "Vaibkoodija lõi mõne nädalaga Photoshopi ja MS Office'i tasuta koopiad",
+      "summary": "Kogenud arendaja lõi tehisaru abil vaid loetud nädalatega tasuta koopiad maailma kasutatuimatest programmidest, nagu Photoshop ja Microsoft Office.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610164906/vaibkoodija-loi-mone-nadalaga-photoshopi-ja-ms-office-i-tasuta-koopiad",
+      "publishedAt": "2026-10-13T06:49:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -21,20 +30,11 @@
     },
     {
       "category": "Varia",
-      "title": "Kohv: Trump kordab Putini narratiive ja kahjustab Ukraina huve",
-      "summary": "USA presidendi Donald Trumpi viimased otsused kahjustavad Ukraina huve ja kordavad Putini narratiive, ütles Rahvusvahelise Kaitseuuringute Keskuse teadur Marek Kohv.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610169796/kohv-trump-kordab-putini-narratiive-ja-kahjustab-ukraina-huve",
-      "publishedAt": "2026-10-18T17:59:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "USA turud",
-      "title": "Vaibkoodija lõi mõne nädalaga Photoshopi ja MS Office'i tasuta koopiad",
-      "summary": "Kogenud arendaja lõi tehisaru abil vaid loetud nädalatega tasuta koopiad maailma kasutatuimatest programmidest, nagu Photoshop ja Microsoft Office.",
+      "title": "Tehisaru aitab põllumehel andmed paremini enda kasuks tööle panna",
+      "summary": "Toidutootjate ning teadlaste sõnul aitab tehisaru põllumehi eelkõige igapäevase andmetöötlusega. Enam ei kuulu aga ulmevaldkonda ka mehitamata põllurobotid ja -droonid.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610164906/vaibkoodija-loi-mone-nadalaga-photoshopi-ja-ms-office-i-tasuta-koopiad",
-      "publishedAt": "2026-10-13T06:49:00.000Z",
+      "url": "https://novaator.err.ee/1610168722/tehisaru-aitab-pollumehel-andmed-paremini-enda-kasuks-toole-panna",
+      "publishedAt": "2026-10-18T04:39:00.000Z",
       "summaryMode": "rss"
     }
   ],
