@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-18T08:42:11.605Z",
+  "updatedAt": "2026-10-18T10:40:29.802Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Michal: Eesti majandus kasvab Euroopa Liidu keskmisest kaks korda kiiremini",
-      "summary": "Peaminister ja Reformierakonna esimees Kristen Michal ütles erakonna volikogul peetud kõnes, et geopoliitiline olukord ja maailmamajandus on juba viis aastat täis segadust, kuid tänu õigetele otsustele ei väära maailma tormid enam Eesti kasvukurssi.",
+      "title": "Galerii: Eesti 200 volikogu arutab erakonna tulevikku",
+      "summary": "Erakonna Eesti 200 volikogu peab pühapäeval oma koosolekut, mille keskne teema on kaugelt valimiskünnise alla jääva toetusega partei tulevik enne 7. märtsi riigikogu valimisi.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610169307/michal-eesti-majandus-kasvab-euroopa-liidu-keskmisest-kaks-korda-kiiremini",
-      "publishedAt": "2026-10-17T13:21:00.000Z",
+      "url": "https://www.err.ee/1610169625/galerii-eesti-200-volikogu-arutab-erakonna-tulevikku",
+      "publishedAt": "2026-10-18T09:08:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -21,20 +21,20 @@
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Bayern lõi koduliigas kuus, Barcelona viis väravat",
-      "summary": "Euroopa tippklubidel oli laupäeval kodustes jalgpalliliigades hea päev. Võidu said kirja nii Müncheni Bayern, FC Barcelona kui Pariisi Saint-Germain.",
+      "title": "NYT: Trump kutsus Euroopat Ukraina rahukava raames uuesti Vene gaasi ostma",
+      "summary": "USA presidendi Donald Trumpi administratsioon tegi Euroopale ettepaneku taastada võimaliku Ukraina rahuleppe raames Venemaa gaasi ostmine, teatas väljaanne The New York Times (NYT).",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610169610/bayern-loi-koduliigas-kuus-barcelona-viis-varavat",
-      "publishedAt": "2026-10-18T08:32:00.000Z",
+      "url": "https://www.err.ee/1610169646/nyt-trump-kutsus-euroopat-ukraina-rahukava-raames-uuesti-vene-gaasi-ostma",
+      "publishedAt": "2026-10-18T09:44:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Galerii: Jane Jin Kaisen avas näituse \"Saar mere taga\"",
-      "summary": "Korea juurtega visuaalkunstnik ja filmitegija Jane Jin Kaisen esitles Kai kunstikeskuses videonäitus \"Saar mere taga\". Kaisen keskendub oma loomingus Koreas asuvale Jeju saarele, käsitledes sealse looduse ja inimeste koosmõjus teemasid nagu mälu, ränne ja ajaloo jutustamine.",
-      "source": "ERR",
-      "url": "https://kultuur.err.ee/1610169583/galerii-jane-jin-kaisen-avas-naituse-saar-mere-taga",
-      "publishedAt": "2026-10-18T07:34:00.000Z",
+      "title": "Tehisaru aitab põllumehel andmed paremini enda kasuks tööle panna",
+      "summary": "Toidutootjate ning teadlaste sõnul aitab tehisaru põllumehi eelkõige igapäevase andmetöötlusega. Enam ei kuulu aga ulmevaldkonda ka mehitamata põllurobotid ja -droonid.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610168722/tehisaru-aitab-pollumehel-andmed-paremini-enda-kasuks-toole-panna",
+      "publishedAt": "2026-10-18T04:39:00.000Z",
       "summaryMode": "rss"
     }
   ],
