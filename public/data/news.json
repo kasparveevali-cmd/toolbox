@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-10-18T16:41:41.563Z",
+  "updatedAt": "2026-10-18T18:42:34.242Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Tartu Kunstimuuseumi näitus vaatab tagasi taasiseseisvumisjärgsele arengule",
-      "summary": "Tartu Kunstimuuseumis avati näitus, mis keskendub taasiseseisvumisejärgsele ajale ja kapitalismi arengule. Väljapanekul kohtuvad 30 aasta tagused säilinud tööd ja autorite uued teosed.",
+      "title": "Loodusmuuseumi kogud kolivad uude majja, vana muuseum sulgeb peagi uksed",
+      "summary": "Veel kaks nädalat on Tallinna vanalinnas avatud loodusmuuseum. Praegu käib hoidlate kolimine uude loodusmajja, mis avatakse järgmisel aastal. Vana maja keldris pakitakse eksemplare, mida keegi ei näe. Valmivad mulaažid, mida kõik peavad pidama ehtsaks.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610169742/tartu-kunstimuuseumi-naitus-vaatab-tagasi-taasiseseisvumisjargsele-arengule",
-      "publishedAt": "2026-10-18T15:43:00.000Z",
+      "url": "https://www.err.ee/1610169772/loodusmuuseumi-kogud-kolivad-uude-majja-vana-muuseum-sulgeb-peagi-uksed",
+      "publishedAt": "2026-10-18T18:34:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Eksperdid: ka argised kodumasinad võivad küberrünnaku sihtmärgiks sattuda",
+      "summary": "Selle nädala alguses levis uudis, et Prantsusmaal on sisse häkitud toidupoodide külmikutesse, mille tagajärjel sulasid kapid üles ja hävis hulgaliselt toitu. Juhtum tuletab meelde, et internetiajastul on iga võrku ühendatud seade potentsiaalne oht.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610169766/eksperdid-ka-argised-kodumasinad-voivad-kuberrunnaku-sihtmargiks-sattuda",
+      "publishedAt": "2026-10-18T18:29:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Kohv: Trump kordab Putini narratiive ja kahjustab Ukraina huve",
+      "summary": "USA presidendi Donald Trumpi viimased otsused kahjustavad Ukraina huve ja kordavad Putini narratiive, ütles Rahvusvahelise Kaitseuuringute Keskuse teadur Marek Kohv.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610169796/kohv-trump-kordab-putini-narratiive-ja-kahjustab-ukraina-huve",
+      "publishedAt": "2026-10-18T17:59:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610164906/vaibkoodija-loi-mone-nadalaga-photoshopi-ja-ms-office-i-tasuta-koopiad",
       "publishedAt": "2026-10-13T06:49:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Kell 20 \"Ukraina stuudios\" Meelis Kiili ja Marek Kohv",
-      "summary": "Sel pühapäeval on \"Ukraina stuudios\" külalisteks kindralmajor reservis Meelis Kiili ja Rahvusvahelise Kaitseuuringute Keskuse teadur Marek Kohv.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610169754/kell-20-ukraina-stuudios-meelis-kiili-ja-marek-kohv",
-      "publishedAt": "2026-10-18T15:53:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Tehisaru aitab põllumehel andmed paremini enda kasuks tööle panna",
-      "summary": "Toidutootjate ning teadlaste sõnul aitab tehisaru põllumehi eelkõige igapäevase andmetöötlusega. Enam ei kuulu aga ulmevaldkonda ka mehitamata põllurobotid ja -droonid.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610168722/tehisaru-aitab-pollumehel-andmed-paremini-enda-kasuks-toole-panna",
-      "publishedAt": "2026-10-18T04:39:00.000Z",
       "summaryMode": "rss"
     }
   ],
