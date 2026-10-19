@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:45:52.400Z",
+  "updatedAt": "2026-10-19T06:59:53.663Z",
   "items": [
     {
       "category": "Eesti",
@@ -21,20 +21,20 @@
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Rahutused levisid Prantsusmaalt Itaaliasse",
-      "summary": "Elukalliduse tõusust ajendatud vägivaldsed meeleavaldused levisid Prantsusmaalt Itaaliasse. Uudisteagentuuri Ansa teatel vahistati möödunud nädalavahetusel Milanos üle 200 inimese.",
+      "title": "Malõgina jätkab maailma edetabelis tõusulainel",
+      "summary": "Naiste tennise maailma edetabelis parandas Eesti esireket Elena Malõgina jälle enda karjääri parimat kohta.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610169901/rahutused-levisid-prantsusmaalt-itaaliasse",
-      "publishedAt": "2026-10-19T04:36:00.000Z",
+      "url": "https://sport.err.ee/1610169985/malogina-jatkab-maailma-edetabelis-tousulainel",
+      "publishedAt": "2026-10-19T06:45:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Tehisaru aitab põllumehel andmed paremini enda kasuks tööle panna",
-      "summary": "Toidutootjate ning teadlaste sõnul aitab tehisaru põllumehi eelkõige igapäevase andmetöötlusega. Enam ei kuulu aga ulmevaldkonda ka mehitamata põllurobotid ja -droonid.",
+      "title": "Euroopas hätta jäänud Ukraina põgenikud otsivad arstiabi koduriigist",
+      "summary": "Paljud Ukraina sõjapõgenikud on pidanud ette võtma ohtliku teekonna tagasi kodumaale, et saada arstiabi, mida nad mujal Euroopas ei leia. Värske uuring näitab, et kuigi vastuvõtvad riigid pakuvad esmast kaitset, jätab ametlik tervishoiusüsteem pikaajalist ravi vajavad inimesed sageli hätta.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610168722/tehisaru-aitab-pollumehel-andmed-paremini-enda-kasuks-toole-panna",
-      "publishedAt": "2026-10-18T04:39:00.000Z",
+      "url": "https://novaator.err.ee/1610170045/euroopas-hatta-jaanud-ukraina-pogenikud-otsivad-arstiabi-koduriigist",
+      "publishedAt": "2026-10-19T06:40:00.000Z",
       "summaryMode": "rss"
     }
   ],
