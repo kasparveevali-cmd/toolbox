@@ -1,31 +1,13 @@
 {
-  "updatedAt": "2026-10-19T02:43:27.707Z",
+  "updatedAt": "2026-10-19T04:45:52.400Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Soosaar: tõenäoliselt ei jäta Eestimaa Rohelised valimisi vahele",
-      "summary": "Suure tõenäosusega plaanivad Eestimaa Rohelised valimistel osaleda hoolimata sellest, et ühinemine Eesti 200-ga jäi ära, rääkis erakonna volikogu esimees Marti Soosaar ja lisas, et lõplik otsus jääb siiski uuele juhatusele ja volikogule teha.",
+      "title": "Üle-euroopalise puudega inimese kaart annab võimaluse kasutada teiste riikide soodustusi",
+      "summary": "Eesti plaanib pooleteise aasta pärast võtta kasutusele üle-euroopalise puudega inimese kaardi ja parkimiskaardi, millega peaks meie puudega inimestele avanema ka teiste liikmesriikide kultuuri- ja transpordisoodustused.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610169820/soosaar-toenaoliselt-ei-jata-eestimaa-rohelised-valimisi-vahele",
-      "publishedAt": "2026-10-18T19:55:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Eksperdid: ka argised kodumasinad võivad küberrünnaku sihtmärgiks sattuda",
-      "summary": "Selle nädala alguses levis uudis, et Prantsusmaal on sisse häkitud toidupoodide külmikutesse, mille tagajärjel sulasid kapid üles ja hävis hulgaliselt toitu. Juhtum tuletab meelde, et internetiajastul on iga võrku ühendatud seade potentsiaalne oht.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610169766/eksperdid-ka-argised-kodumasinad-voivad-kuberrunnaku-sihtmargiks-sattuda",
-      "publishedAt": "2026-10-18T18:29:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Loodusmuuseumi kogud kolivad uude majja, vana muuseum sulgeb peagi uksed",
-      "summary": "Veel kaks nädalat on Tallinna vanalinnas avatud loodusmuuseum. Praegu käib hoidlate kolimine uude loodusmajja, mis avatakse järgmisel aastal. Vana maja keldris pakitakse eksemplare, mida keegi ei näe. Valmivad mulaažid, mida kõik peavad pidama ehtsaks.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610169772/loodusmuuseumi-kogud-kolivad-uude-majja-vana-muuseum-sulgeb-peagi-uksed",
-      "publishedAt": "2026-10-18T18:34:00.000Z",
+      "url": "https://www.err.ee/1610169886/ule-euroopalise-puudega-inimese-kaart-annab-voimaluse-kasutada-teiste-riikide-soodustusi",
+      "publishedAt": "2026-10-19T03:58:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -35,6 +17,24 @@
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610164906/vaibkoodija-loi-mone-nadalaga-photoshopi-ja-ms-office-i-tasuta-koopiad",
       "publishedAt": "2026-10-13T06:49:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Rahutused levisid Prantsusmaalt Itaaliasse",
+      "summary": "Elukalliduse tõusust ajendatud vägivaldsed meeleavaldused levisid Prantsusmaalt Itaaliasse. Uudisteagentuuri Ansa teatel vahistati möödunud nädalavahetusel Milanos üle 200 inimese.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610169901/rahutused-levisid-prantsusmaalt-itaaliasse",
+      "publishedAt": "2026-10-19T04:36:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Tehisaru aitab põllumehel andmed paremini enda kasuks tööle panna",
+      "summary": "Toidutootjate ning teadlaste sõnul aitab tehisaru põllumehi eelkõige igapäevase andmetöötlusega. Enam ei kuulu aga ulmevaldkonda ka mehitamata põllurobotid ja -droonid.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610168722/tehisaru-aitab-pollumehel-andmed-paremini-enda-kasuks-toole-panna",
+      "publishedAt": "2026-10-18T04:39:00.000Z",
       "summaryMode": "rss"
     }
   ],
