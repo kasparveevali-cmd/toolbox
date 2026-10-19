@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-10-19T14:49:16.931Z",
+  "updatedAt": "2026-10-19T22:41:43.440Z",
   "indices": [
     {
       "id": "sp500",
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "close": 7659.43994140625,
-      "changePct": -1.0927099809045937,
-      "sessionDate": "2026-10-16",
-      "fetchedAt": "2026-10-19T14:49:16.917Z"
+      "close": 7690.72998046875,
+      "changePct": 0.4085160181666714,
+      "sessionDate": "2026-10-19",
+      "fetchedAt": "2026-10-19T22:41:43.424Z"
     },
     {
       "id": "nasdaq100",
       "name": "Nasdaq-100",
       "symbol": "^NDX",
-      "close": 29187.55078125,
-      "changePct": -2.498860346497722,
-      "sessionDate": "2026-10-16",
-      "fetchedAt": "2026-10-19T14:49:16.929Z"
+      "close": 29529.34375,
+      "changePct": 1.1710231232199497,
+      "sessionDate": "2026-10-19",
+      "fetchedAt": "2026-10-19T22:41:43.435Z"
     },
     {
       "id": "dow",
       "name": "Dow Jones",
       "symbol": "^DJI",
-      "close": 52002.41015625,
-      "changePct": -0.33593140147822886,
-      "sessionDate": "2026-10-16",
-      "fetchedAt": "2026-10-19T14:49:16.927Z"
+      "close": 51966.03125,
+      "changePct": -0.06995619268548303,
+      "sessionDate": "2026-10-19",
+      "fetchedAt": "2026-10-19T22:41:43.437Z"
     },
     {
       "id": "eurostoxx50",
@@ -35,7 +35,7 @@
       "close": 6204.22998046875,
       "changePct": 0.5831501300286979,
       "sessionDate": "2026-10-16",
-      "fetchedAt": "2026-10-19T14:49:16.919Z"
+      "fetchedAt": "2026-10-19T22:41:43.428Z"
     },
     {
       "id": "dax",
@@ -44,16 +44,16 @@
       "close": 25622.609375,
       "changePct": 0.9454904280972842,
       "sessionDate": "2026-10-16",
-      "fetchedAt": "2026-10-19T14:49:16.923Z"
+      "fetchedAt": "2026-10-19T22:41:43.391Z"
     },
     {
       "id": "nikkei225",
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "close": 64916.69921875,
-      "changePct": -0.6239483806092849,
-      "sessionDate": "2026-10-19",
-      "fetchedAt": "2026-10-19T14:49:16.884Z"
+      "close": 65324.2890625,
+      "changePct": 1.3943757983290395,
+      "sessionDate": "2026-10-16",
+      "fetchedAt": "2026-10-19T22:41:43.426Z"
     },
     {
       "id": "omxtallinn",
@@ -62,7 +62,7 @@
       "close": 2228.27001953125,
       "changePct": -0.06010413597266062,
       "sessionDate": "2026-10-16",
-      "fetchedAt": "2026-10-19T14:49:16.921Z"
+      "fetchedAt": "2026-10-19T22:41:43.431Z"
     }
   ]
 }
