@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T04:42:55.054Z",
+  "updatedAt": "2026-10-20T06:54:23.688Z",
   "items": [
     {
       "category": "Eesti",
@@ -11,30 +11,30 @@
       "summaryMode": "rss"
     },
     {
+      "category": "Maailm / Euroopa",
+      "title": "India filmi võtted muutsid Tallinna Inglismaaks ning tõid kohale staarid",
+      "summary": "\"Ringvaade\" käis külas äsja lõppenud India filmi \"The India House\" võtetel Eestis. Peaosatäitja ja India staarnäitleja Nikhil Siddhartha sõnul tundis ta end Tallinnas nagu kodus ja kiitis siinse vanalinna maailma parimaks.",
+      "source": "ERR",
+      "url": "https://eeter.err.ee/1610171002/india-filmi-votted-muutsid-tallinna-inglismaaks-ning-toid-kohale-staarid",
+      "publishedAt": "2026-10-20T06:46:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Hiiumaa rannikul tiksub sajandivanune keskkonnapomm",
+      "summary": "Kujutage ette üle 100 aasta tagasi merepõhja vajunud laevavrakki. See pole pelgalt huvitav ajaloomälestis, vaid viitsütikuga ökoloogiline pomm.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610171014/hiiumaa-rannikul-tiksub-sajandivanune-keskkonnapomm",
+      "publishedAt": "2026-10-20T06:37:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
       "category": "USA turud",
       "title": "Vaibkoodija lõi mõne nädalaga Photoshopi ja MS Office'i tasuta koopiad",
       "summary": "Kogenud arendaja lõi tehisaru abil vaid loetud nädalatega tasuta koopiad maailma kasutatuimatest programmidest, nagu Photoshop ja Microsoft Office.",
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610164906/vaibkoodija-loi-mone-nadalaga-photoshopi-ja-ms-office-i-tasuta-koopiad",
       "publishedAt": "2026-10-13T06:49:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Putin andis eelarvemurede taustal rahandusministrile volitusi juurde",
-      "summary": "Venemaa režiimi juht Vladimir Putin edutas esmaspäeval ootamatult tehtud valitsuse ümberkorraldamise käigus rahandusminister Anton Siluanovit, andes talle ka asepeaministri ametikoha.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610170864/putin-andis-eelarvemurede-taustal-rahandusministrile-volitusi-juurde",
-      "publishedAt": "2026-10-20T03:51:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Hüdroinformaatik: Eesti linnad pole veel suuremateks sadudeks valmis",
-      "summary": "Suurem kliima varieeruvus toob kaasa ootamatuid valingvihmasid ja Eesti linnades tuleks tegeleda sademevee äravoolu teadliku juhtimisega.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610170111/hudroinformaatik-eesti-linnad-pole-veel-suuremateks-sadudeks-valmis",
-      "publishedAt": "2026-10-19T12:28:00.000Z",
       "summaryMode": "rss"
     }
   ],
