@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-10-20T14:46:16.079Z",
+  "updatedAt": "2026-10-20T16:43:59.717Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Michal: 20 kohaga riigikogus saab olla poliitikas tegija",
-      "summary": "Peaminister ja Reformierakonna esimees Kristen Michal ütles Vikerraadio saates \"Stuudios on peaminister\", et erakonna eesmärk saada riigikogu valimistel 20 kohta tagaks selle, et Reformierakond saab liberaalse maailmavaate eest seismiseks tugeva meeskonna.",
+      "title": "Riigikogu alustas 21,3 miljardi suuruse riigieelarve arutelu",
+      "summary": "Riigikogu asus arutama järgmise aasta riigieelarvet. Selle kogumaht on 21,3 miljardit eurot, millest kõige enam suunatakse riigikaitsesse ja sotsiaalvaldkonda. Muudatusettepanekute hulgas pakub opositsioon välja lisaraha erihoolekandele ja maksulangetusi, kuid ka uusi kärpekohti.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610171410/michal-20-kohaga-riigikogus-saab-olla-poliitikas-tegija",
-      "publishedAt": "2026-10-20T14:06:00.000Z",
+      "url": "https://www.err.ee/1610171557/riigikogu-alustas-21-3-miljardi-suuruse-riigieelarve-arutelu",
+      "publishedAt": "2026-10-20T15:29:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "USA turud",
+      "title": "FT: Iraani sõda suurendab USA ja Lõuna-Ameerika tähtsust energiaturul",
+      "summary": "Ajalehe Financial Times andmetel mõistavad investorid üha enam, et Lähis-Ida tarnehäired võivad kujuneda pikaajaliseks ning nad otsivad seetõttu usaldusväärsemaid toormeallikaid. Washingtoni algatatud sõda vallandas seetõttu Põhja-ja Lõuna-Ameerikas nafta- ja gaasitootmise ning ekspordi buumi.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610171581/ft-iraani-soda-suurendab-usa-ja-louna-ameerika-tahtsust-energiaturul",
+      "publishedAt": "2026-10-20T15:34:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Suurbritannia saadab Saudi Araabiale appi hävituslennukid",
-      "summary": "Ühendkuningriik saadab hävituslennukid appi Saudi Araabiale kaitsmaks end Jeemeni huthi mässuliste sagenevate rünnakute eest, teatas Briti valitsus teisipäeval.",
+      "title": "Mark Lajal kuulutas hooaja lõppenuks",
+      "summary": "Eesti tennisemängija Mark Lajal otsustas vigastuse tõttu sel hooajal enam mitte turniiridele minna. Maailma edetabeli 150. tennisistile teeb muret ranne.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610171521/suurbritannia-saadab-saudi-araabiale-appi-havituslennukid",
-      "publishedAt": "2026-10-20T14:14:00.000Z",
+      "url": "https://sport.err.ee/1610171614/mark-lajal-kuulutas-hooaja-loppenuks",
+      "publishedAt": "2026-10-20T16:35:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
       "title": "Noorma: Venemaa satelliitide tegevus on tõenäoliselt hirmutamiskampaania",
       "summary": "Esmaspäeval kirjutas rahvusvaheline meedia, et Vene kosmosesatelliit möödus USA satelliidist ligi saja meetri kauguselt. Tartu ülikooli kosmose- ja kaitsetehnoloogia professor Mart Noorma sõnul on ilmselt tegu järjekordse hirmutamiskampaaniaga.",
-      "source": "ERR Novaator",
+      "source": "ERR",
       "url": "https://novaator.err.ee/1610171392/noorma-venemaa-satelliitide-tegevus-on-toenaoliselt-hirmutamiskampaania",
       "publishedAt": "2026-10-20T12:51:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "USA turud",
-      "title": "Vaibkoodija lõi mõne nädalaga Photoshopi ja MS Office'i tasuta koopiad",
-      "summary": "Kogenud arendaja lõi tehisaru abil vaid loetud nädalatega tasuta koopiad maailma kasutatuimatest programmidest, nagu Photoshop ja Microsoft Office.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610164906/vaibkoodija-loi-mone-nadalaga-photoshopi-ja-ms-office-i-tasuta-koopiad",
-      "publishedAt": "2026-10-13T06:49:00.000Z",
       "summaryMode": "rss"
     }
   ],
