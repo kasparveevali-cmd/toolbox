@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T08:48:59.938Z",
+  "updatedAt": "2026-10-21T10:45:19.686Z",
   "items": [
     {
       "category": "Eesti",
@@ -11,30 +11,30 @@
       "summaryMode": "rss"
     },
     {
+      "category": "Maailm / Euroopa",
+      "title": "Endine snuukri maailma esinumber andis avameelse intervjuu",
+      "summary": "Endine snuukri maailma esinumber Mark Allen (WS 12.) teatas ootamatult, et kaalub sportlaskarjääri lõpetamist.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610172136/endine-snuukri-maailma-esinumber-andis-avameelse-intervjuu",
+      "publishedAt": "2026-10-21T10:20:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Ligi 46 000 eestlase andmed avavad ravimite kõrvalmõjude tagamaid",
+      "summary": "Ravimite ja vaktsiinide ohutust jälgitakse pidevalt ka pärast nende kasutuselevõttu, ent kõik patsientide kogetud kõrvaltoimed ei jõua registritesse ega haiguslugudesse. Hiljutine uuring aitab saada neist parema ülevaate ja avab uusi võimalusi uurida nende tekkepõhjuseid.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610172142/ligi-46-000-eestlase-andmed-avavad-ravimite-korvalmojude-tagamaid",
+      "publishedAt": "2026-10-21T10:10:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
       "category": "USA turud",
       "title": "Musk toetab Tesla ja SpaceX-i ühinemist",
       "summary": "USA tehnoloogiamiljardär Elon Musk teatas teisipäeval, et toetab oma kosmosefirma SpaceX ja elektriautode tootja Tesla ühinemist.",
       "source": "ERR",
       "url": "https://www.err.ee/1610171788/musk-toetab-tesla-ja-spacex-i-uhinemist",
       "publishedAt": "2026-10-21T03:44:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Rootsi suusaliit tahab peatada venelaste osalemise suusaalade MM-il",
-      "summary": "Rootsi suusaliit üritab koostöös riigi spordiliikumise katusorganisatsiooni Riksidrottsförbundetiga peatada Venemaa suusatajate osalemise talvel Falunis toimuvatel suusaalade maailmameistrivõistlustel.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610172046/rootsi-suusaliit-tahab-peatada-venelaste-osalemise-suusaalade-mm-il",
-      "publishedAt": "2026-10-21T08:46:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Arhiiviuuringud aitasid välja selgitada Eesti vetes uppunud kaubaauriku loo",
-      "summary": "Eesti merealadel on nüüd 15 uut kaitse alla võetud laevavrakki, kuid allveearheoloogi sõnul on see alles väike osa Läänemere põhjas peituvast veealusest kultuuripärandist.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610172025/arhiiviuuringud-aitasid-valja-selgitada-eesti-vetes-uppunud-kaubaauriku-loo",
-      "publishedAt": "2026-10-21T07:47:00.000Z",
       "summaryMode": "rss"
     }
   ],
