@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-10-22T16:46:07.670Z",
+  "updatedAt": "2026-10-22T18:51:54.508Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Tallinna-Pärnu maanteel keelati veoautodele möödasõit",
-      "summary": "Alates neljapäevast kehtib Pärnu-Tallinna maanteel 2+1 teelõigul veoautodele möödasõidukeeld. Tegemist on esimese sellelaadse piiranguga Eestis ning teiste riikide kogemuse kohaselt aitab see vähendada liiklusõnnetusi, mida sel teelõigul toimub maantee kohta tavatult palju.",
+      "title": "Maarja küla ja kooli õpilased tulid Karilatsi appi lehti riisuma",
+      "summary": "Põlvamaal Karilatsi vabaõhumuuseumis tunti muret, kuidas riisuda kokku lehed viie hektari suurusel alal. Neljapäeval tulid muuseumile appi töökad abilised lähedalasuvast Maarja külast ja Tartu Maarja koolist.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610173744/tallinna-parnu-maanteel-keelati-veoautodele-moodasoit",
-      "publishedAt": "2026-10-22T15:29:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Neidude võrkpallikoondis pidi EEVZA turniiril tunnistama Ukraina paremust",
-      "summary": "Eesti neidude U-20 võrkpallikoondis sai Gruusias toimuva Ida-Euroopa Võrkpalliassotsiatsiooni (EEVZA) meistrivõistluste avamängus Ukrainalt 0:3 (19:25, 13:25, 23:25) kaotuse.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610173792/neidude-vorkpallikoondis-pidi-eevza-turniiril-tunnistama-ukraina-paremust",
-      "publishedAt": "2026-10-22T16:29:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Uus veetaseme lähtenivoopind aitab Läänemerel ohutumalt seilata",
-      "summary": "Läänemere riikide teadlased panid kokku uue lähtenivoo pinna, mille suhtes saab merepõhja ja veetaset kaardistada nüüd paari sentimeetri täpsusega. Uus mudel toob lõpu absurdsele olukorrale, kus kaptenid pidid naaberriigi vetesse jõudes arvestama täiesti uue nullkõrgusega.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610173141/uus-veetaseme-lahtenivoopind-aitab-laanemerel-ohutumalt-seilata",
-      "publishedAt": "2026-10-22T11:44:00.000Z",
+      "url": "https://www.err.ee/1610173873/maarja-kula-ja-kooli-opilased-tulid-karilatsi-appi-lehti-riisuma",
+      "publishedAt": "2026-10-22T18:33:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Musk toetab Tesla ja SpaceX-i ühinemist",
-      "summary": "USA tehnoloogiamiljardär Elon Musk teatas teisipäeval, et toetab oma kosmosefirma SpaceX ja elektriautode tootja Tesla ühinemist.",
+      "title": "ERR Detroitis: hinnatõus mõjutab väikeettevõtteid ja klientide ostuharjumusi",
+      "summary": "Novembris toimuvate USA vahevalimiste eel on suure tähelepanu all Michigani osariik, kus käib senatikoha pärast tasavägine võitlus. Valijate jaoks on üks olulisemaid küsimusi majandus ja elukallidus. Detroiti väikeettevõtjad näevad hinnatõusu mõju nii oma kuludes kui ka klientide ostuharjumustes.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610171788/musk-toetab-tesla-ja-spacex-i-uhinemist",
-      "publishedAt": "2026-10-21T03:44:00.000Z",
+      "url": "https://www.err.ee/1610173834/err-detroitis-hinnatous-mojutab-vaikeettevotteid-ja-klientide-ostuharjumusi",
+      "publishedAt": "2026-10-22T18:14:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Pärnu teenis Euroopa karikasarjas esimese võidu",
+      "summary": "Pärnu korvpalliklubi alistas FIBA Euroopa karikasarjas kodusaalis Viini korvpalliklubi 86:69 (14:21, 24:16, 24:17, 24:15) ning sai tabelisse esimese võidu.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610173882/parnu-teenis-euroopa-karikasarjas-esimese-voidu",
+      "publishedAt": "2026-10-22T18:26:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Pentagon ja Lockheed tahavad toota 10 aasta jooksul 850 hävitajat F-35",
+      "summary": "USA kaitseministeerium ja relvafirma Lockheed Martin teatasid neljapäeval kümneaastasest leppest 850 tipptehnoloogilise hävitaja F-35 tootmiseks.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610173735/pentagon-ja-lockheed-tahavad-toota-10-aasta-jooksul-850-havitajat-f-35",
+      "publishedAt": "2026-10-22T13:59:00.000Z",
       "summaryMode": "rss"
     }
   ],
