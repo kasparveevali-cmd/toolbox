@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T18:51:54.508Z",
+  "updatedAt": "2026-10-22T20:43:25.196Z",
   "items": [
     {
       "category": "Eesti",
@@ -21,20 +21,20 @@
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Pärnu teenis Euroopa karikasarjas esimese võidu",
-      "summary": "Pärnu korvpalliklubi alistas FIBA Euroopa karikasarjas kodusaalis Viini korvpalliklubi 86:69 (14:21, 24:16, 24:17, 24:15) ning sai tabelisse esimese võidu.",
+      "title": "Eesti sõudjad püüdlevad uuel alal olümpiale",
+      "summary": "Eesti sõudjad võistlesid edukalt uue olümpiaala rannasprindi maailmameistrivõistlustel Hiinas. Eestlased osalesid kolmes paadiklassis ja kõik meie sõudjad jõudsid kaheksandikfinaali ehk 16 parema hulka.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610173882/parnu-teenis-euroopa-karikasarjas-esimese-voidu",
-      "publishedAt": "2026-10-22T18:26:00.000Z",
+      "url": "https://sport.err.ee/1610173894/eesti-soudjad-puudlevad-uuel-alal-olumpiale",
+      "publishedAt": "2026-10-22T19:12:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Pentagon ja Lockheed tahavad toota 10 aasta jooksul 850 hävitajat F-35",
-      "summary": "USA kaitseministeerium ja relvafirma Lockheed Martin teatasid neljapäeval kümneaastasest leppest 850 tipptehnoloogilise hävitaja F-35 tootmiseks.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610173735/pentagon-ja-lockheed-tahavad-toota-10-aasta-jooksul-850-havitajat-f-35",
-      "publishedAt": "2026-10-22T13:59:00.000Z",
+      "title": "Uus veetaseme lähtenivoopind aitab Läänemerel ohutumalt seilata",
+      "summary": "Läänemere riikide teadlased panid kokku uue lähtenivoo pinna, mille suhtes saab merepõhja ja veetaset kaardistada nüüd paari sentimeetri täpsusega. Uus mudel toob lõpu absurdsele olukorrale, kus kaptenid pidid naaberriigi vetesse jõudes arvestama täiesti uue nullkõrgusega.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610173141/uus-veetaseme-lahtenivoopind-aitab-laanemerel-ohutumalt-seilata",
+      "publishedAt": "2026-10-22T11:44:00.000Z",
       "summaryMode": "rss"
     }
   ],
