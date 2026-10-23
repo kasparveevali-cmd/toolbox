@@ -1,31 +1,22 @@
 {
-  "updatedAt": "2026-10-23T14:50:22.710Z",
+  "updatedAt": "2026-10-23T16:46:50.289Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Selgus Tallinna Raekoja platsi avaliku ruumi ideevõistluse võidutöö",
-      "summary": "Tallinna Raekoja plats läheb lähiaastatel remonti ning väljakule uue elu andmiseks kuulutati välja ideevõistlus. Võidutöö \"Pusle\" näeb ette platsile linnamööblit, mis sobib nii suveparki kui ka traditsioonilisele jõuluturule.",
+      "title": "Esimene Rail Balticu ooteplatvorm valmib tänavu Kurtnas",
+      "summary": "Rail Balticu trassil on alustatud kohalike rongipeatuste ooteplatvormide rajamist, esimesena valmib tänavu perroon Kurtnas. Kõik 12 kohalikku peatust saavad valmis samal ajal kui raudtee Tallinna ja Pärnu vahel ehk aastaks 2032.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610174956/selgus-tallinna-raekoja-platsi-avaliku-ruumi-ideevoistluse-voidutoo",
-      "publishedAt": "2026-10-23T14:43:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "USA turud",
-      "title": "Taani teeb lõpu mingikasvatusele",
-      "summary": "Pikka aega maailma juhtiv mingikasvataja olnud Taani lõpetab selle tegevusala lõplikult, teatas reedel põllumajandusministeerium.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610174779/taani-teeb-lopu-mingikasvatusele",
-      "publishedAt": "2026-10-23T10:21:00.000Z",
+      "url": "https://www.err.ee/1610175031/esimene-rail-balticu-ooteplatvorm-valmib-tanavu-kurtnas",
+      "publishedAt": "2026-10-23T15:49:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Austria saatis välja neli Venemaa diplomaati",
-      "summary": "Austria saadab riigist välja neli Venemaa diplomaati, süüdistades neid tegevustes, mis ei vasta nende staatusele, teatas reedel välisministeerium.",
+      "title": "Rumeenia president süüdistas Venemaad laevaintsidendis Mustal merel",
+      "summary": "Rumeenia president Nicusor Dan süüdistas reedel Venemaad uues intsidendis Mustal merel, kus Bukaresti teatel hukkus hätta sattunud laeval üks meremees ning kolm jäi kadunuks.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610174947/austria-saatis-valja-neli-venemaa-diplomaati",
-      "publishedAt": "2026-10-23T13:46:00.000Z",
+      "url": "https://www.err.ee/1610175082/rumeenia-president-suudistas-venemaad-laevaintsidendis-mustal-merel",
+      "publishedAt": "2026-10-23T16:04:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -35,6 +26,15 @@
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610174833/uuring-inimesed-ei-pruugi-teada-millist-uimastit-nad-tarvitavad",
       "publishedAt": "2026-10-23T11:28:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "USA turud",
+      "title": "Taani teeb lõpu mingikasvatusele",
+      "summary": "Pikka aega maailma juhtiv mingikasvataja olnud Taani lõpetab selle tegevusala lõplikult, teatas reedel põllumajandusministeerium.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610174779/taani-teeb-lopu-mingikasvatusele",
+      "publishedAt": "2026-10-23T10:21:00.000Z",
       "summaryMode": "rss"
     }
   ],
