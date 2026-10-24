@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T20:45:17.304Z",
+  "updatedAt": "2026-10-24T04:42:32.322Z",
   "indices": [
     {
       "id": "sp500",
@@ -8,16 +8,16 @@
       "close": 7623.68017578125,
       "changePct": -0.5186972294159098,
       "sessionDate": "2026-10-23",
-      "fetchedAt": "2026-10-23T20:45:17.260Z"
+      "fetchedAt": "2026-10-24T04:42:32.319Z"
     },
     {
       "id": "nasdaq100",
       "name": "Nasdaq-100",
       "symbol": "^NDX",
-      "close": 28957.52734375,
-      "changePct": -0.004012990217949763,
+      "close": 28957.529296875,
+      "changePct": -0.004006245696575039,
       "sessionDate": "2026-10-23",
-      "fetchedAt": "2026-10-23T20:45:17.251Z"
+      "fetchedAt": "2026-10-24T04:42:32.318Z"
     },
     {
       "id": "dow",
@@ -26,7 +26,7 @@
       "close": 52215.16015625,
       "changePct": -1.2348122752407376,
       "sessionDate": "2026-10-23",
-      "fetchedAt": "2026-10-23T20:45:17.248Z"
+      "fetchedAt": "2026-10-24T04:42:32.317Z"
     },
     {
       "id": "eurostoxx50",
@@ -35,7 +35,7 @@
       "close": 6068.22021484375,
       "changePct": -0.30868277700751845,
       "sessionDate": "2026-10-23",
-      "fetchedAt": "2026-10-23T20:45:17.228Z"
+      "fetchedAt": "2026-10-24T04:42:31.966Z"
     },
     {
       "id": "dax",
@@ -44,25 +44,25 @@
       "close": 25181.650390625,
       "changePct": -0.7492569861164533,
       "sessionDate": "2026-10-23",
-      "fetchedAt": "2026-10-23T20:45:17.255Z"
+      "fetchedAt": "2026-10-24T04:42:32.321Z"
     },
     {
       "id": "nikkei225",
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "close": 62907.83984375,
-      "changePct": -2.6514478568838373,
-      "sessionDate": "2026-10-22",
-      "fetchedAt": "2026-10-23T20:45:17.302Z"
+      "close": 62693.16015625,
+      "changePct": -0.341260625119566,
+      "sessionDate": "2026-10-23",
+      "fetchedAt": "2026-10-24T04:42:32.316Z"
     },
     {
       "id": "omxtallinn",
       "name": "OMX Tallinn",
       "symbol": "^OMXTGI",
-      "close": 2278.070068359375,
-      "changePct": -0.05352415367141372,
-      "sessionDate": "2026-10-22",
-      "fetchedAt": "2026-10-23T20:45:17.276Z"
+      "close": 2270.7099609375,
+      "changePct": -0.32308520813740804,
+      "sessionDate": "2026-10-23",
+      "fetchedAt": "2026-10-24T04:42:32.320Z"
     }
   ]
 }
