@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T06:53:12.979Z",
+  "updatedAt": "2026-10-25T08:43:41.978Z",
   "items": [
     {
       "category": "Eesti",
@@ -11,12 +11,21 @@
       "summaryMode": "rss"
     },
     {
-      "category": "Maailm / Euroopa",
-      "title": "Arnold Rutto: Armeenia kui Euroopa oaas Kaukaasias",
-      "summary": "Armeenia on viimastel aastatel viinud läbi sõjaväereforme ning relvajõudude toimimist moderniseerinud, aga ees seisab veel pikk tee. Riik peab vähendama sõltuvust Venemaast, reformima majandust ja tugevdama institutsioone, kirjutab Arnold Rutto.",
+      "category": "USA turud",
+      "title": "Temufi teatri juht Peep Maasik: ma ei karda ka uksi kinni panna",
+      "summary": "Viljandis Temufi teatrit pidav lavastaja Peep Maasik ütles kultuuriportaali intervjuusarjas \"ID\", et kuigi viimased aastad on majanduslikult keerulised olnud, usub ta helgemasse tulevikku. Samas ei karda ta ka vajadusel uksi kinni panna.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610174590/arnold-rutto-armeenia-kui-euroopa-oaas-kaukaasias",
-      "publishedAt": "2026-10-25T06:30:00.000Z",
+      "url": "https://kultuur.err.ee/1610176261/temufi-teatri-juht-peep-maasik-ma-ei-karda-ka-uksi-kinni-panna",
+      "publishedAt": "2026-10-25T07:00:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Nabi sai MM-i avaringis noorelt vastaselt loobumisvõidu",
+      "summary": "Kasahstanis Astanas toimuvatel maadluse maailmameistrivõistlustel teenis Heiki Nabi Kreeka-Rooma maadluse raskekaalu avaringis võidu.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610176489/nabi-sai-mm-i-avaringis-noorelt-vastaselt-loobumisvoidu",
+      "publishedAt": "2026-10-25T08:17:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -26,15 +35,6 @@
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610172352/eripedagoog-madala-arvutamisoskusega-lepitakse-liialt-sageli",
       "publishedAt": "2026-10-25T05:07:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "USA turud",
-      "title": "Taani teeb lõpu mingikasvatusele",
-      "summary": "Pikka aega maailma juhtiv mingikasvataja olnud Taani lõpetab selle tegevusala lõplikult, teatas reedel põllumajandusministeerium.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610174779/taani-teeb-lopu-mingikasvatusele",
-      "publishedAt": "2026-10-23T10:21:00.000Z",
       "summaryMode": "rss"
     }
   ],
