@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-10-25T16:43:00.594Z",
+  "updatedAt": "2026-10-25T18:45:12.397Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Riik maksab endiste riigipeade kaasadele esindustasudeks tuhandeid eurosid kuus",
-      "summary": "Endiste Eesti riigipeade abikaasade esindustasud ja hüvitised ulatusid tänavu tuhandete eurodeni kuus. Kõige kõrgemat hüvitist, mis küündis 3840 euroni, saab Ingrid Rüütel, kes peale Arnold Rüütli lahkumist hakkas saama toitjakaotuspensionit. Esindustasu saab ka Ieva Ilves.",
+      "title": "Kodukindlustus võib kliendi teadmata hõlmata kaitset sõjariskide eest",
+      "summary": "Üha enam kindlustusfirmasid pakub kodukindlustuse sees kaitset ka sõjariskide eest. Ebameeldiva üllatusena võib aga klient saada arve, kuhu on juba automaatselt oluliselt suurem summa lisatud. Kindlustusseltside liit loodab, et julgeolekukulud kindlustussummasid keskmiselt ei kasvata.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610174866/riik-maksab-endiste-riigipeade-kaasadele-esindustasudeks-tuhandeid-eurosid-kuus",
-      "publishedAt": "2026-10-25T05:09:00.000Z",
+      "url": "https://www.err.ee/1610176588/kodukindlustus-voib-kliendi-teadmata-holmata-kaitset-sojariskide-eest",
+      "publishedAt": "2026-10-25T16:39:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Selevko langes vabakavaga esikolmikust välja",
+      "summary": "Eesti iluuisutaja Aleksandr Selevko sai Prantsusmaal Angers'is toimuval GP-etapil meesüksiksõidu vabakavas paremuselt viienda tulemuse ja langes kokkuvõttes neljandaks.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610176639/selevko-langes-vabakavaga-esikolmikust-valja",
+      "publishedAt": "2026-10-25T17:09:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Eripedagoog: madala arvutamisoskusega lepitakse liialt sageli",
+      "summary": "Matemaatikaga hätta jäänud õpilane võib jõuda põhikooli lõppu, ilma et tema õpiraskuste põhjus oleks selgeks saanud.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610172352/eripedagoog-madala-arvutamisoskusega-lepitakse-liialt-sageli",
+      "publishedAt": "2026-10-25T05:07:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR",
       "url": "https://kultuur.err.ee/1610176261/temufi-teatri-juht-peep-maasik-ma-ei-karda-ka-uksi-kinni-panna",
       "publishedAt": "2026-10-25T07:00:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Venemaa sai suure tiitlivõistluse korraldusõiguse",
-      "summary": "Rahvusvaheline tõstespordiliit (IWF) andis 2030. aasta maailmameistrivõistluste korraldusõiguse Moskvale. Tegemist on suurima Venemaale antud tiitlivõistluse korraldusõigusega pärast riigi sõjalist sissetungi Ukrainasse 2022. aasta veebruaris.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610176606/venemaa-sai-suure-tiitlivoistluse-korraldusoiguse",
-      "publishedAt": "2026-10-25T16:10:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Kell 20 \"Ukraina stuudios\" Mattias Puusepp ja Kristi Raik",
-      "summary": "Sel pühapäeval on \"Ukraina stuudios\" külalisteks kolonelleitnant Mattias Puusepp ja rahvusvahelise kaitseuuringute keskuse direktor Kristi Raik.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610176591/kell-20-ukraina-stuudios-mattias-puusepp-ja-kristi-raik",
-      "publishedAt": "2026-10-25T15:01:00.000Z",
       "summaryMode": "rss"
     }
   ],
