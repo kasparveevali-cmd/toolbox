@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-10-26T10:51:17.732Z",
+  "updatedAt": "2026-10-26T14:54:47.878Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Kallas: Eesti 200 ettevalmistused riigikogu valimistel osalemiseks käivad",
-      "summary": "Kuigi mõned Eesti 200 riigikogu fraktsiooni liikmed on avaldanud arvamust, et erakonnal ei ole mõtet riigikogu valimistel osaleda, kinnitas parteijuht Kristina Kallas, et ettevalmistused valimisralliks käivad.",
+      "title": "Elering otsib riigihankega kriisijuhtimiskeskuse ehitajat",
+      "summary": "Eesti elektri- ja gaasisüsteemi haldur Elering kuulutas välja riigihanke kriisijuhtimiskeskuse ehitamiseks. Keskus rajatakse Eleringi peahoone kõrvale, see peaks valmima kahe aastaga ja selle eeldatav hind ilma käibemaksuta on 28,7 miljonit eurot.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610177029/kallas-eesti-200-ettevalmistused-riigikogu-valimistel-osalemiseks-kaivad",
-      "publishedAt": "2026-10-26T09:07:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Marine Le Pen püüab muuta prantslaste rahulolematuse enda valimisvõiduks",
-      "summary": "Prantsusmaa presidendikandidaat Marine Le Pen püüab muuta prantslaste rahulolematuse senise võimuga enda valimisvõiduks.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610177102/marine-le-pen-puuab-muuta-prantslaste-rahulolematuse-enda-valimisvoiduks",
-      "publishedAt": "2026-10-26T10:45:01.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Veepinnale jääv jälg reedab radareilt kadunud laeva",
-      "summary": "Läänemere seilavaid aluseid on võimalik neile iseloomulike lainete põhjal märgata isegi siis, kui laevad oma asukohaseadmed välja lülitavad.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610177083/veepinnale-jaav-jalg-reedab-radareilt-kadunud-laeva",
-      "publishedAt": "2026-10-26T10:11:00.000Z",
+      "url": "https://www.err.ee/1610177254/elering-otsib-riigihankega-kriisijuhtimiskeskuse-ehitajat",
+      "publishedAt": "2026-10-26T13:01:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Temufi teatri juht Peep Maasik: ma ei karda ka uksi kinni panna",
-      "summary": "Viljandis Temufi teatrit pidav lavastaja Peep Maasik ütles kultuuriportaali intervjuusarjas \"ID\", et kuigi viimased aastad on majanduslikult keerulised olnud, usub ta helgemasse tulevikku. Samas ei karda ta ka vajadusel uksi kinni panna.",
+      "title": "Arukased puhastavad endisi põllumuldi tõhusalt raskmetallidest",
+      "summary": "Endiste põllumajandusmaade muld võib olla saastunud kahjulike raskmetallidega. Sellistele aladele istutatud arukaasikud on tootlikud ja seovad kasvu käigus kahjulikke metalle, aidates nii muldi puhastada, näitab hiljutine Eesti Maaülikooli teadlaste uuring.",
       "source": "ERR",
-      "url": "https://kultuur.err.ee/1610176261/temufi-teatri-juht-peep-maasik-ma-ei-karda-ka-uksi-kinni-panna",
-      "publishedAt": "2026-10-25T07:00:00.000Z",
+      "url": "https://novaator.err.ee/1610177194/arukased-puhastavad-endisi-pollumuldi-tohusalt-raskmetallidest",
+      "publishedAt": "2026-10-26T11:55:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Prantsusmaa seisab silmitsi nii rahutuste kui ka võlakriisi ohuga",
+      "summary": "Veebiväljaande Politico teatel seisab Prantsusmaa silmitsi süveneva majandusliku ja poliitilise kriisiga. Riik on sattunud nõiaringi, kus eelarveprobleemid süvendavad ühiskondlikku rahulolematust, samal ajal kui protestid ja poliitiline ebakindlus suurendavad finantsriske.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610177296/prantsusmaa-seisab-silmitsi-nii-rahutuste-kui-ka-volakriisi-ohuga",
+      "publishedAt": "2026-10-26T14:00:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Kivirähk: ainuke võimalus Indrekut mõista on kõik \"Tõe ja õiguse\" osad ära lavastada",
+      "summary": "Eesti Draamateatris jõudis lavale A. H. Tammsaare \"Tõe ja õiguse\" viiel köitel põhinev lavastus, mille dramatiseeris Andrus Kivirähk. Tema sõnul võimaldab kõigi osade ühendamine mõista paremini Indrek Paasi motiive ja elukäiku.",
+      "source": "ERR",
+      "url": "https://kultuur.err.ee/1610177098/kivirahk-ainuke-voimalus-indrekut-moista-on-koik-toe-ja-oiguse-osad-ara-lavastada",
+      "publishedAt": "2026-10-26T13:53:00.000Z",
       "summaryMode": "rss"
     }
   ],
