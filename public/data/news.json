@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-27T10:48:40.142Z",
+  "updatedAt": "2026-10-27T12:57:18.839Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Järvan: Eestis on asfalt otsa lõppenud",
-      "summary": "Kuivõrd tehased Rootsis ja Leedus, kust Eesti ettevõtted saavad asfaldi tootmiseks vajaliku bituumeni, praegu seda Eestisse ei tarni, on Tallinnas ja mujal Eestis tekkinud asfaldist puudus, ütles Tallinna abilinnapea Kristjan Järvan.",
+      "title": "Viimaste nädalatel on PPA ebaseaduslikke sisserändajaid tabanud vaid Tallinnas",
+      "summary": "Alates juulist on PPA kinni pidanud 388 välismaalast, kes on saabunud Eestisse seadusliku aluseta. Viimaste nädalate kinnipidamised on toimunud üksnes Tallinnas.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610178217/jarvan-eestis-on-asfalt-otsa-loppenud",
-      "publishedAt": "2026-10-27T10:30:00.000Z",
+      "url": "https://www.err.ee/1610178346/viimaste-nadalatel-on-ppa-ebaseaduslikke-sisserandajaid-tabanud-vaid-tallinnas",
+      "publishedAt": "2026-10-27T12:25:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -21,20 +21,20 @@
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Saade \"Psühho\" sukeldub sel nädalal meelelahutusse",
-      "summary": "Märt Treieri juhitud saade \"Psühho\" heidab sel kolmapäeval pilgu meelelahutusmaailmale.",
+      "title": "Eagle S-i hõivamise operatsioon läks Soomele maksma 1,4 miljonit eurot",
+      "summary": "Soome rahvusringhäälingu Yle teatel läksid tankeri Eagle S hõivamine ja sellega seotud eeluurimine riigile maksma ligi 1,4 miljonit eurot.",
       "source": "ERR",
-      "url": "https://kultuur.err.ee/1610178220/saade-psuhho-sukeldub-sel-nadalal-meelelahutusse",
-      "publishedAt": "2026-10-27T10:36:00.000Z",
+      "url": "https://www.err.ee/1610178352/eagle-s-i-hoivamise-operatsioon-laks-soomele-maksma-1-4-miljonit-eurot",
+      "publishedAt": "2026-10-27T12:20:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Mustvares teeb otsuseid ahvist ja inimesest poole kiiremini",
-      "summary": "Mustvaresed analüüsivad nägemismeele kaudu saabuvat infot ja teevad otsuseid rutem kui veerandsekundiga ehk poole kiiremini kui inimesed või ahvid samalaadsetes oludes. Saksa teadlaste uuest uuringust väljakoorunud tähelepanek aitab teadlastel ka paremini mõista, kuidas nutikus loomariigis arenes.",
+      "title": "Doktoritöö: valusaid biopsiaid võib asendada tulevikus vereproov",
+      "summary": "Arstid peavad praegu kasvaja või mõne muu kahjustatud elundi sees toimuva mõistmiseks võtma sageli sellest tükikese elavat kude.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610178178/mustvares-teeb-otsuseid-ahvist-ja-inimesest-poole-kiiremini",
-      "publishedAt": "2026-10-27T10:25:00.000Z",
+      "url": "https://novaator.err.ee/1610178340/doktoritoo-valusaid-biopsiaid-voib-asendada-tulevikus-vereproov",
+      "publishedAt": "2026-10-27T12:17:00.000Z",
       "summaryMode": "rss"
     }
   ],
