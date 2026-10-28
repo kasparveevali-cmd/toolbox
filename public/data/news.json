@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T04:55:31.154Z",
+  "updatedAt": "2026-10-28T07:07:35.467Z",
   "items": [
     {
       "category": "Eesti",
@@ -11,30 +11,30 @@
       "summaryMode": "rss"
     },
     {
-      "category": "Maailm / Euroopa",
-      "title": "TÜ õigusteaduskond ei poolda pedofiilide fotode lisamist karistusregistrisse",
-      "summary": "Tartu ülikooli õigusteaduskonna hinnangul ei ole seksuaalkurjategijatest avaliku fotoregistri loomine kooskõlas inimväärikuse ja õigusriigi põhimõtete ega Euroopa Liidu andmekaitseõigusega ning takistab süüdimõistetute taasühiskonnastamist.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610178295/tu-oigusteaduskond-ei-poolda-pedofiilide-fotode-lisamist-karistusregistrisse",
-      "publishedAt": "2026-10-28T04:29:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Ka Norstat näitab Keskerakonna möödumist Isamaast",
-      "summary": "Kui varem on Keskerakonna möödumist Isamaast näidanud Emori ja Turu-uuringute küsitlused, siis nüüd näitab seda esimest korda kolme aasta jooksul ka Norstati küsitlus.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610178817/ka-norstat-naitab-keskerakonna-moodumist-isamaast",
-      "publishedAt": "2026-10-28T04:14:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
       "category": "USA turud",
       "title": "Arukased puhastavad endisi põllumuldi tõhusalt raskmetallidest",
       "summary": "Endiste põllumajandusmaade muld võib olla saastunud kahjulike raskmetallidega. Sellistele aladele istutatud arukaasikud on tootlikud ja seovad kasvu käigus kahjulikke metalle, aidates nii muldi puhastada, näitab hiljutine Eesti Maaülikooli teadlaste uuring.",
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610177194/arukased-puhastavad-endisi-pollumuldi-tohusalt-raskmetallidest",
       "publishedAt": "2026-10-26T11:55:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Hein ja Werder kaotasid Dortmundile üleaja karistuslöögist",
+      "summary": "Eesti jalgpallikoondise väravavahi Karl Jakob Heina koduklubi Bremeni Werder langes Saksamaa karikasarjas riigi tippklubi Dortmundi Borussia vastu konkurentsist 2:3 kaotusega, seejuures otsustav värav sündis eelviimasel minutil.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610178865/hein-ja-werder-kaotasid-dortmundile-uleaja-karistusloogist",
+      "publishedAt": "2026-10-28T06:09:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Doktoritöö: valusaid biopsiaid võib asendada tulevikus vereproov",
+      "summary": "Arstid peavad praegu kasvaja või mõne muu kahjustatud elundi sees toimuva mõistmiseks võtma sageli sellest tükikese elavat kude.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610178340/doktoritoo-valusaid-biopsiaid-voib-asendada-tulevikus-vereproov",
+      "publishedAt": "2026-10-27T12:17:00.000Z",
       "summaryMode": "rss"
     }
   ],
