@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-28T07:07:35.467Z",
+  "updatedAt": "2026-10-28T08:59:29.959Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Elron soovib Tartust Riiga sõitvad rongid üles vuntsida ja rentida neid lätlastele",
-      "summary": "Eesti riigile kuuluv reisirongifirma Elron tahab moderniseerida rongikoosseisud, mis sõidavad Tartu ja Riia vahet, et meelitada liinile rohkem reisijaid ning rentida ronge võimalusel ka lätlastele kohalike liinide jaoks.",
+      "title": "Pakirobot põhjustas vigastatutega liiklusõnnetuse",
+      "summary": "Tallinnas toimus esmaspäeva õhtul bussi ja pakiroboti kokkupõrge, milles sai mitu inimest vigastada. Õnnetuse põhjustanud robotkuller lahkus sündmuskohalt.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610178343/elron-soovib-tartust-riiga-soitvad-rongid-ules-vuntsida-ja-rentida-neid-latlastele",
-      "publishedAt": "2026-10-28T04:37:00.000Z",
+      "url": "https://www.err.ee/1610179000/pakirobot-pohjustas-vigastatutega-liiklusonnetuse",
+      "publishedAt": "2026-10-28T08:48:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -21,20 +21,20 @@
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Hein ja Werder kaotasid Dortmundile üleaja karistuslöögist",
-      "summary": "Eesti jalgpallikoondise väravavahi Karl Jakob Heina koduklubi Bremeni Werder langes Saksamaa karikasarjas riigi tippklubi Dortmundi Borussia vastu konkurentsist 2:3 kaotusega, seejuures otsustav värav sündis eelviimasel minutil.",
+      "title": "Kullamäe ja Raieste klubid said eurosarjas kaotuse",
+      "summary": "Kristian Kullamäe koduklubi Cluj-Napoca pidi Euroopa tugevuselt teises eurosarjas ehk Eurocupis vastu võtma kaotuse, kui võõrsil jäädi Frankfurt Skylinersile alla 97:113.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610178865/hein-ja-werder-kaotasid-dortmundile-uleaja-karistusloogist",
-      "publishedAt": "2026-10-28T06:09:00.000Z",
+      "url": "https://sport.err.ee/1610179018/kullamae-ja-raieste-klubid-said-eurosarjas-kaotuse",
+      "publishedAt": "2026-10-28T08:47:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Doktoritöö: valusaid biopsiaid võib asendada tulevikus vereproov",
-      "summary": "Arstid peavad praegu kasvaja või mõne muu kahjustatud elundi sees toimuva mõistmiseks võtma sageli sellest tükikese elavat kude.",
+      "title": "OpenAI tehisaru kummutas eksponentsiaalse aja hüpoteesi",
+      "summary": "OpeanAI teatas esmaspäeval, et kummutas eksponentsiaalse aja hüpoteesi (ETH), mille kohaselt on teatud loogikaprobleemide lahendamiseks mahu kasvades tarvis hoomamatult palju aega. Mõni tund hiljem avaldas Anthropic sarnase uuringu.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610178340/doktoritoo-valusaid-biopsiaid-voib-asendada-tulevikus-vereproov",
-      "publishedAt": "2026-10-27T12:17:00.000Z",
+      "url": "https://novaator.err.ee/1610178997/openai-tehisaru-kummutas-eksponentsiaalse-aja-hupoteesi",
+      "publishedAt": "2026-10-28T08:41:00.000Z",
       "summaryMode": "rss"
     }
   ],
