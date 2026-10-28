@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T01:10:22.542Z",
+  "updatedAt": "2026-10-28T02:55:50.618Z",
   "items": [
     {
       "category": "Eesti",
@@ -8,6 +8,15 @@
       "source": "ERR",
       "url": "https://www.err.ee/1610178682/allikmaa-veebikasiinode-maksusoodustuse-lootused-olid-rajatud-fiktsioonile",
       "publishedAt": "2026-10-27T21:00:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "USA turud",
+      "title": "Arukased puhastavad endisi põllumuldi tõhusalt raskmetallidest",
+      "summary": "Endiste põllumajandusmaade muld võib olla saastunud kahjulike raskmetallidega. Sellistele aladele istutatud arukaasikud on tootlikud ja seovad kasvu käigus kahjulikke metalle, aidates nii muldi puhastada, näitab hiljutine Eesti Maaülikooli teadlaste uuring.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610177194/arukased-puhastavad-endisi-pollumuldi-tohusalt-raskmetallidest",
+      "publishedAt": "2026-10-26T11:55:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -21,20 +30,11 @@
     },
     {
       "category": "Varia",
-      "title": "Kostivere karstiala näitab huvitavat looduse vaatemängu",
-      "summary": "Kostivere karstiala uuel õpperajal saab liikuda ka ratastooliga. Kohaliku loodusgiidi Tiina Noole sõnul on praegu parim aeg ilmaimet uudistada, sest veel pole jäänukpangad ega omalaadsed kiviseened suurvee alla jäänud, samas hakkab maa-alune Jõelähtme jõgi end välja pressima.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610178664/kostivere-karstiala-naitab-huvitavat-looduse-vaatemangu",
-      "publishedAt": "2026-10-27T19:36:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "USA turud",
-      "title": "Arukased puhastavad endisi põllumuldi tõhusalt raskmetallidest",
-      "summary": "Endiste põllumajandusmaade muld võib olla saastunud kahjulike raskmetallidega. Sellistele aladele istutatud arukaasikud on tootlikud ja seovad kasvu käigus kahjulikke metalle, aidates nii muldi puhastada, näitab hiljutine Eesti Maaülikooli teadlaste uuring.",
+      "title": "Doktoritöö: valusaid biopsiaid võib asendada tulevikus vereproov",
+      "summary": "Arstid peavad praegu kasvaja või mõne muu kahjustatud elundi sees toimuva mõistmiseks võtma sageli sellest tükikese elavat kude.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610177194/arukased-puhastavad-endisi-pollumuldi-tohusalt-raskmetallidest",
-      "publishedAt": "2026-10-26T11:55:00.000Z",
+      "url": "https://novaator.err.ee/1610178340/doktoritoo-valusaid-biopsiaid-voib-asendada-tulevikus-vereproov",
+      "publishedAt": "2026-10-27T12:17:00.000Z",
       "summaryMode": "rss"
     }
   ],
