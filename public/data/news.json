@@ -1,31 +1,13 @@
 {
-  "updatedAt": "2026-10-29T13:08:37.852Z",
+  "updatedAt": "2026-10-29T15:05:46.796Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Starship plaanib pakirobotite ohutuse parandamiseks tarkvaramuudatusi",
-      "summary": "Tallinnas toimus esmaspäeva õhtul bussi ja pakiroboti kokkupõrge, milles sai mitu inimest vigastada. Kuna robot on üldjoontes tarkvarapõhine masin, saavad ka parandused olema peaasjalikult tarkvarapõhised, et vältida tulevikus sarnaseid olukordi.",
+      "title": "Draamateater lõpetas grupitellimuste müügi menulavastustele",
+      "summary": "Eesti Draamateater peatas ülisuure nõudluse tõttu grupitellimuste vastuvõtmise ning piiras üksikmüügis müüdavate piletite hulka kahele piletile ühe ostja kohta.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610180374/starship-plaanib-pakirobotite-ohutuse-parandamiseks-tarkvaramuudatusi",
-      "publishedAt": "2026-10-29T12:56:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "EL plaanib anda piirivalveametnikele volitused sotsiaalmeediat jälgida",
-      "summary": "Euroopa Liidu ranniku- ja piirivalveametile (Frontex) kavandatavad uued volitused sotsiaalmeedia jälgimiseks ohustavad sõnavabadust, ütlesid Euroopa Parlamendi saadikud ja kodanikuühiskonna esindajad väljaandele Politico.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610180398/el-plaanib-anda-piirivalveametnikele-volitused-sotsiaalmeediat-jalgida",
-      "publishedAt": "2026-10-29T12:47:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Õudusfilmid peegeldavad ühiskonna ja inimeste isiklikke hirme",
-      "summary": "Õudusfilmid peegeldavad ühiskonnas toimuvaid muutusi ja inimeste isiklikke hirme, aga need pakuvad võimalust kogeda hirmu turvalises keskkonnas, leiavad teadlased.",
-      "source": "ERR",
-      "url": "https://novaator.err.ee/1610180419/oudusfilmid-peegeldavad-uhiskonna-ja-inimeste-isiklikke-hirme",
-      "publishedAt": "2026-10-29T12:55:00.000Z",
+      "url": "https://www.err.ee/1610180512/draamateater-lopetas-grupitellimuste-muugi-menulavastustele",
+      "publishedAt": "2026-10-29T14:05:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -35,6 +17,24 @@
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610177194/arukased-puhastavad-endisi-pollumuldi-tohusalt-raskmetallidest",
       "publishedAt": "2026-10-26T11:55:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Euroopa Keskpank jättis intressimäärad muutmata",
+      "summary": "Euroopa Keskpanga nõukogu otsustas neljapäeval jätta baasintressimäärad muutmata.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610180506/euroopa-keskpank-jattis-intressimaarad-muutmata",
+      "publishedAt": "2026-10-29T13:46:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Õudusfilmid peegeldavad ühiskonna ja inimeste isiklikke hirme",
+      "summary": "Õudusfilmid peegeldavad ühiskonnas toimuvaid muutusi ja inimeste isiklikke hirme, aga need pakuvad võimalust kogeda hirmu turvalises keskkonnas, leiavad teadlased.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610180419/oudusfilmid-peegeldavad-uhiskonna-ja-inimeste-isiklikke-hirme",
+      "publishedAt": "2026-10-29T12:55:00.000Z",
       "summaryMode": "rss"
     }
   ],
