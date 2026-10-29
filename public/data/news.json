@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-10-29T10:56:53.284Z",
+  "updatedAt": "2026-10-29T13:08:37.852Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Eesti oli liiklussurmade suhtarvult mullu Euroopa kõige ohutumate riikide seas",
-      "summary": "Eestis hukkus eelmisel aastal liikluses 43 inimest, mis teeb 31 hukkunut miljoni elaniku kohta. Selle näitajaga oli Eesti koos Põhjamaadega Euroopa kõige ohutumate riikide esikuuikus.",
+      "title": "Starship plaanib pakirobotite ohutuse parandamiseks tarkvaramuudatusi",
+      "summary": "Tallinnas toimus esmaspäeva õhtul bussi ja pakiroboti kokkupõrge, milles sai mitu inimest vigastada. Kuna robot on üldjoontes tarkvarapõhine masin, saavad ka parandused olema peaasjalikult tarkvarapõhised, et vältida tulevikus sarnaseid olukordi.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610180200/eesti-oli-liiklussurmade-suhtarvult-mullu-euroopa-koige-ohutumate-riikide-seas",
-      "publishedAt": "2026-10-29T09:25:00.000Z",
+      "url": "https://www.err.ee/1610180374/starship-plaanib-pakirobotite-ohutuse-parandamiseks-tarkvaramuudatusi",
+      "publishedAt": "2026-10-29T12:56:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "EL plaanib anda piirivalveametnikele volitused sotsiaalmeediat jälgida",
+      "summary": "Euroopa Liidu ranniku- ja piirivalveametile (Frontex) kavandatavad uued volitused sotsiaalmeedia jälgimiseks ohustavad sõnavabadust, ütlesid Euroopa Parlamendi saadikud ja kodanikuühiskonna esindajad väljaandele Politico.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610180398/el-plaanib-anda-piirivalveametnikele-volitused-sotsiaalmeediat-jalgida",
+      "publishedAt": "2026-10-29T12:47:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Õudusfilmid peegeldavad ühiskonna ja inimeste isiklikke hirme",
+      "summary": "Õudusfilmid peegeldavad ühiskonnas toimuvaid muutusi ja inimeste isiklikke hirme, aga need pakuvad võimalust kogeda hirmu turvalises keskkonnas, leiavad teadlased.",
+      "source": "ERR",
+      "url": "https://novaator.err.ee/1610180419/oudusfilmid-peegeldavad-uhiskonna-ja-inimeste-isiklikke-hirme",
+      "publishedAt": "2026-10-29T12:55:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610177194/arukased-puhastavad-endisi-pollumuldi-tohusalt-raskmetallidest",
       "publishedAt": "2026-10-26T11:55:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Lagarde lahkub veebruaris ECB juhi kohalt enne ametiaja lõppu",
-      "summary": "Christine Lagarde teatas, et astub 7. veebruaril Euroopa Keskpanga (ECB) presidendi kohalt tagasi. Tema ametiaeg pidanuks kestma 2027. aasta oktoobrini.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610180311/lagarde-lahkub-veebruaris-ecb-juhi-kohalt-enne-ametiaja-loppu",
-      "publishedAt": "2026-10-29T10:51:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "ERC-i stardigrantide edukusmäär langes aastaga hüppeliselt",
-      "summary": "Euroopa Teadusnõukogu (ERC) stardigrantide edukusmäär langeb lõppenud taotlusvoorus hinnanguliselt alla viie protsendi, mis on madalaim näitaja alates programmi esimesest taotlusvoorust 2007. aastal. Teadlased hoiatavad, et nii tihedas konkurentsis muutuvad hindamispaneelide valikud loteriiks.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610180254/erc-i-stardigrantide-edukusmaar-langes-aastaga-huppeliselt",
-      "publishedAt": "2026-10-29T09:53:00.000Z",
       "summaryMode": "rss"
     }
   ],
