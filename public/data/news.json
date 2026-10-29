@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-10-29T07:08:09.096Z",
+  "updatedAt": "2026-10-29T09:01:55.681Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Kaimo Kuusk kandideerib Parempoolsete nimekirjas riigikokku",
-      "summary": "Endine kaitseministeeriumi kantsler ning varasem Eesti suursaadik Ukrainas ja Leedus Kaimo Kuusk liitub Parempoolsetega ning kandideerib 2027. aasta valimistel riigikokku.",
+      "title": "Eesti 200 tahab koos riigikogu valimistega referendumit eutanaasia seadustamiseks",
+      "summary": "Erakond Eesti 200 soovib koos märtsis toimuvate riigikogu valimistega ka referendumi korraldamist, millel küsitakse kodanike arvamust eutanaasia seadustamise küsimuses.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610179975/kaimo-kuusk-kandideerib-parempoolsete-nimekirjas-riigikokku",
-      "publishedAt": "2026-10-29T05:01:00.000Z",
+      "url": "https://www.err.ee/1610180182/eesti-200-tahab-koos-riigikogu-valimistega-referendumit-eutanaasia-seadustamiseks",
+      "publishedAt": "2026-10-29T08:45:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Vene korvpallikoondise peatreener ERR-ile: ma ei põgene oma kohustuste eest",
+      "summary": "Valitsev Eesti korvpallimeister Tartu Ülikool Maks & Moorits alistas kolmapäeval FIBA Euroopa karikasarjas Kreeka klubi Iraklise lisaaja järel 101:100. Iraklise peatreener Zoran Lukic on alates 2021. aastast juhendanud ka Venemaa rahvuskoondist.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610180143/vene-korvpallikoondise-peatreener-err-ile-ma-ei-pogene-oma-kohustuste-eest",
+      "publishedAt": "2026-10-29T08:31:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Tartu teadlaste robotliblikas kasvatas endale uue meeleelundi",
+      "summary": "Eesti teadlastel õnnestus robotliblika tiiva sisse kasvatada valgusandur. Katse tõestab, et roboti keha ei pea olema tehasest väljudes lõplikult valmis. Tulevikus võiksid robotid kasvatada endale ise uusi kehaosi vastavalt keskkonnale ja vajadusele.",
+      "source": "ERR",
+      "url": "https://novaator.err.ee/1610179354/tartu-teadlaste-robotliblikas-kasvatas-endale-uue-meeleelundi",
+      "publishedAt": "2026-10-29T08:17:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR",
       "url": "https://www.err.ee/1610179480/usa-foderaalreserv-jattis-intressimaarad-muutmata",
       "publishedAt": "2026-10-28T18:33:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Ukraina korraldas Moskvale ulatusliku droonirünnaku",
-      "summary": "Ukraina väed korraldasid ööl vastu neljapäeva ulatusliku droonirünnaku Moskva ja Venemaa pealinna ümbritseva piirkonna vastu, teatasid kohalikud võimud. Moskva linnapea väitis, et õhutõrje tulistas alla vähemalt 136 Ukraina drooni.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610179960/ukraina-korraldas-moskvale-ulatusliku-droonirunnaku",
-      "publishedAt": "2026-10-29T03:49:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Tartu Anne kanali veereostuse taga on heatahtlikud linnutoitjad",
-      "summary": "Tartu Anne kanali veereostuse suurima osa moodustavad lindude väljaheited, selgus selle vee mikrobioloogilisest analüüsist. Reostust mahitavad kanali ääres linde toitvad inimesed.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610179219/tartu-anne-kanali-veereostuse-taga-on-heatahtlikud-linnutoitjad",
-      "publishedAt": "2026-10-28T13:06:00.000Z",
       "summaryMode": "rss"
     }
   ],
