@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-10-29T09:01:55.681Z",
+  "updatedAt": "2026-10-29T10:56:53.284Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Eesti 200 tahab koos riigikogu valimistega referendumit eutanaasia seadustamiseks",
-      "summary": "Erakond Eesti 200 soovib koos märtsis toimuvate riigikogu valimistega ka referendumi korraldamist, millel küsitakse kodanike arvamust eutanaasia seadustamise küsimuses.",
+      "title": "Eesti oli liiklussurmade suhtarvult mullu Euroopa kõige ohutumate riikide seas",
+      "summary": "Eestis hukkus eelmisel aastal liikluses 43 inimest, mis teeb 31 hukkunut miljoni elaniku kohta. Selle näitajaga oli Eesti koos Põhjamaadega Euroopa kõige ohutumate riikide esikuuikus.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610180182/eesti-200-tahab-koos-riigikogu-valimistega-referendumit-eutanaasia-seadustamiseks",
-      "publishedAt": "2026-10-29T08:45:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Vene korvpallikoondise peatreener ERR-ile: ma ei põgene oma kohustuste eest",
-      "summary": "Valitsev Eesti korvpallimeister Tartu Ülikool Maks & Moorits alistas kolmapäeval FIBA Euroopa karikasarjas Kreeka klubi Iraklise lisaaja järel 101:100. Iraklise peatreener Zoran Lukic on alates 2021. aastast juhendanud ka Venemaa rahvuskoondist.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610180143/vene-korvpallikoondise-peatreener-err-ile-ma-ei-pogene-oma-kohustuste-eest",
-      "publishedAt": "2026-10-29T08:31:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Tartu teadlaste robotliblikas kasvatas endale uue meeleelundi",
-      "summary": "Eesti teadlastel õnnestus robotliblika tiiva sisse kasvatada valgusandur. Katse tõestab, et roboti keha ei pea olema tehasest väljudes lõplikult valmis. Tulevikus võiksid robotid kasvatada endale ise uusi kehaosi vastavalt keskkonnale ja vajadusele.",
-      "source": "ERR",
-      "url": "https://novaator.err.ee/1610179354/tartu-teadlaste-robotliblikas-kasvatas-endale-uue-meeleelundi",
-      "publishedAt": "2026-10-29T08:17:00.000Z",
+      "url": "https://www.err.ee/1610180200/eesti-oli-liiklussurmade-suhtarvult-mullu-euroopa-koige-ohutumate-riikide-seas",
+      "publishedAt": "2026-10-29T09:25:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "USA föderaalreserv jättis intressimäärad muutmata",
-      "summary": "USA föderaalreserv otsustas kolmapäeval jätta intressimäärad muutmata, kuid mitmed ametnikud andsid märku, et lähiajal võib oodata rahapoliitika karmistamist.",
+      "title": "Arukased puhastavad endisi põllumuldi tõhusalt raskmetallidest",
+      "summary": "Endiste põllumajandusmaade muld võib olla saastunud kahjulike raskmetallidega. Sellistele aladele istutatud arukaasikud on tootlikud ja seovad kasvu käigus kahjulikke metalle, aidates nii muldi puhastada, näitab hiljutine Eesti Maaülikooli teadlaste uuring.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610177194/arukased-puhastavad-endisi-pollumuldi-tohusalt-raskmetallidest",
+      "publishedAt": "2026-10-26T11:55:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Lagarde lahkub veebruaris ECB juhi kohalt enne ametiaja lõppu",
+      "summary": "Christine Lagarde teatas, et astub 7. veebruaril Euroopa Keskpanga (ECB) presidendi kohalt tagasi. Tema ametiaeg pidanuks kestma 2027. aasta oktoobrini.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610179480/usa-foderaalreserv-jattis-intressimaarad-muutmata",
-      "publishedAt": "2026-10-28T18:33:00.000Z",
+      "url": "https://www.err.ee/1610180311/lagarde-lahkub-veebruaris-ecb-juhi-kohalt-enne-ametiaja-loppu",
+      "publishedAt": "2026-10-29T10:51:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "ERC-i stardigrantide edukusmäär langes aastaga hüppeliselt",
+      "summary": "Euroopa Teadusnõukogu (ERC) stardigrantide edukusmäär langeb lõppenud taotlusvoorus hinnanguliselt alla viie protsendi, mis on madalaim näitaja alates programmi esimesest taotlusvoorust 2007. aastal. Teadlased hoiatavad, et nii tihedas konkurentsis muutuvad hindamispaneelide valikud loteriiks.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610180254/erc-i-stardigrantide-edukusmaar-langes-aastaga-huppeliselt",
+      "publishedAt": "2026-10-29T09:53:00.000Z",
       "summaryMode": "rss"
     }
   ],
