@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T16:56:00.311Z",
+  "updatedAt": "2026-10-30T18:56:17.036Z",
   "items": [
     {
       "category": "Eesti",
@@ -12,29 +12,29 @@
     },
     {
       "category": "USA turud",
-      "title": "Postimees Grupi majandusaasta lõppes miljonieurose kahjumiga",
-      "summary": "Postimees Grupi müügitulu kasvas eelmisel majandusaastal, kuid ettevõte teenis miljon eurot kahjumit, selgub ettevõtte majandusaasta aruandest.",
+      "title": "Ukraina ja Venemaa evakueerisid okupeeritud Oleškõ linna elanikke",
+      "summary": "Ukraina ja Venemaa evakueerisid koostöös Oleškõ linna elanikke. Ukraina taasalustas rünnakuid Venemaa naftarafineerimistehaste vastu.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610181661/postimees-grupi-majandusaasta-loppes-miljonieurose-kahjumiga",
-      "publishedAt": "2026-10-30T11:37:00.000Z",
+      "url": "https://www.err.ee/1610180905/ukraina-ja-venemaa-evakueerisid-okupeeritud-olesko-linna-elanikke",
+      "publishedAt": "2026-10-30T03:53:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "14-aastane Anikina alistas Rootsis maailma 237. reketi",
-      "summary": "14-aastane Eesti tennise tulevikulootus Elizaveta Anikina teenis Rootsis Täbys toimuval W15 turniiril suurepärase võidu, kui alistas turniiril esimesena asetatud Caijsa Wilda Hennemanni (WTA 237.) kahes setis.",
+      "title": "USA-s toimuval G20 kohtumisel jäi ühisfoto Lavrovi kohaloleku tõttu ära",
+      "summary": "Euroopa diplomaadid keeldusid USA-s toimuval G20 välisministrite kohtumisel koos Venemaa välisministri Sergei Lavroviga ametlikule ühispildile minemast, mistõttu tühistasid võõrustajad kavandatud pildistamise.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610181991/14-aastane-anikina-alistas-rootsis-maailma-237-reketi",
-      "publishedAt": "2026-10-30T16:36:00.000Z",
+      "url": "https://www.err.ee/1610182024/usa-s-toimuval-g20-kohtumisel-jai-uhisfoto-lavrovi-kohaloleku-tottu-ara",
+      "publishedAt": "2026-10-30T17:58:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Järva vallas avati erainitsiatiivil loodud loodushariduskeskus",
-      "summary": "Järva vallas, Karinu külas, Tenno talu ümberehitatud vanas laudahoones avati loodushariduskeskus- Tenno looduskool, kus mittetulundusühing Tenno Matkad hakkab kõikidele soovijatele korraldama looduskoolitusi.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610181959/jarva-vallas-avati-erainitsiatiivil-loodud-loodushariduskeskus",
-      "publishedAt": "2026-10-30T15:50:01.000Z",
+      "title": "Valgamaal leiti ohtlik taimehaigus viljapuu-bakterpõletik",
+      "summary": "Tõrva vallas Linna külas asuvaid viirpuid ründas ohtlik taimehaigus nimega viljapuu-bakterpõletik, mis võib laieneda kiiresti teistele puudele. Vald asub uuel nädalal haigeid puid maha võtma, et säästa piirkonna õuna- ja pirniaedu.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610181772/valgamaal-leiti-ohtlik-taimehaigus-viljapuu-bakterpoletik",
+      "publishedAt": "2026-10-30T12:04:00.000Z",
       "summaryMode": "rss"
     }
   ],
