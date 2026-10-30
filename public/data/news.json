@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T04:56:52.148Z",
+  "updatedAt": "2026-10-30T07:08:28.924Z",
   "items": [
     {
       "category": "Eesti",
@@ -12,29 +12,29 @@
     },
     {
       "category": "USA turud",
-      "title": "WSJ: Ukraina peatas USA survel ajutiselt rünnakud Vene naftarajatiste vastu",
-      "summary": "Ajalehe The Wall Street Journal allikate sõnul peatas Ukraina sõjavägi USA presidendi Donald Trumpi survel ajutiselt rünnakud Venemaa naftarajatiste vastu. Venemaa hilisõhtuses õhurünnakus Ukraina pealinnale Kiievile hukkus inimene",
+      "title": "Ukraina taasalustas rünnakuid Venemaa naftarafineerimistehaste vastu",
+      "summary": "Ukraina ei rünnanud mitu päeva Venemaal asuvaid naftatehaseid ja ajalehe The Wall Street Journal allikate sõnul peatas Ukraina sõjavägi USA presidendi Donald Trumpi survel ajutiselt rünnakud Venemaa naftarajatiste vastu.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610180905/wsj-ukraina-peatas-usa-survel-ajutiselt-runnakud-vene-naftarajatiste-vastu",
+      "url": "https://www.err.ee/1610180905/ukraina-taasalustas-runnakuid-venemaa-naftarafineerimistehaste-vastu",
       "publishedAt": "2026-10-30T03:53:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Advokaadid Ginter, Nerets, Švirinas: põhiõigus rüüstata",
-      "summary": "Euroopas toimuvate rahutuste ja Prantsusmaa värske seaduseelnõu taustal käsitlevad advokaadid Carri Ginter, Valts Nerets ja Kęstutis Švirinas ühisartiklis sõna- ja kogunemisvabaduse piire ning küsimust, kas meeleavaldaja võib vastutada ka teiste osalejate tekitatud kahju eest.",
+      "title": "Zverevist saab maailma esireket järgmisel esmaspäeval",
+      "summary": "Saksamaa tennisist Alexander Zverev (ATP 2.) jõudis neljapäeval Viinis toimuval ATP 500 taseme turniiril veerandfinaali ja tõuseb tänu sellele juba esmaspäeval maailma esireketiks.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610180929/advokaadid-ginter-nerets-svirinas-pohioigus-ruustata",
-      "publishedAt": "2026-10-30T04:47:00.000Z",
+      "url": "https://sport.err.ee/1610180965/zverevist-saab-maailma-esireket-jargmisel-esmaspaeval",
+      "publishedAt": "2026-10-30T06:32:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Bayerni peatreener Kompany sai haiglast välja",
-      "summary": "Treeningul kokku kukkunud Müncheni Bayerni peatreener Vincent Kompany kirjutati kolmapäeval haiglast välja, aga tema tööpostile naasmise aeg pole veel teada.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610180602/bayerni-peatreener-kompany-sai-haiglast-valja",
-      "publishedAt": "2026-10-29T18:06:00.000Z",
+      "title": "Õudusfilmid peegeldavad ühiskonna ja inimeste isiklikke hirme",
+      "summary": "Õudusfilmid peegeldavad ühiskonnas toimuvaid muutusi ja inimeste isiklikke hirme, aga need pakuvad võimalust kogeda hirmu turvalises keskkonnas, leiavad teadlased.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610180419/oudusfilmid-peegeldavad-uhiskonna-ja-inimeste-isiklikke-hirme",
+      "publishedAt": "2026-10-29T12:55:00.000Z",
       "summaryMode": "rss"
     }
   ],
