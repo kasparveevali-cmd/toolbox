@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-31T04:54:03.066Z",
+  "updatedAt": "2026-10-31T07:01:47.729Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Jervan: IT-sektoris on võitjad need, kes suudavad kohaneda muutustega",
-      "summary": "Tulevikus teeb lihtsama programmeerimistöö ära tehisintellekt, mistõttu vajab Eesti majandus koodikirjutajate asemel IT-insenere, kes suudavad tehisaru taltsutada ja seda teistes valdkondades turvaliselt rakendada, sõnas Tallinna Tehnikaülikooli infotehnoloogia teaduskonna dekaan Gert Jervan…",
+      "title": "Mölder: omade pime eelistamine tapab demokraatliku arutelukultuuri",
+      "summary": "TÜ politoloog Martin Mölder rääkis Vikerraadio \"Reedeses intervjuus\", et see, kuidas inimesed mõtlevad oma eelistatud erakonnast ja selle toetajatest väga positiivses mõttes ning vastanderakonnast ja selle toetajatest väga negatiivses mõttes on tendents, mis tapab demokraatliku arutelukultuuri,…",
       "source": "ERR",
-      "url": "https://www.err.ee/1610182063/jervan-it-sektoris-on-voitjad-need-kes-suudavad-kohaneda-muutustega",
-      "publishedAt": "2026-10-30T19:40:00.000Z",
+      "url": "https://www.err.ee/1610180497/molder-omade-pime-eelistamine-tapab-demokraatliku-arutelukultuuri",
+      "publishedAt": "2026-10-31T06:45:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -21,20 +21,20 @@
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "USA-s toimuval G20 kohtumisel jäi ühisfoto Lavrovi kohaloleku tõttu ära",
-      "summary": "Euroopa diplomaadid keeldusid USA-s toimuval G20 välisministrite kohtumisel koos Venemaa välisministri Sergei Lavroviga ametlikule ühispildile minemast, mistõttu tühistasid võõrustajad kavandatud pildistamise.",
+      "title": "Hakimi oli osaline kõigis viies PSG väravas",
+      "summary": "Prantsusmaa jalgpalli kõrgliigas tegi reedel hiilgava esituse Pariisi Saint-Germaini äärekaitsja Achraf Hakimi.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610182024/usa-s-toimuval-g20-kohtumisel-jai-uhisfoto-lavrovi-kohaloleku-tottu-ara",
-      "publishedAt": "2026-10-30T17:58:00.000Z",
+      "url": "https://sport.err.ee/1610182207/hakimi-oli-osaline-koigis-viies-psg-varavas",
+      "publishedAt": "2026-10-31T06:35:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Tehnoloogiasektorit tabanud koondamiste laine on põhjustanud tehisaru",
-      "summary": "Tehnoloogiasektorit on tabanud koondamiste laine. Ettevõtted põhjendavad muutusi üha sagedamini tehisaruga. Aastaid on Eestis räägitud programmeerijate puudusest. Kas peagi võib neid hoopis olla üle?",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610182030/tehnoloogiasektorit-tabanud-koondamiste-laine-on-pohjustanud-tehisaru",
-      "publishedAt": "2026-10-30T19:04:00.000Z",
+      "title": "Valgamaal leiti ohtlik taimehaigus viljapuu-bakterpõletik",
+      "summary": "Tõrva vallas Linna külas asuvaid viirpuid ründas ohtlik taimehaigus nimega viljapuu-bakterpõletik, mis võib laieneda kiiresti teistele puudele. Vald asub uuel nädalal haigeid puid maha võtma, et säästa piirkonna õuna- ja pirniaedu.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610181772/valgamaal-leiti-ohtlik-taimehaigus-viljapuu-bakterpoletik",
+      "publishedAt": "2026-10-30T12:04:00.000Z",
       "summaryMode": "rss"
     }
   ],
