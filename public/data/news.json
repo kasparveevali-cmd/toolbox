@@ -1,31 +1,22 @@
 {
-  "updatedAt": "2026-11-02T11:09:00.006Z",
+  "updatedAt": "2026-11-02T13:19:49.062Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Vjatšeslav Leedo asus Tallinna vanglas karistust kandma",
-      "summary": "Saaremaa Laevakompanii maksejõuetuse põhjustamises süüdi mõistetud Vjatšeslav Leedo on asunud Tallinna vanglas karistust kandma.",
+      "title": "Ringkonnakohus jättis jõusse prokurörile määratud tingimisi vangistuse",
+      "summary": "Tallinna Ringkonnakohus jättis muutmata Harju Maakohtu otsuse, millega tunnistati prokurör Eve Soostar süüdi kokkuleppemenetluse nõusoleku avalduse võltsimises ja võltsitud nõusolekuavalduse kasutamises. Kohus karistas Soostarit tingimisi vangistusega.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610183254/vjatseslav-leedo-asus-tallinna-vanglas-karistust-kandma",
-      "publishedAt": "2026-11-02T08:51:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "USA turud",
-      "title": "Arukased puhastavad endisi põllumuldi tõhusalt raskmetallidest",
-      "summary": "Endiste põllumajandusmaade muld võib olla saastunud kahjulike raskmetallidega. Sellistele aladele istutatud arukaasikud on tootlikud ja seovad kasvu käigus kahjulikke metalle, aidates nii muldi puhastada, näitab hiljutine Eesti Maaülikooli teadlaste uuring.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610177194/arukased-puhastavad-endisi-pollumuldi-tohusalt-raskmetallidest",
-      "publishedAt": "2026-10-26T11:55:00.000Z",
+      "url": "https://www.err.ee/1610183440/ringkonnakohus-jattis-jousse-prokurorile-maaratud-tingimisi-vangistuse",
+      "publishedAt": "2026-11-02T12:25:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Juul teenis trekisõidu MM-ilt paralümpiaks väärtuslikke reitingupunkte",
-      "summary": "Hollandis Apeldoornis lõppesid pühapäeval pararatturite trekisõidu maailmameistrivõistlused. Ainsa eestlasena võistlustules olnud Mari-Liis Juul pälvis naiste C5 klassi scratchis ehk 10 km lõpufinišiga grupisõidus 11. koha.",
+      "title": "Pertens vedas Puijo Soomes võiduni, Cicettilt Ungaris särav esitus",
+      "summary": "Eelmine nädal tõi välisliigades mängivate Eesti võrkpallurite poolt mitu säravat esitust.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610183365/juul-teenis-trekisoidu-mm-ilt-paralumpiaks-vaartuslikke-reitingupunkte",
-      "publishedAt": "2026-11-02T10:58:00.000Z",
+      "url": "https://sport.err.ee/1610183464/pertens-vedas-puijo-soomes-voiduni-cicettilt-ungaris-sarav-esitus",
+      "publishedAt": "2026-11-02T12:59:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -35,6 +26,15 @@
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610183242/prantsuse-rahvasaadikud-hauvad-motet-andmemaksust",
       "publishedAt": "2026-11-02T08:14:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "USA turud",
+      "title": "Arukased puhastavad endisi põllumuldi tõhusalt raskmetallidest",
+      "summary": "Endiste põllumajandusmaade muld võib olla saastunud kahjulike raskmetallidega. Sellistele aladele istutatud arukaasikud on tootlikud ja seovad kasvu käigus kahjulikke metalle, aidates nii muldi puhastada, näitab hiljutine Eesti Maaülikooli teadlaste uuring.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610177194/arukased-puhastavad-endisi-pollumuldi-tohusalt-raskmetallidest",
+      "publishedAt": "2026-10-26T11:55:00.000Z",
       "summaryMode": "rss"
     }
   ],
