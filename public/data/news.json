@@ -1,22 +1,31 @@
 {
-  "updatedAt": "2026-11-02T13:19:49.062Z",
+  "updatedAt": "2026-11-02T15:03:30.784Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Ringkonnakohus jättis jõusse prokurörile määratud tingimisi vangistuse",
-      "summary": "Tallinna Ringkonnakohus jättis muutmata Harju Maakohtu otsuse, millega tunnistati prokurör Eve Soostar süüdi kokkuleppemenetluse nõusoleku avalduse võltsimises ja võltsitud nõusolekuavalduse kasutamises. Kohus karistas Soostarit tingimisi vangistusega.",
+      "title": "Draamateater müüs menulavastuste piletid veebis maha mõne minutiga",
+      "summary": "Eesti Draamateatris tulid esmaspäeval müüki jaanuari ja veebruari etenduste piletid, mida jagus soovijatele vaid pärastlõunani. Enamik pileteid osteti veebist.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610183440/ringkonnakohus-jattis-jousse-prokurorile-maaratud-tingimisi-vangistuse",
-      "publishedAt": "2026-11-02T12:25:00.000Z",
+      "url": "https://www.err.ee/1610183572/draamateater-muus-menulavastuste-piletid-veebis-maha-mone-minutiga",
+      "publishedAt": "2026-11-02T14:44:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "USA turud",
+      "title": "Ukraina ründas Samaara oblastis asuvat naftataristut",
+      "summary": "Ukrainas agressioonisõda pidavad Vene relvajõud kaotasid oktoobris territooriumi juba teist kuud järjest, teatas sõjasündmusi jälgiv USA mõttekoda Sõjauuringute Instituut (ISW). Ukraina teatel kaotas Venemaa viimase ööpäevaga 2500 sõdurit, mis on suurim näitaja alates sõja algusest.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610183056/ukraina-rundas-samaara-oblastis-asuvat-naftataristut",
+      "publishedAt": "2026-11-02T03:57:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Pertens vedas Puijo Soomes võiduni, Cicettilt Ungaris särav esitus",
-      "summary": "Eelmine nädal tõi välisliigades mängivate Eesti võrkpallurite poolt mitu säravat esitust.",
+      "title": "Zverev tõusis uueks maailma esireketiks, Glinka taas Eesti esinumber",
+      "summary": "Värskelt avaldatud tennise maailma edetabelis vahetus liider, kui Alexander Zverevist sai 30. ATP karusselli esinumber läbi ajaloo.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610183464/pertens-vedas-puijo-soomes-voiduni-cicettilt-ungaris-sarav-esitus",
-      "publishedAt": "2026-11-02T12:59:00.000Z",
+      "url": "https://sport.err.ee/1610183509/zverev-tousis-uueks-maailma-esireketiks-glinka-taas-eesti-esinumber",
+      "publishedAt": "2026-11-02T13:57:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -26,15 +35,6 @@
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610183242/prantsuse-rahvasaadikud-hauvad-motet-andmemaksust",
       "publishedAt": "2026-11-02T08:14:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "USA turud",
-      "title": "Arukased puhastavad endisi põllumuldi tõhusalt raskmetallidest",
-      "summary": "Endiste põllumajandusmaade muld võib olla saastunud kahjulike raskmetallidega. Sellistele aladele istutatud arukaasikud on tootlikud ja seovad kasvu käigus kahjulikke metalle, aidates nii muldi puhastada, näitab hiljutine Eesti Maaülikooli teadlaste uuring.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610177194/arukased-puhastavad-endisi-pollumuldi-tohusalt-raskmetallidest",
-      "publishedAt": "2026-10-26T11:55:00.000Z",
       "summaryMode": "rss"
     }
   ],
