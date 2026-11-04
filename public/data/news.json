@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T07:28:15.051Z",
+  "updatedAt": "2026-11-04T09:06:10.013Z",
   "items": [
     {
       "category": "Eesti",
@@ -11,30 +11,30 @@
       "summaryMode": "rss"
     },
     {
+      "category": "Maailm / Euroopa",
+      "title": "Monfils jättis tennisega hüvasti: see on minu jaoks väga raske hetk",
+      "summary": "Endine maailma kuues reket Gael Monfils sai teisipäeval kodumaal Pariisis toimuval Masters-sarja turniiril austusavalduse osaliseks.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610185684/monfils-jattis-tennisega-huvasti-see-on-minu-jaoks-vaga-raske-hetk",
+      "publishedAt": "2026-11-04T08:24:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Elise Jalonen: autojuht ei hakka ratturiks üleöö",
+      "summary": "Kui mõte rattaga sõitmisest tekitab sinus õudu, siis võid sa olla üks nendest autojuhtidest, kes ei ole valmis enda käitumist muutma. See ei tähenda aga, et teised seda ei oleks.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610185723/elise-jalonen-autojuht-ei-hakka-ratturiks-uleoo",
+      "publishedAt": "2026-11-04T08:34:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
       "category": "USA turud",
       "title": "Sõja 1714. päev: Ukraina ründas Jaroslavli naftatöötlemistehast",
       "summary": "Ukraina korraldas ööl vastu teisipäeva droonirünnaku Venemaal Jaroslavlis asuva naftatöötlemistehase vastu, vallandades seal tulekahju. USA teatel toimub Ukraina, Venemaa ja Ameerika Ühendriikide ametnike kohtumine rahuvõimaluste arutamiseks Abu Dhabis järgmisel nädalal.",
       "source": "ERR",
       "url": "https://www.err.ee/1610184136/soja-1714-paev-ukraina-rundas-jaroslavli-naftatootlemistehast",
       "publishedAt": "2026-11-03T03:45:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Keira Rattur võitis maailmameistrivõistlustel teise kulla",
-      "summary": "Keira Rattur võitis teisipäeval Portugalis Albufeiras toimuvatel Downi sündroomiga ujujate maailmameistrivõistlustel oma teise kuldmedali, kui tuli esikohale 50 m rinnuliujumises ajaga 46,33. Sellega kaitses ta 2024. aastal samal distantsil võidetud maailmameistritiitlit.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610185567/keira-rattur-voitis-maailmameistrivoistlustel-teise-kulla",
-      "publishedAt": "2026-11-04T07:04:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Mesilasperel on ühine immuunsüsteem",
-      "summary": "Meie jaoks on meepurk köögilaual lihtsalt magus maius. Mesilastele on mesi aga osa nutikast ja täpselt paika pandud kaitsesüsteemist. Värske uuring näitab, et mesilaspere toimib otsekui hästi organiseeritud haigla, kus igas taru nurgas kasutatakse haigustekitajate vastu erinevaid keemilisi relvi.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610184832/mesilasperel-on-uhine-immuunsusteem",
-      "publishedAt": "2026-11-04T07:05:00.000Z",
       "summaryMode": "rss"
     }
   ],
