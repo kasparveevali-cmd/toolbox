@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-04T15:00:03.369Z",
+  "updatedAt": "2026-11-04T17:04:16.960Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Vaga: proovisime Pevkurit ümber veenda",
-      "summary": "Reformierakonna peasekretär Kristo Enn Vaga ütles ERR-ile, et erakond proovis Hanno Pevkurit ümber veenda, et poliitik siiski riigikogu valimistel kandideeriks. Vaga sõnul ei mõjutanud Pevkuri otsust ka talle pakutud valimisringkonna esinumbri koht.",
+      "title": "Jüristo: tipptegijate lahkumine Reformierakonnale hea uudis ei ole",
+      "summary": "Mitme Reformierakonna tipp-poliitiku riigikogu valimistelt kõrvale jäämine parteile kindlasti hea uudis ei ole ning seetõttu oleks ülioluline kaitseminister Martin Heremi Reformierakonna ridades kandideerimine, ütles SA Liberaalne Kodanik juht Tarmo Jüristo.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610186125/vaga-proovisime-pevkurit-umber-veenda",
-      "publishedAt": "2026-11-04T13:34:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Galerii: president Madise võõrustas Kadriorus Jordaania kroonprintsi",
-      "summary": "President Ülle Madise kohtus kolmapäeval Kadriorus Jordaania kroonprintsi Al Hussein bin Abdullah II, kellega kõneldi kahe riigi suhete tihendamisest, sealhulgas majanduses, Ukraina toetamisest ja julgeolekuolukorrast Lähis-Idas.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610186233/galerii-president-madise-voorustas-kadriorus-jordaania-kroonprintsi",
-      "publishedAt": "2026-11-04T14:46:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Noorluuletajad lõhuvad võõrkeelsete sõnadega vanu luulemalle",
-      "summary": "Ehkki paljud kardavad eesti-inglise segakeele levikut, näitavad ajakirja \"Värske Rõhk\" andmed vastupidist. Inglise keele osakaal püsib tekstides stabiilsena kümnendiku piires ja noored loovad võõrkeelsete sõnadega teadlikult poeetilisi efekte.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610185867/noorluuletajad-lohuvad-voorkeelsete-sonadega-vanu-luulemalle",
-      "publishedAt": "2026-11-04T09:19:00.000Z",
+      "url": "https://www.err.ee/1610186188/juristo-tipptegijate-lahkumine-reformierakonnale-hea-uudis-ei-ole",
+      "publishedAt": "2026-11-04T15:13:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Sõja 1714. päev: Ukraina ründas Jaroslavli naftatöötlemistehast",
-      "summary": "Ukraina korraldas ööl vastu teisipäeva droonirünnaku Venemaal Jaroslavlis asuva naftatöötlemistehase vastu, vallandades seal tulekahju. USA teatel toimub Ukraina, Venemaa ja Ameerika Ühendriikide ametnike kohtumine rahuvõimaluste arutamiseks Abu Dhabis järgmisel nädalal.",
+      "title": "USA valijad pöörasid elukalliduse kasvu tõttu Trumpile selja",
+      "summary": "Ajaleht The Wall Street Journal kirjutab, et ameeriklaste kasvav rahulolematus elukalliduse ja majandusolukorraga tõi valimistel demokraatidele suure võidu ning muutis riigi poliitilist jõuvahekorda.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610184136/soja-1714-paev-ukraina-rundas-jaroslavli-naftatootlemistehast",
-      "publishedAt": "2026-11-03T03:45:00.000Z",
+      "url": "https://www.err.ee/1610186281/usa-valijad-poorasid-elukalliduse-kasvu-tottu-trumpile-selja",
+      "publishedAt": "2026-11-04T15:48:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Tüür: Trump võib hakata otsima koostööd Hiina või Venemaaga",
+      "summary": "Eesti ekspertide hinnangul võib siseriiklikult võimu kaotanud USA president Donald Trump oma fookuse senisest enam välispoliitikale suunata, mis ei pruugi Euroopale kasuks tulla. Politoloog Karmo Tüür usub, et Trump võib kongressi blokeerida ja koostööd otsima hakata Venemaalt ja Hiinast.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610186329/tuur-trump-voib-hakata-otsima-koostood-hiina-voi-venemaaga",
+      "publishedAt": "2026-11-04T16:46:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Kultuuriakadeemia tudengid toovad koos Elina Masinguga lavale loo kibestumisest",
+      "summary": "Kanuti Gildi Saalis jõudis publiku ette Elina Masingu ja Tartu Ülikooli Viljandi kultuuriakadeemia etenduskunstide lõpukursuse lavastus \"Replica\", mille põhimotiiviks on kibestumine.",
+      "source": "ERR",
+      "url": "https://kultuur.err.ee/1610186215/kultuuriakadeemia-tudengid-toovad-koos-elina-masinguga-lavale-loo-kibestumisest",
+      "publishedAt": "2026-11-04T16:55:00.000Z",
       "summaryMode": "rss"
     }
   ],
