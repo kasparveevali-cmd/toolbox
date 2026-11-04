@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-04T17:04:16.960Z",
+  "updatedAt": "2026-11-04T19:08:51.271Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Jüristo: tipptegijate lahkumine Reformierakonnale hea uudis ei ole",
-      "summary": "Mitme Reformierakonna tipp-poliitiku riigikogu valimistelt kõrvale jäämine parteile kindlasti hea uudis ei ole ning seetõttu oleks ülioluline kaitseminister Martin Heremi Reformierakonna ridades kandideerimine, ütles SA Liberaalne Kodanik juht Tarmo Jüristo.",
+      "title": "\"Pealtnägija\": Põhja-Korea häkkerid sihivad Eesti IT-eksperte",
+      "summary": "Eestis räägitakse Vene ja Hiina luure- ja küberohust, kuid näiliselt mahajäänud Põhja-Korea korraldab keerulisi ründeid, millega saavad pihta ka eestlased. \"Pealtnägija\" uuris, kuidas riik tegeleb küberkuritegevusega ning mil moel püüti hiljuti õnge võtta Eesti arvutiekspert Tõnu Samuel.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610186188/juristo-tipptegijate-lahkumine-reformierakonnale-hea-uudis-ei-ole",
-      "publishedAt": "2026-11-04T15:13:00.000Z",
+      "url": "https://www.err.ee/1610186398/pealtnagija-pohja-korea-hakkerid-sihivad-eesti-it-eksperte",
+      "publishedAt": "2026-11-04T18:48:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "USA valijad pöörasid elukalliduse kasvu tõttu Trumpile selja",
-      "summary": "Ajaleht The Wall Street Journal kirjutab, et ameeriklaste kasvav rahulolematus elukalliduse ja majandusolukorraga tõi valimistel demokraatidele suure võidu ning muutis riigi poliitilist jõuvahekorda.",
+      "title": "Arras: kaotus paneb vabariiklased raskesse seisu, kuid Trump tagasi ei tõmba",
+      "summary": "USA vahevalimistel toimunud demokraatide suurvõidu peamiseks põhjuseks on ameeriklaste igapäevased toimetulekumured, inflatsioon ja rahulolematus, rääkis poliitikavaatleja Annika Arras \"Ringvaates\".",
       "source": "ERR",
-      "url": "https://www.err.ee/1610186281/usa-valijad-poorasid-elukalliduse-kasvu-tottu-trumpile-selja",
-      "publishedAt": "2026-11-04T15:48:00.000Z",
+      "url": "https://www.err.ee/1610186374/arras-kaotus-paneb-vabariiklased-raskesse-seisu-kuid-trump-tagasi-ei-tomba",
+      "publishedAt": "2026-11-04T17:44:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Tüür: Trump võib hakata otsima koostööd Hiina või Venemaaga",
-      "summary": "Eesti ekspertide hinnangul võib siseriiklikult võimu kaotanud USA president Donald Trump oma fookuse senisest enam välispoliitikale suunata, mis ei pruugi Euroopale kasuks tulla. Politoloog Karmo Tüür usub, et Trump võib kongressi blokeerida ja koostööd otsima hakata Venemaalt ja Hiinast.",
+      "title": "EL: Montenegro on teel liitumise poole 2028. aastal",
+      "summary": "Euroopa Liit teatas kolmapäeval, et Montenegro on graafikus blokiga liitumiseks 2028. aastal ning kutsus Ukrainat üles reforme kiirendama, kui see soovib liitumiskõnelused kahe aastaga lõpule viia.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610186329/tuur-trump-voib-hakata-otsima-koostood-hiina-voi-venemaaga",
-      "publishedAt": "2026-11-04T16:46:00.000Z",
+      "url": "https://www.err.ee/1610186401/el-montenegro-on-teel-liitumise-poole-2028-aastal",
+      "publishedAt": "2026-11-04T18:15:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Kultuuriakadeemia tudengid toovad koos Elina Masinguga lavale loo kibestumisest",
-      "summary": "Kanuti Gildi Saalis jõudis publiku ette Elina Masingu ja Tartu Ülikooli Viljandi kultuuriakadeemia etenduskunstide lõpukursuse lavastus \"Replica\", mille põhimotiiviks on kibestumine.",
-      "source": "ERR",
-      "url": "https://kultuur.err.ee/1610186215/kultuuriakadeemia-tudengid-toovad-koos-elina-masinguga-lavale-loo-kibestumisest",
-      "publishedAt": "2026-11-04T16:55:00.000Z",
+      "title": "Noorluuletajad lõhuvad võõrkeelsete sõnadega vanu luulemalle",
+      "summary": "Ehkki paljud kardavad eesti-inglise segakeele levikut, näitavad ajakirja \"Värske Rõhk\" andmed vastupidist. Inglise keele osakaal püsib tekstides stabiilsena kümnendiku piires ja noored loovad võõrkeelsete sõnadega teadlikult poeetilisi efekte.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610185867/noorluuletajad-lohuvad-voorkeelsete-sonadega-vanu-luulemalle",
+      "publishedAt": "2026-11-04T09:19:00.000Z",
       "summaryMode": "rss"
     }
   ],
