@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-05T11:14:36.161Z",
+  "updatedAt": "2026-11-05T13:23:37.106Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Ligi 200 kutsealust aastas suunatakse riigi kulul eesti keele õppesse",
-      "summary": "Valitsuse uus määrus loob ühtse tegevuskava kutsealuste keeleoskuse kontrollimiseks ja keeleõppe korraldamiseks. Hinnanguliselt puudutab muudatus igal aastal ligikaudu 200 kutsealust. Keeleõppeprogrammi maksab aastas 400 000 eurot.",
+      "title": "Kohus lükkas Pruunsilla ja Humala otsuse kuulutamise kümnendat korda edasi",
+      "summary": "Tallinna halduskohus jõudis omalaadse juubelini: kohtuotsuse kuulutamine ettevõtja Parvel Pruunsilla ja poliitik Priit Humala Eesti riigile esitatud kahjunõude asjas lükkus edasi juba kümnendat korda.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610187073/ligi-200-kutsealust-aastas-suunatakse-riigi-kulul-eesti-keele-oppesse",
-      "publishedAt": "2026-11-05T10:46:00.000Z",
+      "url": "https://www.err.ee/1610187166/kohus-lukkas-pruunsilla-ja-humala-otsuse-kuulutamise-kumnendat-korda-edasi",
+      "publishedAt": "2026-11-05T12:13:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Maksuameti juhi firmal on majandusaasta aruanded esitamata",
-      "summary": "Teist ametiaega maksuametit juhtiva Raigo Uukkivi ettevõte ei ole esitanud majandusaasta aruandeid kaks aastat.",
+      "title": "Ukraina ründas naftatöötlemistehast ja kaubaladu Rjazanis",
+      "summary": "Ukraina relvajõud ründasid ööl vastu neljapäeva Venemaal Rjazanis asuvat naftatöötlemistehast ning veebikaubamaja Wildberries ladu, vallandades seal tulekahjud. Ukraina teatel kaotas Vene armee viimase ööpäevaga 2380 sõdurit, mis on kogu sõja suuruselt teine ööpäevane kaotuste hulk.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610186800/maksuameti-juhi-firmal-on-majandusaasta-aruanded-esitamata",
-      "publishedAt": "2026-11-05T06:54:00.000Z",
+      "url": "https://www.err.ee/1610186716/ukraina-rundas-naftatootlemistehast-ja-kaubaladu-rjazanis",
+      "publishedAt": "2026-11-05T03:48:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "IIHF pole kohtuotsusega rahul, aga üritab leida parimat lahendust",
-      "summary": "Rahvusvaheline jäähokiliit (IIHF) teatas kolmapäeval, et ei nõustu endiselt rahvusvahelise spordikohtu (CAS) otsusega lubada Venemaa võistkonnad taas võistlustele ning hoiatas teemaga kaasnevate \"oluliste praktiliste ja sportlike väljakutsete eest\".",
+      "title": "Euroopa sai tõstmise MM-il esimese kulla",
+      "summary": "Tõstmise maailmameistrivõistlustel Hiinas Ningbos jõudis esimese kuldmedalini ka Euroopa, sest kuni 95 kilogrammi kaaluvate meeste seas tuli esikohale bulgaarlane Karlos Nasar.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610187067/iihf-pole-kohtuotsusega-rahul-aga-uritab-leida-parimat-lahendust",
-      "publishedAt": "2026-11-05T11:10:00.000Z",
+      "url": "https://sport.err.ee/1610187226/euroopa-sai-tostmise-mm-il-esimese-kulla",
+      "publishedAt": "2026-11-05T13:07:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "DNA uuringud: germaani ja keldi keeled jõudsid Lääne-Euroopasse ida poolt",
-      "summary": "Värske rahvusvaheline uuring paigutab keldi keelte hälli Kesk-Euroopasse. Ühtlasi tuvastasid teadlased tuhandete muistsete genoomide abil varem tundmatu rahvarühma, kes viis germaani keelte eellase Skandinaaviasse seni arvatust sajandeid hiljem.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610186968/dna-uuringud-germaani-ja-keldi-keeled-joudsid-laane-euroopasse-ida-poolt",
-      "publishedAt": "2026-11-05T09:07:00.000Z",
+      "title": "Pentagoni tehnoloogiajuht: USA polnud droonisõjaks valmis",
+      "summary": "Pentagoni tehnoloogiajuht Emil Michael ütles, et USA relvajõud polnud valmis droonisõja kiireks arenguks. Tema sõnul püüab USA nüüd kiiresti suurendada autonoomsete droonisüsteemide kasutamist relvajõududes.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610187235/pentagoni-tehnoloogiajuht-usa-polnud-droonisojaks-valmis",
+      "publishedAt": "2026-11-05T13:17:00.000Z",
       "summaryMode": "rss"
     }
   ],
