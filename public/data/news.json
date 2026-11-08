@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-11-08T13:25:33.392Z",
+  "updatedAt": "2026-11-08T18:50:00.105Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "EKRE kinnitas volikogul valimislubadused ja -loosungi",
-      "summary": "EKRE pidas pühapäeval Tartus volikogu koosolekut, kus tutvustas valimisprogrammi ja loosungit \"Vankumatult Eesti eest!\". Ühtlasi võttis volikogu vastu poliitilise avalduse.",
+      "title": "Eesti sõjamuuseumis toimus isadepäeva pannkoogihommik",
+      "summary": "Tänasel isadepäeval said kõik isad Viimsis, Eesti sõjamuuseumis, tavapärasest pühapäevahommikusest pannikoogiküpsetamisest vabastuse. Pannkooke küpsetati hoopis neile.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610189767/ekre-kinnitas-volikogul-valimislubadused-ja-loosungi",
-      "publishedAt": "2026-11-08T12:54:00.000Z",
+      "url": "https://www.err.ee/1610189836/eesti-sojamuuseumis-toimus-isadepaeva-pannkoogihommik",
+      "publishedAt": "2026-11-08T16:46:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Alcaraz sai esimest korda Pariisi Mastersil karika pea kohale tõsta",
+      "summary": "Maailma kolmas reket Carlos Alcaraz alistas Pariisis toimunud Masters-sarja turniiri finaalis ameeriklase Ben Sheltoni (ATP 4.) ning sai esimest korda Pariisi turniiril karika pea kohale tõsta.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610189902/alcaraz-sai-esimest-korda-pariisi-mastersil-karika-pea-kohale-tosta",
+      "publishedAt": "2026-11-08T18:39:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "TI pioneer: avatud koodiga tehisaru annab relva miljardite inimeste kätte",
+      "summary": "Kui avatud lähtekoodiga tarkvara on tihti IT-hiidude omast turvalisem, siis avatud kaaludega tehisarumudelid võivad muutuda lähima aasta jooksul piisavalt võimekaks, et see oleks võrreldav miljarditele inimestele relva jagamisega, hoiatab California Berkeley ülikooli tehisaru pioneer Stuart Russell.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610189704/ti-pioneer-avatud-koodiga-tehisaru-annab-relva-miljardite-inimeste-katte",
+      "publishedAt": "2026-11-08T09:09:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR",
       "url": "https://www.err.ee/1610189101/soja-1718-paev-venemaa-kasutas-ukraina-rundamiseks-pohja-korea-rakette",
       "publishedAt": "2026-11-07T04:53:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Jaapani üksiksõitjad tegid Hiina GP-etapil puhta töö",
-      "summary": "Hiinas Shenzenis toimunud iluuisutamise hooaja kolmandal Grand Prix etapil saavutas meeste üksiksõidus esikoha Kao Miura ning naiste üksiksõidus võidutses Mone Chiba.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610189788/jaapani-uksiksoitjad-tegid-hiina-gp-etapil-puhta-too",
-      "publishedAt": "2026-11-08T13:22:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Pildid: galeriis Draakoni kõht avati lavastuskunstnike liidu grupinäitus",
-      "summary": "Draakoni galerii nullkorrusel avati Eesti Lavastuskunstnike Liidu grupinäitus \"Katmata\", kus saab näha grimmikavandeid ning praktilises teatri grimmitöötoas juba valminud ja galeriis valmivaid teoseid.",
-      "source": "ERR",
-      "url": "https://kultuur.err.ee/1610189266/pildid-galeriis-draakoni-koht-avati-lavastuskunstnike-liidu-grupinaitus",
-      "publishedAt": "2026-11-08T09:12:00.000Z",
       "summaryMode": "rss"
     }
   ],
