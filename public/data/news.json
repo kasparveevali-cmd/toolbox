@@ -1,22 +1,31 @@
 {
-  "updatedAt": "2026-11-08T23:43:11.589Z",
+  "updatedAt": "2026-11-09T06:29:56.786Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "\"AK.Nädal\" uuris, kuidas Eesti end kasvava küberohu eest kaitseb",
-      "summary": "Sel nädalal tabas Selveri kaupluse külmletti küberrünnak, mille käigus tõusis külmkapi temperatuur 50 kraadini. Sarnastest juhtumitest andis teada 11 Euroopa riiki. See tõstatas küsimuse, kui haavatavad on igapäevaeluks vajalikud süsteemid.",
+      "title": "Kodusigade arvukus pole katkueelsele tasemele naasnud",
+      "summary": "Möödunud suvel sigade Aafrika katkuga (SAK) pihta saanud 11 sigalast kaheksa on uute sigadega taasasustatud, kuid kogu Eestis sigade arvukus katkueelsele tasemele siiski tõusnud pole. Tänavu seakatk farmidesse ei jõudnud.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610189809/ak-nadal-uuris-kuidas-eesti-end-kasvava-kuberohu-eest-kaitseb",
-      "publishedAt": "2026-11-08T19:24:00.000Z",
+      "url": "https://www.err.ee/1610190103/kodusigade-arvukus-pole-katkueelsele-tasemele-naasnud",
+      "publishedAt": "2026-11-09T05:20:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "USA turud",
+      "title": "Nvidia uurib tegevjuhi salajase suhte taustal kerkinud julgeolekukahtlusi",
+      "summary": "USA kiibifirma Nvidia asus uurima väiteid, et ettevõtte tegevjuht Jensen Huang võis langeda välisriigi luuretegevuse sihtmärgiks. Uurimise ajendiks on Huangi abieluväline suhe Hiina päritolu ettevõtte tippjuhiga, viimast kahtlustatakse Hiina luure heaks töötamises.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610190100/nvidia-uurib-tegevjuhi-salajase-suhte-taustal-kerkinud-julgeolekukahtlusi",
+      "publishedAt": "2026-11-09T05:10:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Liis Mure: Ukraina julgeolek ja Venemaa ambitsioonid välistavad leppe",
-      "summary": "Rahvusvahelise kaitseuuringute keskuse vanemteadur Liis Mure ütles ETV saates \"Ukraina stuudio\", et Ukraina julgeolekumured ja Venemaa ambitsioonid nii Ukrainas kui ka Euroopas välistavad USA poolt eestveetava kokkuleppe.",
+      "title": "Merz esitab Baieri poliitiku järgmiseks liidupresidendiks",
+      "summary": "Saksamaa liidukantsler Friedrich Merz teatas pühapäeval, et esitab Baieri 61-aastase poliitiku Ilse Aigneri 2027. aastal riigi järgmiseks liidupresidendiks.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610189866/liis-mure-ukraina-julgeolek-ja-venemaa-ambitsioonid-valistavad-leppe",
-      "publishedAt": "2026-11-08T18:59:00.000Z",
+      "url": "https://www.err.ee/1610190109/merz-esitab-baieri-poliitiku-jargmiseks-liidupresidendiks",
+      "publishedAt": "2026-11-09T05:41:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -26,15 +35,6 @@
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610189704/ti-pioneer-avatud-koodiga-tehisaru-annab-relva-miljardite-inimeste-katte",
       "publishedAt": "2026-11-08T09:09:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "USA turud",
-      "title": "Sõja 1718. päev: Venemaa kasutas Ukraina ründamiseks Põhja-Korea rakette",
-      "summary": "Ukraina president Volodõmõr Zelenski teatas, et Venemaa tulistas Kiievi oblasti suunas 36 Põhja-Koreast pärit ballistilist raketti. Sihtmärgiks oli energiataristu ning pihta sai ka Kiievi Põhjasild. Ukraina ründas ööl vastu laupäeva Saraatovi naftatöötlemistehast, kus puhkes mitu tulekahju.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610189101/soja-1718-paev-venemaa-kasutas-ukraina-rundamiseks-pohja-korea-rakette",
-      "publishedAt": "2026-11-07T04:53:00.000Z",
       "summaryMode": "rss"
     }
   ],
