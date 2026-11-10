@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T02:44:53.809Z",
+  "updatedAt": "2026-11-10T12:39:48.940Z",
   "indices": [
     {
       "id": "sp500",
@@ -8,16 +8,16 @@
       "close": 7549.93994140625,
       "changePct": 2.3462568265193218,
       "sessionDate": "2026-11-09",
-      "fetchedAt": "2026-11-10T02:44:53.802Z"
+      "fetchedAt": "2026-11-10T12:39:48.918Z"
     },
     {
       "id": "nasdaq100",
       "name": "Nasdaq-100",
       "symbol": "^NDX",
-      "close": 27907.625,
-      "changePct": 3.399907734891583,
+      "close": 27907.630859375,
+      "changePct": 3.399929444328853,
       "sessionDate": "2026-11-09",
-      "fetchedAt": "2026-11-10T02:44:53.807Z"
+      "fetchedAt": "2026-11-10T12:39:48.880Z"
     },
     {
       "id": "dow",
@@ -26,7 +26,7 @@
       "close": 52389.75,
       "changePct": 2.1526836434994534,
       "sessionDate": "2026-11-09",
-      "fetchedAt": "2026-11-10T02:44:53.801Z"
+      "fetchedAt": "2026-11-10T12:39:48.920Z"
     },
     {
       "id": "eurostoxx50",
@@ -35,7 +35,7 @@
       "close": 6290.4501953125,
       "changePct": 1.944091253385638,
       "sessionDate": "2026-11-09",
-      "fetchedAt": "2026-11-10T02:44:53.808Z"
+      "fetchedAt": "2026-11-10T12:39:48.922Z"
     },
     {
       "id": "dax",
@@ -44,16 +44,16 @@
       "close": 26267.189453125,
       "changePct": 1.7305339233877337,
       "sessionDate": "2026-11-09",
-      "fetchedAt": "2026-11-10T02:44:53.806Z"
+      "fetchedAt": "2026-11-10T12:39:48.924Z"
     },
     {
       "id": "nikkei225",
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "close": 58775.5,
-      "changePct": 2.3343533537128813,
-      "sessionDate": "2026-11-09",
-      "fetchedAt": "2026-11-10T02:44:53.639Z"
+      "close": 60459.578125,
+      "changePct": 2.8652723073389508,
+      "sessionDate": "2026-11-10",
+      "fetchedAt": "2026-11-10T12:39:48.926Z"
     },
     {
       "id": "omxtallinn",
@@ -62,7 +62,7 @@
       "close": 2254.320068359375,
       "changePct": 0.576432880277844,
       "sessionDate": "2026-11-09",
-      "fetchedAt": "2026-11-10T02:44:53.805Z"
+      "fetchedAt": "2026-11-10T12:39:48.938Z"
     }
   ]
 }
