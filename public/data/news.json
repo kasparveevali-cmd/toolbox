@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-10T20:49:46.758Z",
+  "updatedAt": "2026-11-11T01:56:34.141Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "PERH-i juht: ma vaatan murelikult, mida teha, et ravi oleks kättesaadavam",
-      "summary": "Raha on tervishoidu tulnud küll aastatega palju juurde, kuid see läheb taristusse, meditsiinitehnikasse ja arstide-õdede palkadesse ning sellega, et ravi on endiselt paljudele kättesaamatu, tuleb tegelda, ütles \"Esimeses stuudios\" Põhja-Eesti regionaalhaigla (PERH) uus juht Jarno Habicht.",
+      "title": "Kaheksa maakonda said võimaliku õhuohu hoiatuse",
+      "summary": "Kaitsevägi teatas teisipäeva öösel vastu kolmapäeva võimalikust õhuohust Tartu, Jõgeva, viljandi, Valga, Võru ja Põlva maakonnas. Veidi hiljem laiendati ohuteavitust ka Lääne- ja Ida-Virumaale.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610192023/perh-i-juht-ma-vaatan-murelikult-mida-teha-et-ravi-oleks-kattesaadavam",
-      "publishedAt": "2026-11-10T20:43:00.000Z",
+      "url": "https://www.err.ee/1610192107/kaheksa-maakonda-said-voimaliku-ohuohu-hoiatuse",
+      "publishedAt": "2026-11-11T01:46:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -30,11 +30,11 @@
     },
     {
       "category": "Varia",
-      "title": "Õpilasuurimuse tulemused aitavad kütuseelementi tõhusamaks muuta",
-      "summary": "Tartu gümnasist Laura-Maria Liiv näitas, kuidas õigel temperatuuril töödeldud uudsete anoodidega on võimalik saavutada kõrgem võimsustihedus, kui seda on siiani teaduskirjanduse põhjal tehtud.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610191717/opilasuurimuse-tulemused-aitavad-kutuseelementi-tohusamaks-muuta",
-      "publishedAt": "2026-11-10T12:42:00.000Z",
+      "title": "Majandusministeerium: soovime, et NutriScore'i üle toimuks laiem arutelu",
+      "summary": "Toidumärgistus Nutri-Score kütab jätkuvalt kirgi toitumisteadlaste ja toidutootjate ning ka eri ministeeriumide vahel. Regionaal- ja põllumajandusministeerium tahab anda tootjatele õiguse märgistust kasutada, et valgusfoorimärk aitaks tervislikumaid toiduvalikuid teha.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610191852/majandusministeerium-soovime-et-nutriscore-i-ule-toimuks-laiem-arutelu",
+      "publishedAt": "2026-11-10T16:32:00.000Z",
       "summaryMode": "rss"
     }
   ],
