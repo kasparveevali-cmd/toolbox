@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-11-11T01:56:34.141Z",
+  "updatedAt": "2026-11-11T09:26:42.125Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Kaheksa maakonda said võimaliku õhuohu hoiatuse",
-      "summary": "Kaitsevägi teatas teisipäeva öösel vastu kolmapäeva võimalikust õhuohust Tartu, Jõgeva, viljandi, Valga, Võru ja Põlva maakonnas. Veidi hiljem laiendati ohuteavitust ka Lääne- ja Ida-Virumaale.",
+      "title": "Meediateadlane \"Impulsis\": vanuseline sotsiaalmeediakeeld õpetab lapsed valetama",
+      "summary": "Euroopa Komisjoni algatus keelata sotsiaalmeedia alla 13-aastastele ning nõuda oma konto loomiseks vähemalt 15-aastast vanust põrkub Eestis vastuseisule.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610192107/kaheksa-maakonda-said-voimaliku-ohuohu-hoiatuse",
-      "publishedAt": "2026-11-11T01:46:00.000Z",
+      "url": "https://www.err.ee/1610192110/meediateadlane-impulsis-vanuseline-sotsiaalmeediakeeld-opetab-lapsed-valetama",
+      "publishedAt": "2026-11-11T03:13:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Analüütikud: USA tegi veel ühe järeleandmise Venemaale",
+      "summary": "Ameerika Ühendriigid on Ukrainas rahu saavutamise nimel peetavatel kõnelustel vahendajana esinedes teinud veel ühe järeleandmise Venemaale, nõustudes võtma arutusele ka Euroopa laiema julgeoleku teemad, tõdevad Rahvusvahelise Kaitseuuringute Keskuse (RKK) direktor Kristi Raik ja Ukraina…",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610192380/analuutikud-usa-tegi-veel-uhe-jareleandmise-venemaale",
+      "publishedAt": "2026-11-11T08:55:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Teadlased avastasid Amazonases uue kalaliigi",
+      "summary": "Teadlased avastasid äsja Brasiilias Amazonase vihmametsade sügavusest tillukese kala, kes on lühem kui tikutoos, kuid paistab silma erkoranžide triipude ja täppidega. Kuigi teadlased liiki varem ei tundnud, on kala tugevas väljasuremisohus.",
+      "source": "ERR",
+      "url": "https://novaator.err.ee/1610192431/teadlased-avastasid-amazonases-uue-kalaliigi",
+      "publishedAt": "2026-11-11T08:49:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR",
       "url": "https://www.err.ee/1610192014/iraan-hormuzi-vainas-poleb-kolm-naftatankerit",
       "publishedAt": "2026-11-10T20:27:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Annuk noorest koosseisust: väike preemia neile, kes suvel rohkem silma jäid",
-      "summary": "2029. aasta Euroopa meistrivõistluste eelvalikturniiriks valmistuva Eesti naiste korvpallikoondise Toomas Annuki sõnul minnakse eesootavaid kohtumisi Põhja-Makedoonia ja Rumeenia vastu igal juhul võitma.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610192011/annuk-noorest-koosseisust-vaike-preemia-neile-kes-suvel-rohkem-silma-jaid",
-      "publishedAt": "2026-11-10T20:36:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Majandusministeerium: soovime, et NutriScore'i üle toimuks laiem arutelu",
-      "summary": "Toidumärgistus Nutri-Score kütab jätkuvalt kirgi toitumisteadlaste ja toidutootjate ning ka eri ministeeriumide vahel. Regionaal- ja põllumajandusministeerium tahab anda tootjatele õiguse märgistust kasutada, et valgusfoorimärk aitaks tervislikumaid toiduvalikuid teha.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610191852/majandusministeerium-soovime-et-nutriscore-i-ule-toimuks-laiem-arutelu",
-      "publishedAt": "2026-11-10T16:32:00.000Z",
       "summaryMode": "rss"
     }
   ],
