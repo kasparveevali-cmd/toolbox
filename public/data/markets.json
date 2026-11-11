@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T09:26:42.717Z",
+  "updatedAt": "2026-11-11T17:53:44.436Z",
   "indices": [
     {
       "id": "sp500",
@@ -8,7 +8,7 @@
       "close": 7520.93017578125,
       "changePct": -0.38423836282327484,
       "sessionDate": "2026-11-10",
-      "fetchedAt": "2026-11-11T09:26:42.713Z"
+      "fetchedAt": "2026-11-11T17:53:44.397Z"
     },
     {
       "id": "nasdaq100",
@@ -17,7 +17,7 @@
       "close": 27740.7890625,
       "changePct": -0.5978357593867667,
       "sessionDate": "2026-11-10",
-      "fetchedAt": "2026-11-11T09:26:42.712Z"
+      "fetchedAt": "2026-11-11T17:53:44.374Z"
     },
     {
       "id": "dow",
@@ -26,34 +26,34 @@
       "close": 52231.890625,
       "changePct": -0.3013172901187744,
       "sessionDate": "2026-11-10",
-      "fetchedAt": "2026-11-11T09:26:42.711Z"
+      "fetchedAt": "2026-11-11T17:53:44.399Z"
     },
     {
       "id": "eurostoxx50",
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "close": 6327.8701171875,
-      "changePct": 0.5948687409191189,
-      "sessionDate": "2026-11-10",
-      "fetchedAt": "2026-11-11T09:26:42.434Z"
+      "close": 6393.39013671875,
+      "changePct": 1.035419790827996,
+      "sessionDate": "2026-11-11",
+      "fetchedAt": "2026-11-11T17:53:44.434Z"
     },
     {
       "id": "dax",
       "name": "DAX",
       "symbol": "^GDAXI",
-      "close": 26347.44921875,
-      "changePct": 0.30555140194281627,
-      "sessionDate": "2026-11-10",
-      "fetchedAt": "2026-11-11T09:26:42.716Z"
+      "close": 26662.76953125,
+      "changePct": 1.1967773801632609,
+      "sessionDate": "2026-11-11",
+      "fetchedAt": "2026-11-11T17:53:44.432Z"
     },
     {
       "id": "nikkei225",
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "close": 61248.58984375,
-      "changePct": 1.305023526824356,
-      "sessionDate": "2026-11-11",
-      "fetchedAt": "2026-11-11T09:26:42.715Z"
+      "close": 60459.578125,
+      "changePct": 2.8652723073389508,
+      "sessionDate": "2026-11-10",
+      "fetchedAt": "2026-11-11T17:53:44.401Z"
     },
     {
       "id": "omxtallinn",
@@ -62,7 +62,7 @@
       "close": 2252.22998046875,
       "changePct": -0.09271477994453603,
       "sessionDate": "2026-11-10",
-      "fetchedAt": "2026-11-11T09:26:42.708Z"
+      "fetchedAt": "2026-11-11T17:53:44.403Z"
     }
   ]
 }
