@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-12T09:50:43.273Z",
+  "updatedAt": "2026-11-12T18:19:37.873Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Valitsus andis ühistranspordi käigus hoidmiseks 4,8 miljonit eurot lisaraha",
-      "summary": "Valitsus kiitis heaks regionaal- ja põllumajandusminister Hendrik Johannes Terrase taotluse eraldada valitsuse reservist ligi 4,8 miljonit eurot, et katta Iraani sõja järel kasvanud kütusehindade mõju ühistranspordile ning säilitada aasta lõpuni praegune bussi-, rongi-, parvlaeva- ja lennuühenduste…",
+      "title": "Vabatahtlikud IT-spetsialistid harjutavad Tallinna lennujaama küberründe tõrjumist",
+      "summary": "Küberründe katsed Eesti elutähtsate asutuste vastu on muutunud igapäevaseks. Sel nädalal harjutavad vabatahtlikud IT-spetsialistid, kuidas hoida ulatusliku rünnaku korral töös Tallinna lennujaama.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610193289/valitsus-andis-uhistranspordi-kaigus-hoidmiseks-4-8-miljonit-eurot-lisaraha",
-      "publishedAt": "2026-11-12T08:07:00.000Z",
+      "url": "https://www.err.ee/1610194282/vabatahtlikud-it-spetsialistid-harjutavad-tallinna-lennujaama-kuberrunde-torjumist",
+      "publishedAt": "2026-11-12T16:31:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Ukraina ründas kolmapäeval ka Omski naftatöötlemistehast",
-      "summary": "Ukraina korraldas kolmapäeval lisaks Venemaal Leningradi oblastis asuva Ust-Luga sadama ründamisele ka suure droonirünnaku Omski naftatöötlemistehase vastu Siberis.",
+      "title": "Nvidia tegevjuht Jensen Huang astus ametist tagasi",
+      "summary": "Hiljuti tuli avalikuks Jensen Huangi abieluväline suhe väidetava Hiina spiooniga ning kiibifirma Nvidia nõukogu teatas neljapäeva pärastlõunal, et Huang astus ettevõtte tegevjuhi kohalt tagasi.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610193094/ukraina-rundas-kolmapaeval-ka-omski-naftatootlemistehast",
-      "publishedAt": "2026-11-12T03:54:00.000Z",
+      "url": "https://www.err.ee/1610193697/nvidia-tegevjuht-jensen-huang-astus-ametist-tagasi",
+      "publishedAt": "2026-11-12T13:06:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "RAND-i analüüs: NATO riigid pole valmis suureks sõjaks Venemaaga",
-      "summary": "Ühendkuningriik ja teised NATO riigid Euroopas ei ole praegu valmis suureks sõjaks Venemaaga, leitakse USA mõttekoja RAND koostatud analüüsis. Ühendkuningriigi valmiduse analüüsis kasutatakse hüpoteetilist stsenaariumi, kus Venemaa ründab Eestit.",
+      "title": "Mercedes peatab kõik investeeringud Saksa tehastesse",
+      "summary": "Autotootja Mercedes-Benz teatas neljapäeval, et peatab kõik investeeringud Saksamaa tehastesse. Mercedes on suurtes raskustes ning kaalub veel ka tehaste sulgemist.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610193376/rand-i-analuus-nato-riigid-pole-valmis-suureks-sojaks-venemaaga",
-      "publishedAt": "2026-11-12T09:28:00.000Z",
+      "url": "https://www.err.ee/1610194375/mercedes-peatab-koik-investeeringud-saksa-tehastesse",
+      "publishedAt": "2026-11-12T18:12:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Uuring: uus rasvumise diagnoosiviis on KMI-st tõesti täpsem",
-      "summary": "Miljonid patsiendid saavad praegu kehamassiindeksile tuginedes vale diagnoosi, osutab uus rahvusvaheline uuring. Teadlased soovitavad seetõttu arstidel vaadata koos kaalunumbriga vööümbermõõtu ja siseelundite andmeid, et eristada kehaehituse eripära tegelikust haigusest.",
+      "title": "Valgusünteesi vigade ja pärilike haiguste seos on arvatust tugevam",
+      "summary": "Raku ainevahetus lagundab valke kiiresti ja seetõttu on neid tootva ribosoomi vigu peetud võrdlemisi kahjutuks nähtuseks. Tartu Ülikoolis kaitstud doktoritöö näitab, et nende eksimuste sagedus võib vallandada teatud tingimustel genoomis püsivaid muutus.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610193442/uuring-uus-rasvumise-diagnoosiviis-on-kmi-st-toesti-tapsem",
-      "publishedAt": "2026-11-12T09:37:00.000Z",
+      "url": "https://novaator.err.ee/1610193589/valgusunteesi-vigade-ja-parilike-haiguste-seos-on-arvatust-tugevam",
+      "publishedAt": "2026-11-12T11:50:00.000Z",
       "summaryMode": "rss"
     }
   ],
