@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-11-14T06:23:44.617Z",
+  "updatedAt": "2026-11-14T15:05:24.849Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Detsembrist on Tallinnas keelatud linnalindude ja -loomade toitmine",
-      "summary": "Tallinn keelab detsembrist linnalindude ja -loomade toitmise. Erandina lubatakse talvel toita väikeseid värvulisi, kuid ekspertide hinnangul tuleks ka sellest loobuda.",
+      "title": "Veiko-Vello Palm: Eesti peaks mõtlema naiste kohustusliku ajateenistuse peale",
+      "summary": "Kindralmajor reservis Veiko-Vello Palm rääkis Tartu ülikoolis peetud loengus, et Eesti ei suuda demograafia tõttu tulevikus vajalikku hulka ajateenijaid leida. Ta käis lahendusena välja ajateenistuskohustuse, mis laieneks ka naistele.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610195647/detsembrist-on-tallinnas-keelatud-linnalindude-ja-loomade-toitmine",
-      "publishedAt": "2026-11-13T19:14:00.000Z",
+      "url": "https://www.err.ee/1610196334/veiko-vello-palm-eesti-peaks-motlema-naiste-kohustusliku-ajateenistuse-peale",
+      "publishedAt": "2026-11-14T11:02:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Eesti läheb Põhja-Makedoonia vastu noore koosseisuga",
+      "summary": "Eesti naiste korvpallikoondis alustab täna uut Euroopa meistrivõistluste eelvalikturniiri.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610196427/eesti-laheb-pohja-makedoonia-vastu-noore-koosseisuga",
+      "publishedAt": "2026-11-14T14:50:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Suur lugu: ATH plahvatuse tagant paistavad päris mured ja kasvavad ootused",
+      "summary": "Eestis sai 2025. aastal aktiivsus- ja tähelepanuhäire (ATH) diagnoosi üle 20 korra rohkem noori ja täiskasvanuid kui viis aastat varem. ATH-d ei tuvasta aga endiselt ei vereproov ega ajupilt.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610195428/suur-lugu-ath-plahvatuse-tagant-paistavad-paris-mured-ja-kasvavad-ootused",
+      "publishedAt": "2026-11-14T04:03:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR",
       "url": "https://www.err.ee/1610195617/saska-soome-lahe-tulevikust-midagi-lihtsamaks-ei-lahe",
       "publishedAt": "2026-11-13T17:40:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Venemaa rünnakus Zaporižžjale sai vigastada 50 inimest",
-      "summary": "Venemaa reedeses rünnakus Ukraina kaguosas asuvale Zaporižžja linnale sai vigastada vähemalt 50 inimest, sealhulgas kaheksa last, vahendas The Kyiv Independent.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610196118/venemaa-runnakus-zaporizzjale-sai-vigastada-50-inimest",
-      "publishedAt": "2026-11-14T04:22:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "E-kunstisalong: kogemus kunstivaldkonnas annab kindluse, et tegu on Mudisti originaalidega",
-      "summary": "Tartusse E-kunstisalongi homsele oksjonile jõuavad Peeter Mudisti teosed, mille kohta kirjutas Postimees, et tegemist võib olla võltsingutega. Oksjoni korraldaja väidab vastupidist. Kunstiteadlase Aleksander Metsamärdi sõnul võiks sellises olukorras teha maalidele tehnilised uuringud.",
-      "source": "ERR",
-      "url": "https://kultuur.err.ee/1610195581/e-kunstisalong-kogemus-kunstivaldkonnas-annab-kindluse-et-tegu-on-mudisti-originaalidega",
-      "publishedAt": "2026-11-13T16:52:00.000Z",
       "summaryMode": "rss"
     }
   ],
