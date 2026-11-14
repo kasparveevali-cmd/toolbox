@@ -1,22 +1,31 @@
 {
-  "updatedAt": "2026-11-14T15:05:24.849Z",
+  "updatedAt": "2026-11-14T20:43:39.432Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Veiko-Vello Palm: Eesti peaks mõtlema naiste kohustusliku ajateenistuse peale",
-      "summary": "Kindralmajor reservis Veiko-Vello Palm rääkis Tartu ülikoolis peetud loengus, et Eesti ei suuda demograafia tõttu tulevikus vajalikku hulka ajateenijaid leida. Ta käis lahendusena välja ajateenistuskohustuse, mis laieneks ka naistele.",
+      "title": "Aasta ettevõte on kaitsetööstusettevõte HEVI Optronics",
+      "summary": "Laupäeva õhtul tunnustati \"Eesti parimad ettevõtted 2026\" auhinnagalal kõige silmapaistvamaid ettevõtteid.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610196334/veiko-vello-palm-eesti-peaks-motlema-naiste-kohustusliku-ajateenistuse-peale",
-      "publishedAt": "2026-11-14T11:02:00.000Z",
+      "url": "https://www.err.ee/1610196496/aasta-ettevote-on-kaitsetoostusettevote-hevi-optronics",
+      "publishedAt": "2026-11-14T19:38:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "USA turud",
+      "title": "Microsofti teatel on teenused pärast katkestusi taastunud",
+      "summary": "Microsofti teatel on teenused pärast ülemaailmset katkestust täielikult taastatud, vahendab väljaanne The Guardian. Rike häiris valitsusasutuste, haiglate, kohtute, ettevõtete ja lennufirmade tööd kümnetes riikides.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610196442/microsofti-teatel-on-teenused-parast-katkestusi-taastunud",
+      "publishedAt": "2026-11-14T15:55:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Eesti läheb Põhja-Makedoonia vastu noore koosseisuga",
-      "summary": "Eesti naiste korvpallikoondis alustab täna uut Euroopa meistrivõistluste eelvalikturniiri.",
+      "title": "Kanadal oli veerandfinaalis pigem keeruline, USA jalutas kindlalt edasi",
+      "summary": "Taanis jätkuvatel jäähoki naiste maailmameistrivõistlustel said reedel paika poolfinalistid. Kõik eeldatavad favoriidid jõudsid nelja parema hulka.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610196427/eesti-laheb-pohja-makedoonia-vastu-noore-koosseisuga",
-      "publishedAt": "2026-11-14T14:50:00.000Z",
+      "url": "https://sport.err.ee/1610196448/kanadal-oli-veerandfinaalis-pigem-keeruline-usa-jalutas-kindlalt-edasi",
+      "publishedAt": "2026-11-14T17:42:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -26,15 +35,6 @@
       "source": "ERR Novaator",
       "url": "https://novaator.err.ee/1610195428/suur-lugu-ath-plahvatuse-tagant-paistavad-paris-mured-ja-kasvavad-ootused",
       "publishedAt": "2026-11-14T04:03:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "USA turud",
-      "title": "Saska Soome lahe tulevikust: midagi lihtsamaks ei lähe",
-      "summary": "Kuni Venemaa vajab sõjamasina töös hoidmiseks Läänemere naftakanalit, ei tasu Soome lahel pingete raugemist oodata, tõdes endine mereväe ülem, kommodoor reservis Jüri Saska \"Ringvaates\".",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610195617/saska-soome-lahe-tulevikust-midagi-lihtsamaks-ei-lahe",
-      "publishedAt": "2026-11-13T17:40:00.000Z",
       "summaryMode": "rss"
     }
   ],
