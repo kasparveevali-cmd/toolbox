@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-15T01:56:05.759Z",
+  "updatedAt": "2026-11-15T09:27:02.106Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Aasta ettevõte on kaitsetööstusettevõte HEVI Optronics",
-      "summary": "Laupäeva õhtul tunnustati \"Eesti parimad ettevõtted 2026\" auhinnagalal kõige silmapaistvamaid ettevõtteid.",
+      "title": "Isamaa tahab väiksemat palgatõusu riigikogu järgmisele koosseisule",
+      "summary": "Isamaa soovib vähendada järgmise riigikogu koosseisu liikmete baaspalka kümme protsenti ning muuta nende palgatõusu senisest väiksemaks. Reformierakonna hinnangul tuleks parlamendiliikmete palgaküsimus lahendada koos valitsuse kavandatavate muudatustega kõrgemate riigiteenijate töötasusüsteemis.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610196496/aasta-ettevote-on-kaitsetoostusettevote-hevi-optronics",
-      "publishedAt": "2026-11-14T19:38:00.000Z",
+      "url": "https://www.err.ee/1610195494/isamaa-tahab-vaiksemat-palgatousu-riigikogu-jargmisele-koosseisule",
+      "publishedAt": "2026-11-15T04:12:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Microsofti teatel on teenused pärast katkestusi taastunud",
-      "summary": "Microsofti teatel on teenused pärast ülemaailmset katkestust täielikult taastatud, vahendab väljaanne The Guardian. Rike häiris valitsusasutuste, haiglate, kohtute, ettevõtete ja lennufirmade tööd kümnetes riikides.",
+      "title": "Venemaal Tatarstani tööstuskeskuses teatati pärast droonirünnakut põlengutest",
+      "summary": "Venemaal Tatarstani vabariigi olulise naftatöötlemise ja naftakeemiatööstuse keskuse Nižnekamski tööstuspiirkonnas puhkes 15. novembri ööl suur tulekahju, teatasid Ukraina kanalid ja kohalikud elanikud. Teadete kohaselt oli see ala droonirünnaku sihtmärgiks.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610196442/microsofti-teatel-on-teenused-parast-katkestusi-taastunud",
-      "publishedAt": "2026-11-14T15:55:00.000Z",
+      "url": "https://www.err.ee/1610196625/venemaal-tatarstani-toostuskeskuses-teatati-parast-droonirunnakut-polengutest",
+      "publishedAt": "2026-11-15T04:48:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Serviti pidi nägema kõvasti vaeva, edu maha mänginud Viljandi viigistas Cocksiga",
-      "summary": "Põlva Serviti teenis käsipalli Balti liigas võõrsil napi võidu Tallinna Mistra üle. Viljandi HC/Leonhard Weiss mängis aga võõrsil viiki Soome klubiga HC Cocks.",
+      "title": "Korostelevi võit nörritab Kalevit: Venemaal sporti ja poliitikat lahus ei hoita",
+      "summary": "Eesti murdmaasuusatajad jätkasid laupäeval Soomes Olosel esimese lume võistlusi 10 km eraldistardist klassikadistantsiga. Parima tulemuse tegid Teesi Tuul ja Christopher Kalev.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610196520/serviti-pidi-nagema-kovasti-vaeva-edu-maha-manginud-viljandi-viigistas-cocksiga",
-      "publishedAt": "2026-11-14T21:45:00.000Z",
+      "url": "https://sport.err.ee/1610196697/korostelevi-voit-norritab-kalevit-venemaal-sporti-ja-poliitikat-lahus-ei-hoita",
+      "publishedAt": "2026-11-15T08:45:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Suur lugu: ATH plahvatuse tagant paistavad päris mured ja kasvavad ootused",
-      "summary": "Eestis sai 2025. aastal aktiivsus- ja tähelepanuhäire (ATH) diagnoosi üle 20 korra rohkem noori ja täiskasvanuid kui viis aastat varem. ATH-d ei tuvasta aga endiselt ei vereproov ega ajupilt.",
+      "title": "Videomäng võib jutustada tugeva loo ka ilma sõnadeta",
+      "summary": "Tartu Ülikooli kirjandusteadlane Agnes Neier rääkis teadussaates \"Atlas\", kuidas videomängud lugusid jutustavad ja miks võiks ühel päeval pälvida Nobeli kirjanduspreemia ka mõni mängukirjutaja.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610195428/suur-lugu-ath-plahvatuse-tagant-paistavad-paris-mured-ja-kasvavad-ootused",
-      "publishedAt": "2026-11-14T04:03:00.000Z",
+      "url": "https://novaator.err.ee/1610194996/videomang-voib-jutustada-tugeva-loo-ka-ilma-sonadeta",
+      "publishedAt": "2026-11-15T05:39:00.000Z",
       "summaryMode": "rss"
     }
   ],
