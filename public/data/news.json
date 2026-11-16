@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-16T06:30:24.178Z",
+  "updatedAt": "2026-11-16T18:33:31.759Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Muuseumid soovivad saada 2,5 miljonit, et jätkata pärandhoidla projekteerimisega",
-      "summary": "Muuseumiühing soovib saada järgmise aasta riigieelarvest 2,5 miljonit eurot, et jätkata Põhja-Eesti pärandhoidla projekteerimisega, kuna lõviosa museaale on nõuetele mittevastavates hoidlates. Riigikogu rahanduskomisjon selle soovi täitumist põhjendatuks ei pea.",
+      "title": "Kovalenko-Kõlvart: kaitseministeeriumi raport ei anna vastuseid Dataseli ja ARCA kontaktide tekkimise kohta",
+      "summary": "Riigikogu korruptsioonivastane erikomisjon tutvus esmaspäeval kaitseministeeriumis dokumentide ja kirjavahetusega, mis puudutavad Dataseli.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610196826/muuseumid-soovivad-saada-2-5-miljonit-et-jatkata-parandhoidla-projekteerimisega",
-      "publishedAt": "2026-11-15T16:36:00.000Z",
+      "url": "https://www.err.ee/1610197825/kovalenko-kolvart-kaitseministeeriumi-raport-ei-anna-vastuseid-dataseli-ja-arca-kontaktide-tekkimise-kohta",
+      "publishedAt": "2026-11-16T15:50:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Ukraina süütas droonirünnakuga naftabaasi Aasovi linnas",
-      "summary": "Ukraina relvajõud ründasid ööl vastu esmaspäeva Venemaa Rostovi oblastis asuvat Aasovi linna, süüdates droonirünnakuga seal asuva naftabaasi. Ukraina presidendi väitel on tema relvajõud muutnud kasutuskõlbmatuks 55 protsenti Venemaa naftatöötlemisvõimsusest.",
+      "title": "Ukraina ründas droonidega Venemaal Ilski naftatöötlemistehast",
+      "summary": "Ukraina relvajõud ründasid ööl vastu esmaspäeva Venemaa Rostovi oblastis asuvat Aasovi linna, süüdates droonirünnakuga seal asuva naftabaasi ning tabasid ka Krimmi silda, peatades sellel mitmeks tunniks liikluse.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610197027/ukraina-suutas-droonirunnakuga-naftabaasi-aasovi-linnas",
+      "url": "https://www.err.ee/1610197027/ukraina-rundas-droonidega-venemaal-ilski-naftatootlemistehast",
       "publishedAt": "2026-11-16T04:01:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Inglismaa lõpetas maailmameister Hispaania võimsa seeria",
-      "summary": "Jalgpalli Rahvuste liigas alistas Inglismaa võõrsil 3:2 valitseva maailmameistri Hispaania, lõpetades ühtlasi hispaanlaste 43-mängulise kaotusteta seeria.",
+      "title": "Viis EL-i riiki plaanivad rajada Rwandasse väljasaatmiskeskuse",
+      "summary": "Viis Euroopa Liidu liikmesriiki plaanivad rajada Rwandasse väljasaatmiskeskuse, kuhu saadetaks inimesed, kellel puudub seaduslik alus Euroopas viibimiseks. Plaan on osa EL-i karmimast rändepoliitikast, kuid võib eeldatavasti kaasa tuua õiguslikke vaidlusi.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610197084/inglismaa-lopetas-maailmameister-hispaania-voimsa-seeria",
-      "publishedAt": "2026-11-16T06:08:00.000Z",
+      "url": "https://www.err.ee/1610197882/viis-el-i-riiki-plaanivad-rajada-rwandasse-valjasaatmiskeskuse",
+      "publishedAt": "2026-11-16T17:07:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Läti peaministripartei teeb võimuliidu Rahvuslaste Ühendusega",
-      "summary": "Läti peaminister Andris Kulbergs andis pühapäeva õhtul teada, et tema partei Ühinenud Nimekiri moodustab valitsuse Rahvuslaste Ühendusega. Kulbergs rääkis läbi kõigi võimalike partneritega ja hoidis viimase hetkeni enda teada, kellega ta koalitsiooni läheb.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610197036/lati-peaministripartei-teeb-voimuliidu-rahvuslaste-uhendusega",
-      "publishedAt": "2026-11-16T05:01:00.000Z",
+      "title": "Prorektor: rahastustaotluste AI-ga hindamine võib mõjutada kogu teadussüsteemi",
+      "summary": "Plaan katsetada teadusrahastuse taotluste hindamiseks tehisaru eeldab põhjalikku analüüsi, sest see võib mõjutada kogu teadussüsteemi ja murekohaks on nii andmekaitseriskid kui küsimus, kes hinnangu eest vastutab, ütles Tartu ülikooli teadusprorektor Mari Moora.",
+      "source": "ERR Novaator",
+      "url": "https://www.err.ee/1610197369/prorektor-rahastustaotluste-ai-ga-hindamine-voib-mojutada-kogu-teadussusteemi",
+      "publishedAt": "2026-11-16T13:01:00.000Z",
       "summaryMode": "rss"
     }
   ],
