@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T22:48:53.825Z",
+  "updatedAt": "2026-11-16T06:30:24.178Z",
   "items": [
     {
       "category": "Eesti",
@@ -12,29 +12,29 @@
     },
     {
       "category": "USA turud",
-      "title": "Venemaal Tatarstani tööstuskeskuses teatati pärast droonirünnakut põlengutest",
-      "summary": "Venemaal Tatarstani vabariigi olulise naftatöötlemise ja naftakeemiatööstuse keskuse Nižnekamski tööstuspiirkonnas puhkes 15. novembri ööl suur tulekahju, teatasid Ukraina kanalid ja kohalikud elanikud. Teadete kohaselt oli see ala droonirünnaku sihtmärgiks.",
+      "title": "Ukraina süütas droonirünnakuga naftabaasi Aasovi linnas",
+      "summary": "Ukraina relvajõud ründasid ööl vastu esmaspäeva Venemaa Rostovi oblastis asuvat Aasovi linna, süüdates droonirünnakuga seal asuva naftabaasi. Ukraina presidendi väitel on tema relvajõud muutnud kasutuskõlbmatuks 55 protsenti Venemaa naftatöötlemisvõimsusest.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610196625/venemaal-tatarstani-toostuskeskuses-teatati-parast-droonirunnakut-polengutest",
-      "publishedAt": "2026-11-15T04:48:00.000Z",
+      "url": "https://www.err.ee/1610197027/ukraina-suutas-droonirunnakuga-naftabaasi-aasovi-linnas",
+      "publishedAt": "2026-11-16T04:01:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "Eesti noorjudokad tõid suurturniirilt 18 medalit",
-      "summary": "Sel nädalavahetusel Riias toimunud Euroopa Judoliidu kõige noorema vanuseklassi turniir Judo Hopes oli Eestile väga edukas.",
+      "title": "Inglismaa lõpetas maailmameister Hispaania võimsa seeria",
+      "summary": "Jalgpalli Rahvuste liigas alistas Inglismaa võõrsil 3:2 valitseva maailmameistri Hispaania, lõpetades ühtlasi hispaanlaste 43-mängulise kaotusteta seeria.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610196883/eesti-noorjudokad-toid-suurturniirilt-18-medalit",
-      "publishedAt": "2026-11-15T19:33:00.000Z",
+      "url": "https://sport.err.ee/1610197084/inglismaa-lopetas-maailmameister-hispaania-voimsa-seeria",
+      "publishedAt": "2026-11-16T06:08:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Videomäng võib jutustada tugeva loo ka ilma sõnadeta",
-      "summary": "Tartu Ülikooli kirjandusteadlane Agnes Neier rääkis teadussaates \"Atlas\", kuidas videomängud lugusid jutustavad ja miks võiks ühel päeval pälvida Nobeli kirjanduspreemia ka mõni mängukirjutaja.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610194996/videomang-voib-jutustada-tugeva-loo-ka-ilma-sonadeta",
-      "publishedAt": "2026-11-15T05:39:00.000Z",
+      "title": "Läti peaministripartei teeb võimuliidu Rahvuslaste Ühendusega",
+      "summary": "Läti peaminister Andris Kulbergs andis pühapäeva õhtul teada, et tema partei Ühinenud Nimekiri moodustab valitsuse Rahvuslaste Ühendusega. Kulbergs rääkis läbi kõigi võimalike partneritega ja hoidis viimase hetkeni enda teada, kellega ta koalitsiooni läheb.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610197036/lati-peaministripartei-teeb-voimuliidu-rahvuslaste-uhendusega",
+      "publishedAt": "2026-11-16T05:01:00.000Z",
       "summaryMode": "rss"
     }
   ],
