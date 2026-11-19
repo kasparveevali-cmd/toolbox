@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-11-19T00:23:27.714Z",
+  "updatedAt": "2026-11-19T10:21:20.178Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Kõlvart: valitsus peaks leevendama piiri sulgemise mõju kohalikele",
-      "summary": "Keskerakonna esimehe Mihhail Kõlvarti hinnangul vajaks idapiiri sulgemine kõrvale toetusmeetmeid Ida-Virumaa ja Kagu-Eesti ettevõtetele ning humanitaarkoridore kohalikele elanikele.",
+      "title": "TLT veebilehele küberrünnaku tegijad said kätte mitme tuhande inimese andmed",
+      "summary": "Esmaspäeval toimus küberrünnak Tallinna Linnatranspordi (TLT) avaliku veebilehte tlt.ee vastu ning ründajad said kätte mitme tuhande töötaja isikuandmed, teatas ettevõte.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610199730/kolvart-valitsus-peaks-leevendama-piiri-sulgemise-moju-kohalikele",
-      "publishedAt": "2026-11-18T20:39:00.000Z",
+      "url": "https://www.err.ee/1610200144/tlt-veebilehele-kuberrunnaku-tegijad-said-katte-mitme-tuhande-inimese-andmed",
+      "publishedAt": "2026-11-19T10:14:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Saks: Hiinas maailma jagamist ei toimu",
+      "summary": "Hiina president Xi Jinping, USA president Donald Trump ja Kremli liider Vladimir Putin peavad Hiinas Shenzhenis täna esimest korda kolmepoolse kohtumise.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610200034/saks-hiinas-maailma-jagamist-ei-toimu",
+      "publishedAt": "2026-11-19T08:30:01.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Uuring: lasterikka pere toetus soodustas Eestis kolmandate laste sündi",
+      "summary": "Aastal 2017 kehtima hakanud lasterikka pere toetus suurendas kolmanda lapse sünni tõenäosust neli protsenti. Võrreldes meetmele eelnenud ajaga nihkus kolmanda lapse sünd ühtlasi keskmiselt viiendiku võrra varasemaks, osutab Eesti rahvastikuteadlaste uuring.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610199991/uuring-lasterikka-pere-toetus-soodustas-eestis-kolmandate-laste-sundi",
+      "publishedAt": "2026-11-19T08:16:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR",
       "url": "https://www.err.ee/1610198932/ukraina-rundas-kaht-venemaa-naftatehast",
       "publishedAt": "2026-11-18T03:49:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Eesti neidude U-16 koondis püüab Käärikul EEVZA turniiril edasipääsu",
-      "summary": "Sel nädalal toimuvad Käärikul neidude U-16 vanuseklassi Ida-Euroopa Võrkpalliassotsiatsiooni (EEVZA) meistrivõistlused, kus edasipääsu eest võitleb ka Eesti koondis.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610199670/eesti-neidude-u-16-koondis-puuab-kaarikul-eevza-turniiril-edasipaasu",
-      "publishedAt": "2026-11-18T21:48:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Kiri ei ole keelt keerukamaks teinud",
-      "summary": "ks inimese kõigi aegade suuremaid saavutusi on keel -kõigepealt suuline keel, seejärel juba kirjalik.Keel on keeruline nähtus,kuid kas suuline ja kirjalik keel on laias laastus ühekeerukad või mitte,see on juba ise päris keerukas küsimus.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610199721/kiri-ei-ole-keelt-keerukamaks-teinud",
-      "publishedAt": "2026-11-18T19:55:00.000Z",
       "summaryMode": "rss"
     }
   ],
