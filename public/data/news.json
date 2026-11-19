@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-19T10:21:20.178Z",
+  "updatedAt": "2026-11-19T20:38:20.729Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "TLT veebilehele küberrünnaku tegijad said kätte mitme tuhande inimese andmed",
-      "summary": "Esmaspäeval toimus küberrünnak Tallinna Linnatranspordi (TLT) avaliku veebilehte tlt.ee vastu ning ründajad said kätte mitme tuhande töötaja isikuandmed, teatas ettevõte.",
+      "title": "Riigikohus otsustab, kas kevadistel valimistel saab esimest korda mobiiliga hääletada",
+      "summary": "Riigikohus hakkab arutama mobiiliga hääletamise lubamise üle kevadistel riigikogu valimistel. Kuigi vabariigi valimiskomisjon juba otsustas, et riigikogu valimistel saab esmakordselt hääletada ka mobiiliga, sõltub nüüd kõik riigikohtu otsusest.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610200144/tlt-veebilehele-kuberrunnaku-tegijad-said-katte-mitme-tuhande-inimese-andmed",
-      "publishedAt": "2026-11-19T10:14:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Saks: Hiinas maailma jagamist ei toimu",
-      "summary": "Hiina president Xi Jinping, USA president Donald Trump ja Kremli liider Vladimir Putin peavad Hiinas Shenzhenis täna esimest korda kolmepoolse kohtumise.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610200034/saks-hiinas-maailma-jagamist-ei-toimu",
-      "publishedAt": "2026-11-19T08:30:01.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Uuring: lasterikka pere toetus soodustas Eestis kolmandate laste sündi",
-      "summary": "Aastal 2017 kehtima hakanud lasterikka pere toetus suurendas kolmanda lapse sünni tõenäosust neli protsenti. Võrreldes meetmele eelnenud ajaga nihkus kolmanda lapse sünd ühtlasi keskmiselt viiendiku võrra varasemaks, osutab Eesti rahvastikuteadlaste uuring.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610199991/uuring-lasterikka-pere-toetus-soodustas-eestis-kolmandate-laste-sundi",
-      "publishedAt": "2026-11-19T08:16:00.000Z",
+      "url": "https://www.err.ee/1610200999/riigikohus-otsustab-kas-kevadistel-valimistel-saab-esimest-korda-mobiiliga-haaletada",
+      "publishedAt": "2026-11-19T19:31:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Ukraina ründas kaht Venemaa naftatehast",
-      "summary": "Ukraina ründas ööl vastu kolmapäeva kaht Venemaa lõunaosas asuvat naftatöötlemistehast. Ukraina toetajad lubasid veel enne aasta lõppu tarnida Ukraina eskadrilli jagu lääne hävituslennukeid. Soome president Alexander Stubb ei näe tänavu võimalust rahu saavutamiseks Ukrainas.",
+      "title": "Anthropicu turuväärtus ületas kahe triljoni dollari piiri",
+      "summary": "Tehisintellektiettevõtte Anthropicu turuväärtus ületas neljapäeval Nasdaqil toimunud börsidebüüdil kaks triljonit dollarit, vahendas Reuters.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610198932/ukraina-rundas-kaht-venemaa-naftatehast",
-      "publishedAt": "2026-11-18T03:49:00.000Z",
+      "url": "https://www.err.ee/1610200936/anthropicu-turuvaartus-uletas-kahe-triljoni-dollari-piiri",
+      "publishedAt": "2026-11-19T17:32:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Malõgina pääses Slovakkias paarismängus poolfinaali",
+      "summary": "Slovakkias Trnavas toimuval World Tennis W75 turniiril jõudsid Elena Malõgina ja Briti mängija Alicia Dudeney paarismängu poolfinaali.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610201008/malogina-paases-slovakkias-paarismangus-poolfinaali",
+      "publishedAt": "2026-11-19T19:27:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Ukraina kaitsetööstus tutvustas Tallinnas oma sõjatehnoloogiat",
+      "summary": "Ukraina kaitsetööstus otsib Euroopast partnereid tootmise kasvatamiseks ja tehnoloogia-uuenduste kiirendamiseks.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610200969/ukraina-kaitsetoostus-tutvustas-tallinnas-oma-sojatehnoloogiat",
+      "publishedAt": "2026-11-19T19:27:00.000Z",
       "summaryMode": "rss"
     }
   ],
