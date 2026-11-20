@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-11-20T03:15:39.377Z",
+  "updatedAt": "2026-11-20T12:54:14.124Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Riigikohus otsustab, kas kevadistel valimistel saab esimest korda mobiiliga hääletada",
-      "summary": "Riigikohus hakkab arutama mobiiliga hääletamise lubamise üle kevadistel riigikogu valimistel. Kuigi vabariigi valimiskomisjon juba otsustas, et riigikogu valimistel saab esmakordselt hääletada ka mobiiliga, sõltub nüüd kõik riigikohtu otsusest.",
+      "title": "Voog: Keskerakonna toetus tõusis korruptsioonikomisjoni töö tuules",
+      "summary": "Keskerakonna reitingu tõusule aitas kaasa kaitsevaldkonna skandaalide uurimine riigikogu korruptsioonivastases erikomisjonis, mida juhib keskerakondlane Anastassia Kovalenko-Kõlvart, ütles ERR-i reitingute erisaates Emori uuringuekspert Aivar Voog.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610200999/riigikohus-otsustab-kas-kevadistel-valimistel-saab-esimest-korda-mobiiliga-haaletada",
-      "publishedAt": "2026-11-19T19:31:00.000Z",
+      "url": "https://www.err.ee/1610201575/voog-keskerakonna-toetus-tousis-korruptsioonikomisjoni-too-tuules",
+      "publishedAt": "2026-11-20T12:46:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Saksamaa veab plaani Tiktoki Euroopa haru enamusosaluse ostmiseks",
+      "summary": "Saksamaa kultuuriministri Wolfram Weimeri sõnul tunnevad investorid huvi Tiktoki Euroopa haru omandamise vastu ning on valmis maksma selle enamusosaluse eest 25 miljardit eurot.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610201668/saksamaa-veab-plaani-tiktoki-euroopa-haru-enamusosaluse-ostmiseks",
+      "publishedAt": "2026-11-20T12:42:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Unustamine on õppimise ja mälu kujunemise vajalik osa",
+      "summary": "Mälu toimimiseks ei piisa üksnes sündmuse kogemisest ja info talletamisest. Oluline roll on ka unustamisel, kordamisel ja meeldetuletamisel.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610201572/unustamine-on-oppimise-ja-malu-kujunemise-vajalik-osa",
+      "publishedAt": "2026-11-20T11:49:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR",
       "url": "https://www.err.ee/1610200936/anthropicu-turuvaartus-uletas-kahe-triljoni-dollari-piiri",
       "publishedAt": "2026-11-19T17:32:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Neidude koondis alustas kodust EEVZA turniiri raske võiduga",
-      "summary": "Eesti neidude U-16 võrkpallikoondis alustas neljapäeval Käärikul Ida-Euroopa Võrkpalliassotsiatsiooni (EEVZA) meistrivõistlusi kohtumisega Aserbaidžaani vastu ning sai raske 3:2 (25:15, 25:17, 21:25, 20:25, 15:10) võidu.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610201044/neidude-koondis-alustas-kodust-eevza-turniiri-raske-voiduga",
-      "publishedAt": "2026-11-19T21:35:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Kuukartul kasvab korralikult ja sünnib süüagi",
-      "summary": "Rahvalike keelendite põhjal võib ette kujutada, et kuu pealt on aeg-ajalt ikka kurgimüüjaid alla kukkunud. Aga kui nii edasi läheb, siis võib varsti Kuu pealt ka kartulimüüjaid tulema hakata.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610201035/kuukartul-kasvab-korralikult-ja-sunnib-suuagi",
-      "publishedAt": "2026-11-19T20:54:00.000Z",
       "summaryMode": "rss"
     }
   ],
