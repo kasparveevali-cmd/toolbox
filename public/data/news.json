@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-22T23:36:32.010Z",
+  "updatedAt": "2026-11-23T07:39:13.107Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Michal: droonirünnakutega Läänemerel tuleb harjuda ja nendeks valmis olla",
-      "summary": "Peaminister Kristen Michali sõnul tuleb Eestil olla valmis, et Ukraina ründab ka edaspidi Läänemerel Venemaa laevu.",
+      "title": "Narkole poja kaotanud ema: otsisin abi kõikjalt, aga Eestis seda lihtsalt ei leia",
+      "summary": "Kui ema Pille (nimi muudetud – toim.) sai aru, et tema teismelisel pojal on tõsine narkosõltuvus, püüdis ta abi otsida kõikjalt. Perearst, vaimse tervise õde, politsei, lastekaitse, haiglad: polnud ühtegi spetsialisti, kes oleks tema lapse sõltvuse küüsist päästmisega süvitsi tegelenud.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610203234/michal-droonirunnakutega-laanemerel-tuleb-harjuda-ja-nendeks-valmis-olla",
-      "publishedAt": "2026-11-22T21:05:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Mäsak: praegu on kusagil veel see veerandfinaali kaotusvalu",
-      "summary": "Usbekistanis toimunud judo juunioride maailmameistrivõistlustel pronksmedali teeninud Marek-Adrian Mäsak jõudis pühapäeval tagasi Eestisse. Järgmisteks eesmärkideks on osalemine täiskasvanute turniiridel ja pääsemine olümpiamängudele.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610203204/masak-praegu-on-kusagil-veel-see-veerandfinaali-kaotusvalu",
-      "publishedAt": "2026-11-22T21:48:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Kaukaasia eestlasi kimbutasid aastakümneid kohalikud hobusevargad",
-      "summary": "Kaukaasia eesti asunike kallid hobused sattusid korraga nii kohalike tavade kui ka kolonialismivastase viha märklauaks. Eesti Rahva Muuseumi vanemteaduri Aivar Jürgensoni ajakirjas Tuna ilmunud ülevaade näitab, et keisririigi võimud lahendasid vaid 5–10 protsenti hobusevargustest.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610203003/kaukaasia-eestlasi-kimbutasid-aastakumneid-kohalikud-hobusevargad",
-      "publishedAt": "2026-11-22T08:16:00.000Z",
+      "url": "https://www.err.ee/1610203327/narkole-poja-kaotanud-ema-otsisin-abi-koikjalt-aga-eestis-seda-lihtsalt-ei-leia",
+      "publishedAt": "2026-11-23T06:01:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Anthropicu turuväärtus ületas kahe triljoni dollari piiri",
-      "summary": "Tehisintellektiettevõtte Anthropicu turuväärtus ületas neljapäeval Nasdaqil toimunud börsidebüüdil kaks triljonit dollarit, vahendas Reuters.",
+      "title": "NYT: Nvidia skandaali keskmes olev Alice Huang hoidis sidet Hiina luurega",
+      "summary": "Ajalehe The New York Times andmetel suhtles Nvidia endise tegevjuhi Jensen Huangi armuke Alice Huang enam kui aasta vältel Hiina luureteenistuse ametnikuga.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610200936/anthropicu-turuvaartus-uletas-kahe-triljoni-dollari-piiri",
-      "publishedAt": "2026-11-19T17:32:00.000Z",
+      "url": "https://www.err.ee/1610203297/nyt-nvidia-skandaali-keskmes-olev-alice-huang-hoidis-sidet-hiina-luurega",
+      "publishedAt": "2026-11-23T05:14:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Yle: Venemaa laiendab Soome piiri lähedal asuvat sõjaväebaasi",
+      "summary": "Soome rahvusringhäälingu Yle satelliidipiltide analüüs näitab, et Venemaa alustas ulatuslikke ehitus- ja uuendustöid riigi idapiiri lähedal asuvas Kamenka sõjaväebaasis Karjala kannasel.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610203330/yle-venemaa-laiendab-soome-piiri-lahedal-asuvat-sojavaebaasi",
+      "publishedAt": "2026-11-23T06:02:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Alkoholi tervisemõjud ei sõltu ainult kogusest, vaid ka joogist",
+      "summary": "Kuigi levinud arvamuse kohaselt sõltub alkoholi mõju tervisele vaid kogusest, siis hiljutises uuringust selgus, et sama oluline on ka joogi valik.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610199136/alkoholi-tervisemojud-ei-soltu-ainult-kogusest-vaid-ka-joogist",
+      "publishedAt": "2026-11-23T07:23:00.000Z",
       "summaryMode": "rss"
     }
   ],
