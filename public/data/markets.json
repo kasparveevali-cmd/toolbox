@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:39:13.482Z",
+  "updatedAt": "2026-11-23T20:13:59.448Z",
   "indices": [
     {
       "id": "sp500",
@@ -8,7 +8,7 @@
       "close": 6910.39013671875,
       "changePct": -3.6990834302978337,
       "sessionDate": "2026-11-20",
-      "fetchedAt": "2026-11-23T07:39:13.480Z"
+      "fetchedAt": "2026-11-23T20:13:59.375Z"
     },
     {
       "id": "nasdaq100",
@@ -17,7 +17,7 @@
       "close": 25028.98046875,
       "changePct": -5.611748926287852,
       "sessionDate": "2026-11-20",
-      "fetchedAt": "2026-11-23T07:39:13.477Z"
+      "fetchedAt": "2026-11-23T20:13:59.446Z"
     },
     {
       "id": "dow",
@@ -26,25 +26,25 @@
       "close": 48147.328125,
       "changePct": -1.9343938230770075,
       "sessionDate": "2026-11-20",
-      "fetchedAt": "2026-11-23T07:39:13.465Z"
+      "fetchedAt": "2026-11-23T20:13:59.434Z"
     },
     {
       "id": "eurostoxx50",
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "close": 5941.9501953125,
-      "changePct": -2.811802557026355,
-      "sessionDate": "2026-11-20",
-      "fetchedAt": "2026-11-23T07:39:13.441Z"
+      "close": 6074.47021484375,
+      "changePct": 2.2302445354690503,
+      "sessionDate": "2026-11-23",
+      "fetchedAt": "2026-11-23T20:13:59.441Z"
     },
     {
       "id": "dax",
       "name": "DAX",
       "symbol": "^GDAXI",
-      "close": 24802.779296875,
-      "changePct": -2.5959635883370358,
-      "sessionDate": "2026-11-20",
-      "fetchedAt": "2026-11-23T07:39:13.468Z"
+      "close": 25337.26953125,
+      "changePct": 2.154961054878002,
+      "sessionDate": "2026-11-23",
+      "fetchedAt": "2026-11-23T20:13:59.445Z"
     },
     {
       "id": "nikkei225",
@@ -53,7 +53,7 @@
       "close": 56436.6484375,
       "changePct": -5.059470808960976,
       "sessionDate": "2026-11-20",
-      "fetchedAt": "2026-11-23T07:39:13.472Z"
+      "fetchedAt": "2026-11-23T20:13:59.440Z"
     },
     {
       "id": "omxtallinn",
@@ -62,7 +62,7 @@
       "close": 2240.360107421875,
       "changePct": -0.4514473108971129,
       "sessionDate": "2026-11-20",
-      "fetchedAt": "2026-11-23T07:39:13.474Z"
+      "fetchedAt": "2026-11-23T20:13:59.443Z"
     }
   ]
 }
