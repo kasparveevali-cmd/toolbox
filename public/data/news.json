@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T20:13:59.087Z",
+  "updatedAt": "2026-11-24T04:49:03.871Z",
   "items": [
     {
       "category": "Eesti",
@@ -12,29 +12,29 @@
     },
     {
       "category": "USA turud",
-      "title": "Nvidia ennistas Jensen Huangi tegevjuhi ametisse",
-      "summary": "Nvidia ennistas hiljuti tagasi astunud Jensen Huangi ettevõtte tegevjuhi ametisse.",
+      "title": "Majandusekspert: üldist AI võidujooksu Euroopal enam võita ei ole võimalik",
+      "summary": "USA majanduskasvust kaks kolmandikku tuleb viimastel kvartalitel tehisarusektorist, sõnas ettevõtte Avaron investeeringute juht Peter Priisalm \"Välisilmas\". Euroopa ei suuda üldist võidujooksu enam võita ning peab leidma oma tugevuse mõnes kitsamas AI-valdkonnas.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610203864/nvidia-ennistas-jensen-huangi-tegevjuhi-ametisse",
-      "publishedAt": "2026-11-23T14:16:00.000Z",
+      "url": "https://www.err.ee/1610204119/majandusekspert-uldist-ai-voidujooksu-euroopal-enam-voita-ei-ole-voimalik",
+      "publishedAt": "2026-11-23T20:25:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "ERR Lätis: peaminister Kulbergs tahab muuta riigijuhtimise odavamaks",
-      "summary": "Lätis parlamendivalimised võitnud Andris Kulbergs kutsus oma teise valitsusse palju parteituid oma ala asjatundjaid. Nelja aastaga peaks riigijuhtimine muutuma odavamaks ja maksutõusu plaanis pole. Rail Balticu ehitamine sõltub Euroopa rahastusest.",
+      "title": "Vene meedia: Soome lähedal kahjustada saanud Vene alus pukseeriti Peterburi",
+      "summary": "Soome lahel põlema süttinud Vene alus Sparta II õnnestus pukseerida Peterburi sadamasse, teatas esmaspäeval Vene meediakanal TASS, mida vahendas soomlaste uudisteagentuur STT.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610203924/err-latis-peaminister-kulbergs-tahab-muuta-riigijuhtimise-odavamaks",
-      "publishedAt": "2026-11-23T20:06:00.000Z",
+      "url": "https://www.err.ee/1610204638/vene-meedia-soome-lahedal-kahjustada-saanud-vene-alus-pukseeriti-peterburi",
+      "publishedAt": "2026-11-24T04:28:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "\"Teise mätta otsast\": katkiseks tembeldatud asjad vajavad lihtsalt hoolt",
-      "summary": "Vahepeal kadunud oskus asju parandada on internetitrendide mõjul taas populaarsust kogumas. Tegelikult pole enamik parandatavaid esemeid otseselt katki, vaid vajab väikest hoolt, osutasid etnoloog Tenno Teidearu ja disainer Marta Konovalov Vikeraadio saates \"Teise mätta otsast\".",
+      "title": "Kõrge usaldustasemega riigid on ka kõige enam arenenud",
+      "summary": "Kõrge inimarengu tasemega riikides on inimestel ka kõrgem usaldustase, selgub Eesti psühholoogide värskest teadustööst.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610203600/teise-matta-otsast-katkiseks-tembeldatud-asjad-vajavad-lihtsalt-hoolt",
-      "publishedAt": "2026-11-23T10:06:00.000Z",
+      "url": "https://novaator.err.ee/1610203507/korge-usaldustasemega-riigid-on-ka-koige-enam-arenenud",
+      "publishedAt": "2026-11-24T04:06:00.000Z",
       "summaryMode": "rss"
     }
   ],

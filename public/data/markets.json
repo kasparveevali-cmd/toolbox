@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-11-23T20:13:59.448Z",
+  "updatedAt": "2026-11-24T04:49:04.284Z",
   "indices": [
     {
       "id": "sp500",
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "close": 6910.39013671875,
-      "changePct": -3.6990834302978337,
-      "sessionDate": "2026-11-20",
-      "fetchedAt": "2026-11-23T20:13:59.375Z"
+      "close": 7237.169921875,
+      "changePct": 4.728818180899608,
+      "sessionDate": "2026-11-23",
+      "fetchedAt": "2026-11-24T04:49:04.283Z"
     },
     {
       "id": "nasdaq100",
       "name": "Nasdaq-100",
       "symbol": "^NDX",
-      "close": 25028.98046875,
-      "changePct": -5.611748926287852,
-      "sessionDate": "2026-11-20",
-      "fetchedAt": "2026-11-23T20:13:59.446Z"
+      "close": 26746.095703125,
+      "changePct": 6.860508107866825,
+      "sessionDate": "2026-11-23",
+      "fetchedAt": "2026-11-24T04:49:04.279Z"
     },
     {
       "id": "dow",
       "name": "Dow Jones",
       "symbol": "^DJI",
-      "close": 48147.328125,
-      "changePct": -1.9343938230770075,
-      "sessionDate": "2026-11-20",
-      "fetchedAt": "2026-11-23T20:13:59.434Z"
+      "close": 49595.30859375,
+      "changePct": 3.0073952701814566,
+      "sessionDate": "2026-11-23",
+      "fetchedAt": "2026-11-24T04:49:04.238Z"
     },
     {
       "id": "eurostoxx50",
@@ -35,7 +35,7 @@
       "close": 6074.47021484375,
       "changePct": 2.2302445354690503,
       "sessionDate": "2026-11-23",
-      "fetchedAt": "2026-11-23T20:13:59.441Z"
+      "fetchedAt": "2026-11-24T04:49:04.269Z"
     },
     {
       "id": "dax",
@@ -44,7 +44,7 @@
       "close": 25337.26953125,
       "changePct": 2.154961054878002,
       "sessionDate": "2026-11-23",
-      "fetchedAt": "2026-11-23T20:13:59.445Z"
+      "fetchedAt": "2026-11-24T04:49:04.275Z"
     },
     {
       "id": "nikkei225",
@@ -53,16 +53,16 @@
       "close": 56436.6484375,
       "changePct": -5.059470808960976,
       "sessionDate": "2026-11-20",
-      "fetchedAt": "2026-11-23T20:13:59.440Z"
+      "fetchedAt": "2026-11-24T04:49:04.272Z"
     },
     {
       "id": "omxtallinn",
       "name": "OMX Tallinn",
       "symbol": "^OMXTGI",
-      "close": 2240.360107421875,
-      "changePct": -0.4514473108971129,
-      "sessionDate": "2026-11-20",
-      "fetchedAt": "2026-11-23T20:13:59.443Z"
+      "close": 2232.7099609375,
+      "changePct": -0.34146950122132536,
+      "sessionDate": "2026-11-23",
+      "fetchedAt": "2026-11-24T04:49:04.267Z"
     }
   ]
 }
