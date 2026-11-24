@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-11-24T04:49:03.871Z",
+  "updatedAt": "2026-11-24T17:45:43.280Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Eesti päästab vajadusel ka Soome lahes tabamuse saanud Vene laevu",
-      "summary": "Kuigi pärast Venemaa laeva ründamist nädalavahetusel pole ohuhinnang Soome lahele muutunud, tuleb valitsuse hinnangul valmis olla, et Ukraina drooniründed võivad korduda. Kui järgmine rünnak peaks toimuma Eesti vetes, sekkuvad vajadusel merevägi, politsei ja Soome liitlased.",
+      "title": "Poliitikud on andmekeskuste elektrivajaduse katmises eri meelt",
+      "summary": "Eleringi andmetel on andmekeskuste rajamiseks Eestisse esitatud seitse liitumistaotlust kokku 2900 megavati ulatuses, mis ületab oluliselt Eesti praegust tiputarbimist. Poliitikutel on erinevad ettekujutused, kuidas andmekeskuste elektrivajadust katta.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610204041/eesti-paastab-vajadusel-ka-soome-lahes-tabamuse-saanud-vene-laevu",
-      "publishedAt": "2026-11-23T19:11:00.000Z",
+      "url": "https://www.err.ee/1610204905/poliitikud-on-andmekeskuste-elektrivajaduse-katmises-eri-meelt",
+      "publishedAt": "2026-11-24T14:27:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Luik: Venemaa ähvardus Eesti suunal on lihtsalt abitu vihahoog",
+      "summary": "Venemaa sõjaähvardus Eesti piirisulgemise peale on abitu vihahoog, millega Moskva juhib tähelepanu kõrvale relvatehaste süütamiskatsetelt Euroopas, tõdes endine saadik NATO juures Jüri Luik \"Ringvaates\".",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610205325/luik-venemaa-ahvardus-eesti-suunal-on-lihtsalt-abitu-vihahoog",
+      "publishedAt": "2026-11-24T17:32:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Tõnu Viik: kuidas noorte põlvkond valitsuse käest pügada sai",
+      "summary": "Noortel on tuleval suvel veel raskem ülikooli pääseda kui tänavu. Nende põlvkond on senisest suurem, aga valitsus õppekohtade juurde loomiseks raha ei leia. Pole vist muud öelda, kui et riigi vaatest on see üks kehv lugu, et Eesti 2020. aastate noori nii palju on, kirjutab Tõnu Viik.",
+      "source": "ERR Novaator",
+      "url": "https://www.err.ee/1610204836/tonu-viik-kuidas-noorte-polvkond-valitsuse-kaest-pugada-sai",
+      "publishedAt": "2026-11-24T12:36:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR",
       "url": "https://www.err.ee/1610204119/majandusekspert-uldist-ai-voidujooksu-euroopal-enam-voita-ei-ole-voimalik",
       "publishedAt": "2026-11-23T20:25:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Vene meedia: Soome lähedal kahjustada saanud Vene alus pukseeriti Peterburi",
-      "summary": "Soome lahel põlema süttinud Vene alus Sparta II õnnestus pukseerida Peterburi sadamasse, teatas esmaspäeval Vene meediakanal TASS, mida vahendas soomlaste uudisteagentuur STT.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610204638/vene-meedia-soome-lahedal-kahjustada-saanud-vene-alus-pukseeriti-peterburi",
-      "publishedAt": "2026-11-24T04:28:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Kõrge usaldustasemega riigid on ka kõige enam arenenud",
-      "summary": "Kõrge inimarengu tasemega riikides on inimestel ka kõrgem usaldustase, selgub Eesti psühholoogide värskest teadustööst.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610203507/korge-usaldustasemega-riigid-on-ka-koige-enam-arenenud",
-      "publishedAt": "2026-11-24T04:06:00.000Z",
       "summaryMode": "rss"
     }
   ],
