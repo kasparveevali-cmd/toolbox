@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-25T02:29:59.896Z",
+  "updatedAt": "2026-11-25T14:22:43.597Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Tubakaseaduse muudatuseelnõu jõuab riigikogusse leebemate piirangutega",
-      "summary": "Valitsus saadab tubakaseaduse muudatuseelnõu riigikogusse suvisest versioonist leebemate piirangutega. Justiitsminister tahab muuta nikotiinipatju lahjemaks, et kaitsta noorte tervist. Rahandusminister ja tubakamüüjad leiavad, et liiga ranged piirid soodustavad musta turu kasvu.",
+      "title": "Tallinn Pärnu maantee rekonstrueerimisel arhitektide ettepanekutega ei arvestanud",
+      "summary": "Arhitektide liit on Tallinna linnale teinud mitu ettepanekut, et muuta Pärnu maantee rekonstrueerimise projekti. Linn aga arhitektide liitu ettepanekuid pole kuulda võtnud.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610205352/tubakaseaduse-muudatuseelnou-jouab-riigikogusse-leebemate-piirangutega",
-      "publishedAt": "2026-11-24T19:16:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Euroopa Liit plaanib keelata Vene sportlastel oma riigilipu all võistlemise",
-      "summary": "Euroopa Liit plaanib keelata vene sportlastel oma riigilipu all võistlemise. Praegu sõltub see spordialaliitudest, millest osad on taas lubanud Venemaa lipu oma võistlustele.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610205379/euroopa-liit-plaanib-keelata-vene-sportlastel-oma-riigilipu-all-voistlemise",
-      "publishedAt": "2026-11-24T19:37:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Tõnu Viik: kuidas noorte põlvkond valitsuse käest pügada sai",
-      "summary": "Noortel on tuleval suvel veel raskem ülikooli pääseda kui tänavu. Nende põlvkond on senisest suurem, aga valitsus õppekohtade juurde loomiseks raha ei leia. Pole vist muud öelda, kui et riigi vaatest on see üks kehv lugu, et Eesti 2020. aastate noori nii palju on, kirjutab Tõnu Viik.",
-      "source": "ERR Novaator",
-      "url": "https://www.err.ee/1610204836/tonu-viik-kuidas-noorte-polvkond-valitsuse-kaest-pugada-sai",
-      "publishedAt": "2026-11-24T12:36:00.000Z",
+      "url": "https://www.err.ee/1610206375/tallinn-parnu-maantee-rekonstrueerimisel-arhitektide-ettepanekutega-ei-arvestanud",
+      "publishedAt": "2026-11-25T14:02:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Majandusekspert: üldist AI võidujooksu Euroopal enam võita ei ole võimalik",
-      "summary": "USA majanduskasvust kaks kolmandikku tuleb viimastel kvartalitel tehisarusektorist, sõnas ettevõtte Avaron investeeringute juht Peter Priisalm \"Välisilmas\". Euroopa ei suuda üldist võidujooksu enam võita ning peab leidma oma tugevuse mõnes kitsamas AI-valdkonnas.",
+      "title": "Ukraina droonid ründasid kahte Venemaa naftatöötlemistehast",
+      "summary": "Ukraina väed ründasid ööl vastu kolmapäeva ulatusliku droonirünnaku käigus kahte Venemaa naftatöötlemistehast. Kaks Liibüa sõdurit surid haavadesse, mille nad said Ukraina rünnakus Vene laevade vastu.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610204119/majandusekspert-uldist-ai-voidujooksu-euroopal-enam-voita-ei-ole-voimalik",
-      "publishedAt": "2026-11-23T20:25:00.000Z",
+      "url": "https://www.err.ee/1610205841/ukraina-droonid-rundasid-kahte-venemaa-naftatootlemistehast",
+      "publishedAt": "2026-11-25T03:16:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "WSJ: Stubb ja Støre võtsid Vene oligarhi abil ühendust Putiniga",
+      "summary": "Ajaleht The Wall Street Journal teatas, et Soome president Alexander Stubb ja Norra peaminister Jonas Gahr Støre võtsid oktoobris Vene oligarhi vahendusel ühendust Vladimir Putiniga. Väidetavalt proovisid Stubb ja Støre otsekontaktis Putiniga maandada pingeid Läänemerel.",
+      "source": "ERR",
+      "url": "https://www.err.ee/1610206393/wsj-stubb-ja-st-re-votsid-vene-oligarhi-abil-uhendust-putiniga",
+      "publishedAt": "2026-11-25T14:14:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Balti riikide Venemaa-poliitikat ei saa taandada ajaloolisele traumale",
+      "summary": "Lääne julgeolekuaruteludes kuuleb üha sagedamini väidet, et Balti riikide jäik Venemaa-poliitika võib tõmmata liitlased sõtta. Ajaloolase Kaarel Piirimäe hinnangul meenutab osa neist käsitlustest 19. sajandi mõtteviisi, mille järgi otsustavad väikeriikide saatuse üle suurriigid.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610206231/balti-riikide-venemaa-poliitikat-ei-saa-taandada-ajaloolisele-traumale",
+      "publishedAt": "2026-11-25T12:12:00.000Z",
       "summaryMode": "rss"
     }
   ],
