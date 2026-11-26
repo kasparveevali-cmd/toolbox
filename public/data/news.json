@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-26T00:21:09.684Z",
+  "updatedAt": "2026-11-26T10:54:44.358Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Helme: suurriikide kokkulepe vähendab sõjaohtu",
-      "summary": "Eesti Konservatiivse Rahvaerakonna (EKRE) esimehe Martin Helme näeb suurriikide liidrite kohtumises Hiinas Eestile positiivset märki kolmanda maailmasõja ärahoidmiseks, kuid rõhutab vajadust keskenduda enam hübriidohtudele.",
+      "title": "Tallinna lennujaamas tahtis rebane jänest sõita",
+      "summary": "Tallinna lennujaama sisenes eelmisel nädalal rebane, kes püüti päästjate poolt kinni ja vabastati loodusesse.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610206567/helme-suurriikide-kokkulepe-vahendab-sojaohtu",
-      "publishedAt": "2026-11-25T20:24:00.000Z",
+      "url": "https://www.err.ee/1610207143/tallinna-lennujaamas-tahtis-rebane-janest-soita",
+      "publishedAt": "2026-11-26T09:31:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "USA avalikustas ettepaneku kehtestada tollid 14 majandusele",
-      "summary": "USA avalikustas kolmapäeval ettepaneku kehtestada tollitariifid 14 majandusele, sealhulgas Euroopa Liidule ja Hiinale.",
+      "title": "EL-i aruanne: Iraani sõda oli kingitus Venemaa energiaekspordile",
+      "summary": "Euroopa Komisjoni aruanne kinnitab, et USA alustatud sõda Iraanis ja sekkumine Venezuelas pöörasid ümber langustrendi Venemaa naftaekspordi tuludes.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610206438/usa-avalikustas-ettepaneku-kehtestada-tollid-14-majandusele",
-      "publishedAt": "2026-11-25T15:06:00.000Z",
+      "url": "https://www.err.ee/1610206762/el-i-aruanne-iraani-soda-oli-kingitus-venemaa-energiaekspordile",
+      "publishedAt": "2026-11-26T06:18:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Maailm / Euroopa",
-      "title": "PSG kaotas Meistrite liigas esimesed punktid",
-      "summary": "Pariisi Saint-Germain viigistas Euroopa Meistrite liigas kodus AS Romaga 2:2 ja loovutas esimest korda sel hooajal punkte.",
+      "title": "Viljandi folk kuulutas välja esimesed artistid",
+      "summary": "XXXIV Viljandi pärimusmuusika festival avalikustas esimesed kuus esinejat, kelle seas on nii Eesti kui ka Soome, Šoti ja Läti artiste.",
       "source": "ERR",
-      "url": "https://sport.err.ee/1610206576/psg-kaotas-meistrite-liigas-esimesed-punktid",
-      "publishedAt": "2026-11-25T22:04:00.000Z",
+      "url": "https://kultuur.err.ee/1610207251/viljandi-folk-kuulutas-valja-esimesed-artistid",
+      "publishedAt": "2026-11-26T10:33:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "Varia",
-      "title": "Balti riikide Venemaa-poliitikat ei saa taandada ajaloolisele traumale",
-      "summary": "Lääne julgeolekuaruteludes kuuleb üha sagedamini väidet, et Balti riikide jäik Venemaa-poliitika võib tõmmata liitlased sõtta. Ajaloolase Kaarel Piirimäe hinnangul meenutab osa neist käsitlustest 19. sajandi mõtteviisi, mille järgi otsustavad väikeriikide saatuse üle suurriigid.",
+      "title": "Algoritm aitab püsimetsa majandada",
+      "summary": "Milline puu võtta ja milline jätta? Eesti Maaülikooli teadlased töötasid välja arvutialgoritmi, mis oskab teha püsimetsakasvatuse katsealal raieotsuseid inimese asemel.",
       "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610206231/balti-riikide-venemaa-poliitikat-ei-saa-taandada-ajaloolisele-traumale",
-      "publishedAt": "2026-11-25T12:12:00.000Z",
+      "url": "https://novaator.err.ee/1610207209/algoritm-aitab-pusimetsa-majandada",
+      "publishedAt": "2026-11-26T09:55:00.000Z",
       "summaryMode": "rss"
     }
   ],
