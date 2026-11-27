@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T04:15:37.535Z",
+  "updatedAt": "2026-11-27T13:57:05.183Z",
   "indices": [
     {
       "id": "sp500",
@@ -8,7 +8,7 @@
       "close": 7182.77978515625,
       "changePct": -0.2542678815435351,
       "sessionDate": "2026-11-25",
-      "fetchedAt": "2026-11-27T04:15:37.531Z"
+      "fetchedAt": "2026-11-27T13:57:05.138Z"
     },
     {
       "id": "nasdaq100",
@@ -17,7 +17,7 @@
       "close": 26046.900390625,
       "changePct": -0.6380882238442243,
       "sessionDate": "2026-11-25",
-      "fetchedAt": "2026-11-27T04:15:37.533Z"
+      "fetchedAt": "2026-11-27T13:57:05.131Z"
     },
     {
       "id": "dow",
@@ -26,7 +26,7 @@
       "close": 50182.94921875,
       "changePct": 0.32837719206106897,
       "sessionDate": "2026-11-25",
-      "fetchedAt": "2026-11-27T04:15:37.534Z"
+      "fetchedAt": "2026-11-27T13:57:05.117Z"
     },
     {
       "id": "eurostoxx50",
@@ -35,7 +35,7 @@
       "close": 6014.740234375,
       "changePct": 2.0405647715752595,
       "sessionDate": "2026-11-26",
-      "fetchedAt": "2026-11-27T04:15:37.532Z"
+      "fetchedAt": "2026-11-27T13:57:05.133Z"
     },
     {
       "id": "dax",
@@ -44,25 +44,25 @@
       "close": 25215.51953125,
       "changePct": 2.0783173516391473,
       "sessionDate": "2026-11-26",
-      "fetchedAt": "2026-11-27T04:15:37.528Z"
+      "fetchedAt": "2026-11-27T13:57:05.126Z"
     },
     {
       "id": "nikkei225",
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "close": 57499.16015625,
-      "changePct": 0.8551573401119228,
-      "sessionDate": "2026-11-26",
-      "fetchedAt": "2026-11-27T04:15:37.530Z"
+      "close": 58711.109375,
+      "changePct": 2.1077685577608696,
+      "sessionDate": "2026-11-27",
+      "fetchedAt": "2026-11-27T13:57:05.079Z"
     },
     {
       "id": "omxtallinn",
       "name": "OMX Tallinn",
       "symbol": "^OMXTGI",
-      "close": 2226.349853515625,
-      "changePct": 0.028300182448415256,
-      "sessionDate": "2026-11-26",
-      "fetchedAt": "2026-11-27T04:15:37.499Z"
+      "close": 2225.719970703125,
+      "changePct": -0.43125654281575,
+      "sessionDate": "2026-11-25",
+      "fetchedAt": "2026-11-27T13:57:05.182Z"
     }
   ]
 }

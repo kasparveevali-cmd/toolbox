@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-11-27T04:15:37.181Z",
+  "updatedAt": "2026-11-27T13:57:04.870Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Akkermann: saime Isamaaga kokkuleppele veebikasiinode maksusoodustuse muutmiseks",
-      "summary": "Riigikogu rahanduskomisjoni esimees Annely Akkermann (RE) ütles, et kavatseb Isamaaga ühendada eelnõud hasartmängumaksu seaduse muutmiseks, et Eesti 200 eestveetud hasartmängumaksu määrade edasi langetamine jääks ära. Isamaa esimehe Urmas Reinsalu sõnul fraktsioon veel arutab seda ettepanekut.",
+      "title": "Riigikohus tühistas otsuse korraldada mobiiliga hääletamine",
+      "summary": "Riigikohus tühistas vabariigi valimiskomisjoni otsuse, millega oleks saanud 2027. aasta riigikogu valimistel hääletada mobiilseadmetega.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610207533/akkermann-saime-isamaaga-kokkuleppele-veebikasiinode-maksusoodustuse-muutmiseks",
-      "publishedAt": "2026-11-26T14:19:00.000Z",
+      "url": "https://www.err.ee/1610208787/riigikohus-tuhistas-otsuse-korraldada-mobiiliga-haaletamine",
+      "publishedAt": "2026-11-27T09:27:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "Sindarov pidas Gukeshi survele vastu ja tiitlimatši kolmas partii lõppes samuti viigiga",
+      "summary": "Genfis toimuv male maailmameistrivõistluste tiitlimatš jätkus ka kolmandas partiis viigilainel. Valitsev maailmameister Gukesh Dommaraju (India) ja väljakutsuja Javohir Sindarov (Usbekistan) läksid esimesele puhkepäevale seisult 1,5:1,5.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610208853/sindarov-pidas-gukeshi-survele-vastu-ja-tiitlimatsi-kolmas-partii-loppes-samuti-viigiga",
+      "publishedAt": "2026-11-27T13:47:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Haruldane geenivariant võib vähendada inimese pikkust kuni 17 sentimeetrit",
+      "summary": "Üksainus haruldane geenimutatsioon võib kahandada täiskasvanu kasvu ligi 17 sentimeetri võrra või lisada sellele 11 sentimeetrit, selgub 1,45 miljoni inimese geeniuuringust. Haruldased valke muutvad geenivariandid selgitavad ühtlasi ligi neli protsenti täiskasvanute pikkuse erinevustest.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610209102/haruldane-geenivariant-voib-vahendada-inimese-pikkust-kuni-17-sentimeetrit",
+      "publishedAt": "2026-11-27T12:08:00.000Z",
       "summaryMode": "rss"
     },
     {
@@ -17,24 +35,6 @@
       "source": "ERR",
       "url": "https://www.err.ee/1610208436/times-iraani-voimukoridorides-kaib-age-voitlus-hiina-naftaraha-parast",
       "publishedAt": "2026-11-26T17:25:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "Zelenski: Starshieldi piirangud pärsivad endiselt Ukraina droonikaitset",
-      "summary": "USA pakutava satelliitside süsteemi Starshield piirangud takistavad jätkuvalt Ukrainal Venemaa ründedroone tõrjumast, ütles president Volodõmõr Zelenski intervjuus BBC-le.",
-      "source": "ERR",
-      "url": "https://www.err.ee/1610208652/zelenski-starshieldi-piirangud-parsivad-endiselt-ukraina-droonikaitset",
-      "publishedAt": "2026-11-27T03:14:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "Algoritm aitab püsimetsa majandada",
-      "summary": "Milline puu võtta ja milline jätta? Eesti Maaülikooli teadlased töötasid välja arvutialgoritmi, mis oskab teha püsimetsakasvatuse katsealal raieotsuseid inimese asemel.",
-      "source": "ERR Novaator",
-      "url": "https://novaator.err.ee/1610207209/algoritm-aitab-pusimetsa-majandada",
-      "publishedAt": "2026-11-26T09:55:00.000Z",
       "summaryMode": "rss"
     }
   ],
