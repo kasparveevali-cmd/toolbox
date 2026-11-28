@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-27T22:43:01.430Z",
+  "updatedAt": "2026-11-28T07:49:40.465Z",
   "items": [
     {
       "category": "Eesti",
-      "title": "Ümarmudil on Eestis tõusnud räime järel enim püütud kalaks",
-      "summary": "Paarikümne aasta eest Eesti vetesse jõudnud ümarmudil on rahvuskala räime järel tõusnud teiseks kõige enam püütud kalaks. Kalurite kinnitusel on kala maitse suurepärane, aga eestlased seda süüa ei julge, sest välja näeb ta kole.",
+      "title": "Värk: kui tahame ennast mereriigiks pidada, siis päästame ka vaenlase elu",
+      "summary": "Eesti peab merel hädasolijad päästma isegi siis, kui Venemaa kaubalaev võib vedada relvi Ukraina vastu. Eesti mereväe ülem kommodoor Ivo Värk rõhutas \"Reedeses intervjuus\", et rahvusvahelised lepingud ja konventsioonid kohustavad merel iga inimelu hoidma.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610209363/umarmudil-on-eestis-tousnud-raime-jarel-enim-puutud-kalaks",
-      "publishedAt": "2026-11-27T19:30:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Maailm / Euroopa",
-      "title": "\"Spordipühapäev\" uurib, kuidas saab tehisaru spordis ära kasutada",
-      "summary": "Vikerraadio saates \"Spordipühapäev\" tuleb sel nädalal juttu Venemaa sportlaste rahvusvahelisele areenile naasmisest, aga ka tehisarust.",
-      "source": "ERR",
-      "url": "https://sport.err.ee/1610209441/spordipuhapaev-uurib-kuidas-saab-tehisaru-spordis-ara-kasutada",
-      "publishedAt": "2026-11-27T20:42:00.000Z",
-      "summaryMode": "rss"
-    },
-    {
-      "category": "Varia",
-      "title": "\"Eesti muinasjuttude\" lavastaja: otsime midagi seikluslikku ja muinasjutulist",
-      "summary": "Noorsooteater toob jõuludeks välja lastelavastuse \"Eesti muinasjutud\", mille aluseks on neli lugu Friedrich Reinhold Kreutzwaldi koostatud kogumikust \"Eesti rahva ennemuistsed jutud\".",
-      "source": "ERR",
-      "url": "https://kultuur.err.ee/1610209315/eesti-muinasjuttude-lavastaja-otsime-midagi-seikluslikku-ja-muinasjutulist",
-      "publishedAt": "2026-11-27T16:10:00.000Z",
+      "url": "https://www.err.ee/1610209852/vark-kui-tahame-ennast-mereriigiks-pidada-siis-paastame-ka-vaenlase-elu",
+      "publishedAt": "2026-11-28T04:38:00.000Z",
       "summaryMode": "rss"
     },
     {
       "category": "USA turud",
-      "title": "Times: Iraani võimukoridorides käib äge võitlus Hiina naftaraha pärast",
-      "summary": "Ajaleht The Times kirjutab, et Iraani majanduslik olukord muutub üha keerulisemaks ning riik sõltub suuresti Hiinasse suunatavast naftamüügist. Uuriva ajakirjaniku Yashar Soltani sõnul kontrollivad seda äri praegu Iraani revolutsioonilise kaardiväega (IRGC) seotud ametnikud ja ärivõrgustikud.",
+      "title": "Ukraina ründas Samara oblasti naftataristut",
+      "summary": "Venemaal Samara oblastis puhkes Samara nafta liinitootmis- ja dispetšerjaamas Ukraina droonirünnaku järel ulatuslik tulekahju. Ööl vastu 28. novembrit ründas Ukraina droonidega ka Venemaa Rostovi oblastit ja tabas esialgsetel andmetel Novošahtinski naftatöötlemistehase lähiümbrust.",
       "source": "ERR",
-      "url": "https://www.err.ee/1610208436/times-iraani-voimukoridorides-kaib-age-voitlus-hiina-naftaraha-parast",
-      "publishedAt": "2026-11-26T17:25:00.000Z",
+      "url": "https://www.err.ee/1610209855/ukraina-rundas-samara-oblasti-naftataristut",
+      "publishedAt": "2026-11-28T05:00:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Maailm / Euroopa",
+      "title": "TÄNA OTSE | Kuidas läheb Ermitsal ja Zahknal paarissegateatesõidus?",
+      "summary": "Laskesuusatamise MK-hooaja avaetapp Soomes Kontiolahtis jätkub täna paarissegateatesõiduga. Otseülekanne algab ETV-s ja ERR-i spordiportaalis kell 14.00. Võistlust kommenteerivad Alvar Tiisler ja Margus Ader, kohapealt vahendab muljeid Hanna Hinsberg.",
+      "source": "ERR",
+      "url": "https://sport.err.ee/1610209882/tana-otse-kuidas-laheb-ermitsal-ja-zahknal-paarissegateatesoidus",
+      "publishedAt": "2026-11-28T07:42:00.000Z",
+      "summaryMode": "rss"
+    },
+    {
+      "category": "Varia",
+      "title": "Professor: vandenõuteooriat paneb uskuma halb kogemus süsteemiga",
+      "summary": "Vandenõuteooriad levivad kriisi ajal kergesti. Riik ja ametkonnad võiksid sel juhul ausalt tunnistada, kui ka nemad veel segasel ajal veel kõike ei tea.",
+      "source": "ERR Novaator",
+      "url": "https://novaator.err.ee/1610206891/professor-vandenouteooriat-paneb-uskuma-halb-kogemus-susteemiga",
+      "publishedAt": "2026-11-28T05:40:00.000Z",
       "summaryMode": "rss"
     }
   ],
